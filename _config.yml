@@ -1,0 +1,11 @@
+title: New Grad Space and Aerospace Jobs
+description: Every open entry-level job at space companies for 2026 and 2027 graduates (SpaceX, Blue Origin, Rocket Lab, Lockheed Martin and more), updated daily by SpaceJobs.Now.
+theme: jekyll-theme-primer
+url: https://spacejobsnow.github.io
+baseurl: /New-Grad-Space-Jobs
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+exclude:
+  - scripts
