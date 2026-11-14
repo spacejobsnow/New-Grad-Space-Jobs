@@ -4,18 +4,74 @@
  "updated": "2026-11-14",
  "jobs": [
   {
-   "company": "United Launch Alliance",
-   "title": "Cost Analyst 1",
-   "location": "Centennial, CO",
+   "company": "True Anomaly",
+   "title": "Content Producer, Social",
+   "location": "Denver, CO",
    "in_us": true,
    "states": [
     "CO"
    ],
-   "pay": "$57,550\u2013$95,916/yr",
+   "pay": "$65,000\u2013$120,000/yr",
+   "term": null,
+   "field": "business-programs",
+   "posted": "2026-11-14",
+   "url": "https://spacejobs.now/jobs/true-anomaly/content-producer-social?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Viasat",
+   "title": "Information Security Specialist, Early Career",
+   "location": "Carlsbad, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$75,000\u2013$118,000/yr",
+   "term": null,
+   "field": "ground-software",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/viasat/information-security-specialist-early-career?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Relativity Space",
+   "title": "Vehicle Structures Engineer I - 2026 Graduate",
+   "location": "Long Beach, California",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$90,000\u2013$136,000/yr",
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Frontgrade Technologies",
+   "title": "Production Test Technician I, 2nd Shift",
+   "location": "Carlsbad, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "manufacturing",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/frontgrade/production-test-technician-i-2nd-shift?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Vast",
+   "title": "Compensation Analyst I",
+   "location": "Long Beach, California",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$32\u2013$45/hr",
    "term": null,
    "field": "business-programs",
    "posted": "2026-11-13",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/cost-analyst-1?utm_source=github&utm_medium=new-grad-list"
+   "url": "https://spacejobs.now/jobs/vast/compensation-analyst-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "BAE Systems Space & Mission Systems",
@@ -62,17 +118,16 @@
   {
    "company": "Lockheed Martin",
    "title": "Software Engineer - Early Career",
-   "location": "King of Prussia, PA and 7 more",
+   "location": "King of Prussia, PA and 6 more",
    "in_us": true,
    "states": [
     "PA",
     "CO",
     "TX",
     "AL",
-    "MD",
-    "CA"
+    "MD"
    ],
-   "pay": "$67,000\u2013$155,500/yr",
+   "pay": "$67,000\u2013$140,000/yr",
    "term": null,
    "field": "ground-software",
    "posted": "2026-11-12",
@@ -81,11 +136,10 @@
   {
    "company": "Lockheed Martin",
    "title": "Software Engineer Asc - Early Career",
-   "location": "King of Prussia, PA and 1 more",
+   "location": "King of Prussia, PA",
    "in_us": true,
    "states": [
-    "PA",
-    "VA"
+    "PA"
    ],
    "pay": "$75,400\u2013$140,000/yr",
    "term": null,
@@ -136,6 +190,76 @@
    "url": "https://spacejobs.now/jobs/spacex/new-graduate-engineer-aerospace-software-starfall?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "Lockheed Martin",
+   "title": "FBM Early Career Rotation Program",
+   "location": "Cape Canaveral, FL",
+   "in_us": true,
+   "states": [
+    "FL"
+   ],
+   "pay": "$58,200\u2013$108,200/yr",
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-12",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/fbm-early-career-rotation-program?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "FBM Early Career Rotation Program - Early Career",
+   "location": "Englewood, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$65,500\u2013$121,700/yr",
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-12",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/fbm-early-career-rotation-program-early-career?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Systems Engineer Associate - Early Career",
+   "location": "Huntsville, AL and 2 more",
+   "in_us": true,
+   "states": [
+    "AL",
+    "PA",
+    "CO"
+   ],
+   "pay": "$58,200\u2013$121,700/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-11-12",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Electromechanical Field Engineer - Graduate / Entry Level",
+   "location": "Helensburgh, United Kingdom",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-12",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/electromechanical-field-engineer-graduate-entry-level?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Electro Mechanical Engineer Asc - Early Career",
+   "location": "Englewood, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$65,500\u2013$121,700/yr",
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-12",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/electro-mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "Iridium",
    "title": "Network Control Specialist I",
    "location": "Tempe, AZ",
@@ -152,7 +276,7 @@
   {
    "company": "Lockheed Martin",
    "title": "Mechanical Engineer Asc - Early Career",
-   "location": "Littleton, CO and 1 more",
+   "location": "Littleton, CO",
    "in_us": true,
    "states": [
     "CO"
@@ -241,7 +365,7 @@
    ],
    "pay": null,
    "term": null,
-   "field": "launch-mission-ops",
+   "field": "systems-test",
    "posted": "2026-11-12",
    "url": "https://spacejobs.now/jobs/firefly-aerospace/launch-vehicle-integration-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
@@ -331,20 +455,6 @@
    "url": "https://spacejobs.now/jobs/ast-spacemobile/2nd-shift-technician-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "AST SpaceMobile",
-   "title": "RF Test Engineer I",
-   "location": "Dallas, Texas",
-   "in_us": true,
-   "states": [
-    "TX"
-   ],
-   "pay": "$88,000\u2013$93,000/yr",
-   "term": null,
-   "field": "rf-communications",
-   "posted": "2026-11-11",
-   "url": "https://spacejobs.now/jobs/ast-spacemobile/rf-test-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Relativity Space",
    "title": "Vehicle Fluids Hardware Development Engineer I",
    "location": "Long Beach, California",
@@ -427,48 +537,6 @@
    "field": "manufacturing",
    "posted": "2026-11-10",
    "url": "https://spacejobs.now/jobs/ast-spacemobile/technician-i-3rd-shift-20703-mli?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Mechanical Design Engineer 1",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$67,895\u2013$113,159/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-10",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/mechanical-design-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Thermodynamics Engineer 1",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$70,952\u2013$118,253/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-10",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Prop Systems Design Engineer 1",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$70,952\u2013$118,253/yr",
-   "term": null,
-   "field": "propulsion",
-   "posted": "2026-11-10",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/prop-systems-design-engineer-1?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "SES",
@@ -662,20 +730,6 @@
    "field": "manufacturing",
    "posted": "2026-11-09",
    "url": "https://spacejobs.now/jobs/us-space-force/powered-support-systems-mechanic-supervisor?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Sierra Lobo",
-   "title": "Jr. Electrical Engineering Technician",
-   "location": "Milan, OH",
-   "in_us": true,
-   "states": [
-    "OH"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "manufacturing",
-   "posted": "2026-11-09",
-   "url": "https://spacejobs.now/jobs/sierra-lobo/jr-electrical-engineering-technician?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Barrios Technology",
@@ -1618,13 +1672,12 @@
   {
    "company": "Lockheed Martin",
    "title": "Satellite Mission Engr Asc - Early Career",
-   "location": "White Sands Missile Range, NM and 1 more",
+   "location": "White Sands Missile Range, NM",
    "in_us": true,
    "states": [
-    "NM",
-    "VA"
+    "NM"
    ],
-   "pay": "$58,200\u2013$121,700/yr",
+   "pay": "$58,200\u2013$108,200/yr",
    "term": null,
    "field": "launch-mission-ops",
    "posted": "2026-11-02",
@@ -1780,20 +1833,6 @@
   },
   {
    "company": "BAE Systems Space & Mission Systems",
-   "title": "Engineer I \u2013 Mechanical Ground Support Equipment (MGSE)",
-   "location": "Boulder, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$64,926\u2013$110,374/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/bae-systems-space/engineer-i-mechanical-ground-support-equipment-mgse?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "BAE Systems Space & Mission Systems",
    "title": "Project Engineer I - Space Communications",
    "location": "Boulder, CO",
    "in_us": true,
@@ -1908,20 +1947,6 @@
   },
   {
    "company": "Iridium",
-   "title": "IT Services Specialist I",
-   "location": "McLean, VA",
-   "in_us": true,
-   "states": [
-    "VA"
-   ],
-   "pay": "$60,000\u2013$75,000/yr",
-   "term": null,
-   "field": "ground-software",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/iridium/it-services-specialist-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Iridium",
    "title": "Systems Development Engineer I",
    "location": "Chandler, AZ",
    "in_us": true,
@@ -1975,120 +2000,6 @@
    "field": "mechanical-structures",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/virgin-galactic/stress-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Systems Test Engineer 1",
-   "location": "Pueblo, CO and 1 more",
-   "in_us": true,
-   "states": [
-    "CO",
-    "AL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Material & Process Engineer 1",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/material-process-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Strength Analyst 1 - Vulcan Development",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$67,895\u2013$113,159/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/strength-analyst-1-vulcan-development?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Weld Engineer 1",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Control Dynamics Engineer 1",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$70,952\u2013$118,253/yr",
-   "term": null,
-   "field": "gnc-flight-software",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Avionics Components Electrical Engineer 1",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$67,895\u2013$113,159/yr",
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/avionics-components-electrical-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Electrical Engineer 1",
-   "location": "Cape Canaveral, FL",
-   "in_us": true,
-   "states": [
-    "FL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Contamination Control Engineer 1",
-   "location": "Cape Canaveral, FL and 1 more",
-   "in_us": true,
-   "states": [
-    "FL",
-    "CO"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "quality-safety",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/contamination-control-engineer-1?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Lockheed Martin",
@@ -2358,20 +2269,6 @@
   },
   {
    "company": "Rocket Lab",
-   "title": "Electrical Engineer I",
-   "location": "Long Beach, CA and 1 more",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$88,000\u2013$132,000/yr",
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-10-28",
-   "url": "https://spacejobs.now/jobs/rocket-lab/electrical-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Rocket Lab",
    "title": "Systems Engineer I",
    "location": "Long Beach, CA",
    "in_us": true,
@@ -2386,7 +2283,7 @@
   },
   {
    "company": "Rocket Lab",
-   "title": "RF Engineer I",
+   "title": "Radar Engineer I",
    "location": "Long Beach, CA",
    "in_us": true,
    "states": [
@@ -2396,7 +2293,7 @@
    "term": null,
    "field": "rf-communications",
    "posted": "2026-10-28",
-   "url": "https://spacejobs.now/jobs/rocket-lab/rf-engineer-i?utm_source=github&utm_medium=new-grad-list"
+   "url": "https://spacejobs.now/jobs/rocket-lab/radar-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Anduril",
@@ -2425,23 +2322,6 @@
    "field": "avionics-electrical",
    "posted": "2026-10-28",
    "url": "https://spacejobs.now/jobs/viasat/hardware-engineer-pwb-pwa-design-early-career?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Lockheed Martin",
-   "title": "A/AI Machine Learning Engineer - Early Career",
-   "location": "King of Prussia, PA and 3 more",
-   "in_us": true,
-   "states": [
-    "PA",
-    "CA",
-    "CO",
-    "VA"
-   ],
-   "pay": "$75,400\u2013$140,000/yr",
-   "term": null,
-   "field": "science-imaging",
-   "posted": "2026-10-28",
-   "url": "https://spacejobs.now/jobs/lockheed-martin/a-ai-machine-learning-engineer-early-career?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Quantum Space",
@@ -2610,6 +2490,20 @@
    "field": "manufacturing",
    "posted": "2026-10-27",
    "url": "https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-composites?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Rocket Lab",
+   "title": "Electrical Engineer I",
+   "location": "Pasadena, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$88,000\u2013$132,000/yr",
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-10-27",
+   "url": "https://spacejobs.now/jobs/rocket-lab/electrical-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Sierra Space",
@@ -4630,20 +4524,6 @@
    "url": "https://spacejobs.now/jobs/spacex/software-engineer-internal-applications?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Ursa Major",
-   "title": "Buyer I",
-   "location": "Berthoud, Colorado",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$63,280\u2013$79,100/yr",
-   "term": null,
-   "field": "supply-chain-facilities",
-   "posted": "2026-09-15",
-   "url": "https://spacejobs.now/jobs/ursa-major/buyer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Cowboy Space",
    "title": "Mechanism Engineer Level 1",
    "location": "Kent, Washington",
@@ -4872,6 +4752,24 @@
   },
   {
    "company": "Blue Origin",
+   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
    "title": "Materials and Processes Engineer I - Early Career (2027 Starts)",
    "location": "Seattle, WA",
    "in_us": true,
@@ -4983,24 +4881,6 @@
    "field": "propulsion",
    "posted": "2026-09-10",
    "url": "https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -5158,20 +5038,6 @@
    "field": "mechanical-structures",
    "posted": "2026-09-03",
    "url": "https://spacejobs.now/jobs/spacex/new-graduate-engineer-starship-components?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "CesiumAstro",
-   "title": "Mission Operator - Entry Level",
-   "location": "Westminster, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$39.55\u2013$46.74/hr",
-   "term": null,
-   "field": "other",
-   "posted": "2026-09-03",
-   "url": "https://spacejobs.now/jobs/cesiumastro/mission-operator-entry-level?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Relativity Space",
@@ -5509,6 +5375,18 @@
    "field": "ground-software",
    "posted": "2026-08-25",
    "url": "https://spacejobs.now/jobs/spacex/full-stack-software-engineer-data-platform-starlink?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "Duales Studium Allgemeiner Maschinenbau - Bachelor of Engineering (m/w/d)",
+   "location": "Lampoldshausen, Germany",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-08-25",
+   "url": "https://spacejobs.now/jobs/arianegroup/duales-studium-allgemeiner-maschinenbau-bachelor-of-engineering-m-w-d?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "SpaceX",
@@ -6020,18 +5898,6 @@
    "field": "ground-software",
    "posted": "2026-08-11",
    "url": "https://spacejobs.now/jobs/spacex/application-software-engineer?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "OHB",
-   "title": "Duales Studium Elektrotechnik und Informationstechnik (m/w/d) - Studium mit vertiefter Praxis",
-   "location": "We\u00dfling bei M\u00fcnchen, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-08-11",
-   "url": "https://spacejobs.now/jobs/ohb/duales-studium-elektrotechnik-und-informationstechnik-m-w-d-studium-mit-vertiefter-praxis?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -6702,11 +6568,10 @@
   {
    "company": "SpaceX",
    "title": "Software Engineer (Starshield)",
-   "location": "Hawthorne, CA and 1 more",
+   "location": "Hawthorne, CA",
    "in_us": true,
    "states": [
-    "CA",
-    "WA"
+    "CA"
    ],
    "pay": "$125,000\u2013$150,000/yr",
    "term": null,
@@ -6741,20 +6606,6 @@
    "field": "systems-test",
    "posted": "2026-06-24",
    "url": "https://spacejobs.now/jobs/relativity-space/instrumentation-and-controls-engineer-i-operations?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Relativity Space",
-   "title": "Vehicle Structures Engineer I - 2026 Graduate",
-   "location": "Long Beach, California",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$90,000\u2013$136,000/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-06-19",
-   "url": "https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Airbus Defence and Space",
@@ -6931,20 +6782,6 @@
    "url": "https://spacejobs.now/jobs/spacex/software-engineer-hardware-test-automation-starlink?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Relativity Space",
-   "title": "Hardware Development Engineer I",
-   "location": "Long Beach, California",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$90,000\u2013$136,000/yr",
-   "term": null,
-   "field": "propulsion",
-   "posted": "2026-05-21",
-   "url": "https://spacejobs.now/jobs/relativity-space/hardware-development-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "SpaceX",
    "title": "Full Stack Software Engineer (Build Reliability)",
    "location": "Hawthorne, CA",
@@ -7016,20 +6853,6 @@
    "url": "https://spacejobs.now/jobs/sierra-space/facilities-technician-i-contractor?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "SpaceX",
-   "title": "New Graduate Engineer, Propulsion (Raptor)",
-   "location": "Hawthorne, CA",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$100,000\u2013$115,000/yr",
-   "term": null,
-   "field": "propulsion",
-   "posted": "2026-04-29",
-   "url": "https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-raptor?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Relativity Space",
    "title": "Propulsion Test Engineer I",
    "location": "Mississippi",
@@ -7085,34 +6908,6 @@
    "field": "ground-software",
    "posted": "2026-03-27",
    "url": "https://spacejobs.now/jobs/true-anomaly/software-engineer-i-full-stack-new-grad?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "SpaceX",
-   "title": "Software Engineer, Embedded Software (Starshield)",
-   "location": "Hawthorne, CA",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$125,000\u2013$145,000/yr",
-   "term": null,
-   "field": "gnc-flight-software",
-   "posted": "2026-03-12",
-   "url": "https://spacejobs.now/jobs/spacex/software-engineer-embedded-software-starshield?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "SpaceX",
-   "title": "Hardware Test Automation Engineer, Satellites (Starlink)",
-   "location": "Redmond, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$105,000\u2013$120,000/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-03-11",
-   "url": "https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "OKAPI:Orbits",
