@@ -2,7 +2,7 @@
 
 Every open entry-level job at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list), a free job board for the space industry. A role is listed when its posting asks for no prior experience, names new or recent graduates, or is an early-career level.
 
-**472 open in the United States, 46 in Europe, Canada and Asia-Pacific, at 72 companies. Updated 13 Nov 2026.**
+**472 open in the United States, 46 in Europe, Canada and Asia-Pacific, at 72 companies. Updated 14 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
@@ -28,6 +28,12 @@ Many US roles require US citizenship or US person status (export rules); each ro
 - [Science, imaging and Earth data](https://spacejobs.now/space-jobs-no-experience/science-imaging?utm_source=github&utm_medium=new-grad-list) (8)
 - [Business and programs](https://spacejobs.now/space-jobs-no-experience/business-programs?utm_source=github&utm_medium=new-grad-list) (17)
 - [Supply chain and facilities](https://spacejobs.now/space-jobs-no-experience/supply-chain-facilities?utm_source=github&utm_medium=new-grad-list) (19)
+
+## By state
+
+Each state's page on SpaceJobs.Now, with its count of entry-level roles (internships included there):
+
+[CA](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list) (404), [CO](https://spacejobs.now/space-jobs-no-experience/colorado?utm_source=github&utm_medium=new-grad-list) (168), [TX](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list) (128), [WA](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list) (113), [FL](https://spacejobs.now/space-jobs-no-experience/florida?utm_source=github&utm_medium=new-grad-list) (63), [VA](https://spacejobs.now/space-jobs-no-experience/virginia?utm_source=github&utm_medium=new-grad-list) (55), [AL](https://spacejobs.now/space-jobs-no-experience/alabama?utm_source=github&utm_medium=new-grad-list) (31), [MD](https://spacejobs.now/space-jobs-no-experience/maryland?utm_source=github&utm_medium=new-grad-list) (19), [PA](https://spacejobs.now/space-jobs-no-experience/pennsylvania?utm_source=github&utm_medium=new-grad-list) (17), [NM](https://spacejobs.now/space-jobs-no-experience/new-mexico?utm_source=github&utm_medium=new-grad-list) (15), [AZ](https://spacejobs.now/space-jobs-no-experience/arizona?utm_source=github&utm_medium=new-grad-list) (13), [MS](https://spacejobs.now/space-jobs-no-experience/mississippi?utm_source=github&utm_medium=new-grad-list) (10), [OH](https://spacejobs.now/space-jobs-no-experience/ohio?utm_source=github&utm_medium=new-grad-list) (7), [UT](https://spacejobs.now/space-jobs-no-experience/utah?utm_source=github&utm_medium=new-grad-list) (6), [DC](https://spacejobs.now/space-jobs-no-experience/district-of-columbia?utm_source=github&utm_medium=new-grad-list) (5), [NY](https://spacejobs.now/space-jobs-no-experience/new-york?utm_source=github&utm_medium=new-grad-list) (5), [TN](https://spacejobs.now/space-jobs-no-experience/tennessee?utm_source=github&utm_medium=new-grad-list) (5)
 
 ## Also useful
 

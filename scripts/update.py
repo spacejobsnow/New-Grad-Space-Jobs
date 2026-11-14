@@ -28,7 +28,8 @@ FIELDS = [
     ("supply-chain-facilities", "Supply chain and facilities"),
 ]
 STATE_NAMES = {"AL": "alabama", "AZ": "arizona", "CA": "california", "CO": "colorado", "FL": "florida", "MD": "maryland",
-               "NM": "new-mexico", "PA": "pennsylvania", "TX": "texas", "VA": "virginia", "WA": "washington"}
+               "NM": "new-mexico", "PA": "pennsylvania", "TX": "texas", "VA": "virginia", "WA": "washington", "MS": "mississippi",
+               "OH": "ohio", "UT": "utah", "DC": "district-of-columbia", "NY": "new-york", "TN": "tennessee"}
 
 
 def get(name):
@@ -114,6 +115,8 @@ def main():
         "",
     ]
     head += [f"- [{label}]({link('/space-jobs-no-experience/' + slug)}) ({kinds[slug]})" for slug, label in FIELDS if kinds.get(slug)]
+    head += ["", "## By state", "", "Each state's page on SpaceJobs.Now, with its count of entry-level roles (internships included there):", ""]
+    head.append(", ".join(f"[{code}]({link('/space-jobs-no-experience/' + STATE_NAMES[code])}) ({n})" for code, n in sorted(states.items(), key=lambda s: -s[1]) if code in STATE_NAMES))
     head += [
         "",
         "## Also useful",
