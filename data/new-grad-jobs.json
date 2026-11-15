@@ -1,8 +1,52 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "jobs": [
+  {
+   "company": "United Launch Alliance",
+   "title": "Structural Dynamics Engineer 1",
+   "location": "Centennial, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$70,952\u2013$118,253/yr",
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-15",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/structural-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Electrical Engineer 1",
+   "location": "Centennial, CO and 1 more",
+   "in_us": true,
+   "states": [
+    "CO",
+    "FL"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-15",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Production Planner/Scheduler - Level 1",
+   "location": "MS and 1 more",
+   "in_us": true,
+   "states": [
+    "MS",
+    "LA"
+   ],
+   "pay": "$49,500\u2013$91,900/yr",
+   "term": null,
+   "field": "manufacturing",
+   "posted": "2026-11-14",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/production-planner-scheduler-level-1?utm_source=github&utm_medium=new-grad-list"
+  },
   {
    "company": "True Anomaly",
    "title": "Content Producer, Social",
@@ -74,6 +118,20 @@
    "url": "https://spacejobs.now/jobs/vast/compensation-analyst-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "United Launch Alliance",
+   "title": "Cost Analyst 1",
+   "location": "Centennial, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$57,550\u2013$95,916/yr",
+   "term": null,
+   "field": "business-programs",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/cost-analyst-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "BAE Systems Space & Mission Systems",
    "title": "Engineer I \u2013 Structural",
    "location": "Boulder, CO",
@@ -86,6 +144,20 @@
    "field": "mechanical-structures",
    "posted": "2026-11-13",
    "url": "https://spacejobs.now/jobs/bae-systems-space/engineer-i-structural?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Axiom Space",
+   "title": "Mission Operations Engineer (Entry Level)",
+   "location": "Houston, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/axiom-space/mission-operations-engineer-entry-level?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Rocket Lab",
@@ -118,14 +190,13 @@
   {
    "company": "Lockheed Martin",
    "title": "Software Engineer - Early Career",
-   "location": "King of Prussia, PA and 6 more",
+   "location": "King of Prussia, PA and 5 more",
    "in_us": true,
    "states": [
     "PA",
     "CO",
     "TX",
-    "AL",
-    "MD"
+    "AL"
    ],
    "pay": "$67,000\u2013$140,000/yr",
    "term": null,
@@ -337,7 +408,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "manufacturing",
    "posted": "2026-11-12",
    "url": "https://spacejobs.now/jobs/ohb/junior-plant-operator-afp-m-f-d?utm_source=github&utm_medium=new-grad-list"
   },
@@ -539,6 +610,48 @@
    "url": "https://spacejobs.now/jobs/ast-spacemobile/technician-i-3rd-shift-20703-mli?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "United Launch Alliance",
+   "title": "Mechanical Design Engineer 1",
+   "location": "Centennial, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$67,895\u2013$113,159/yr",
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-10",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/mechanical-design-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Thermodynamics Engineer 1",
+   "location": "Centennial, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$70,952\u2013$118,253/yr",
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-10",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Prop Systems Design Engineer 1",
+   "location": "Centennial, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$70,952\u2013$118,253/yr",
+   "term": null,
+   "field": "propulsion",
+   "posted": "2026-11-10",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/prop-systems-design-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "SES",
    "title": "Junior Financial Controller, MeoSphere",
    "location": "Betzdorf, Luxembourg",
@@ -575,20 +688,6 @@
    "field": "manufacturing",
    "posted": "2026-11-10",
    "url": "https://spacejobs.now/jobs/sierra-space/manufacturing-specialist-i-tooling?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Sierra Space",
-   "title": "Electrical Engineer I (C&DH/GNC Hardware)",
-   "location": "Centennial, CO and 1 more",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$77,403\u2013$106,451/yr",
-   "term": null,
-   "field": "gnc-flight-software",
-   "posted": "2026-11-10",
-   "url": "https://spacejobs.now/jobs/sierra-space/electrical-engineer-i-c-dh-gnc-hardware?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Amazon Leo",
@@ -1544,20 +1643,6 @@
    "url": "https://spacejobs.now/jobs/us-space-force/utility-systems-repairer-operator?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Northrop Grumman",
-   "title": "2026 Quality Manufacturing Engineer (Level 1 or 2) - Promontory UT",
-   "location": "Corinne, UT",
-   "in_us": true,
-   "states": [
-    "UT"
-   ],
-   "pay": "$65,800\u2013$89,900/yr",
-   "term": null,
-   "field": "quality-safety",
-   "posted": "2026-11-03",
-   "url": "https://spacejobs.now/jobs/northrop-grumman/2026-quality-manufacturing-engineer-level-1-or-2-promontory-ut?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Blue Origin",
    "title": "Facilities Design Civil Engineer I",
    "location": "Space Coast, FL",
@@ -2002,18 +2087,90 @@
    "url": "https://spacejobs.now/jobs/virgin-galactic/stress-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Lockheed Martin",
-   "title": "Electronics Engineer Asc - Early Career",
-   "location": "Littleton, CO",
+   "company": "United Launch Alliance",
+   "title": "Material & Process Engineer 1",
+   "location": "Decatur, AL",
+   "in_us": true,
+   "states": [
+    "AL"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/material-process-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Strength Analyst 1 - Vulcan Development",
+   "location": "Centennial, CO",
    "in_us": true,
    "states": [
     "CO"
    ],
-   "pay": "$65,500\u2013$121,700/yr",
+   "pay": "$67,895\u2013$113,159/yr",
    "term": null,
-   "field": "avionics-electrical",
+   "field": "mechanical-structures",
    "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/lockheed-martin/electronics-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list"
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/strength-analyst-1-vulcan-development?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Weld Engineer 1",
+   "location": "Decatur, AL",
+   "in_us": true,
+   "states": [
+    "AL"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Systems Test Engineer 1",
+   "location": "Pueblo, CO and 1 more",
+   "in_us": true,
+   "states": [
+    "CO",
+    "AL"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Control Dynamics Engineer 1",
+   "location": "Centennial, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$70,952\u2013$118,253/yr",
+   "term": null,
+   "field": "gnc-flight-software",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Contamination Control Engineer 1",
+   "location": "Cape Canaveral, FL and 1 more",
+   "in_us": true,
+   "states": [
+    "FL",
+    "CO"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "quality-safety",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/contamination-control-engineer-1?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Boeing",
@@ -2098,20 +2255,6 @@
    "field": "avionics-electrical",
    "posted": "2026-10-29",
    "url": "https://spacejobs.now/jobs/voyager/electrical-hardware-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Lockheed Martin",
-   "title": "Radio Frequency Engineer - Early Career",
-   "location": "Colorado Springs, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$67,000\u2013$124,400/yr",
-   "term": null,
-   "field": "rf-communications",
-   "posted": "2026-10-29",
-   "url": "https://spacejobs.now/jobs/lockheed-martin/radio-frequency-engineer-early-career?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Northwood Space",
@@ -2210,20 +2353,6 @@
    "field": "propulsion",
    "posted": "2026-10-29",
    "url": "https://spacejobs.now/jobs/rocket-lab/spacecraft-propulsion-components-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Vantor",
-   "title": "Geospatial Analyst (entry level)",
-   "location": "Tampa, FL",
-   "in_us": true,
-   "states": [
-    "FL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "science-imaging",
-   "posted": "2026-10-29",
-   "url": "https://spacejobs.now/jobs/vantor/geospatial-analyst-entry-level?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Firefly Aerospace",
@@ -2697,20 +2826,6 @@
   },
   {
    "company": "Firefly Aerospace",
-   "title": "Test Engineer I, Component",
-   "location": "Briggs, TX",
-   "in_us": true,
-   "states": [
-    "TX"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-23",
-   "url": "https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Firefly Aerospace",
    "title": "Structures Engineer I (Spacecraft)",
    "location": "Cedar Park, TX",
    "in_us": true,
@@ -2722,6 +2837,20 @@
    "field": "mechanical-structures",
    "posted": "2026-10-23",
    "url": "https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Firefly Aerospace",
+   "title": "Test Engineer I, Component",
+   "location": "Briggs, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-23",
+   "url": "https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -4734,42 +4863,6 @@
   },
   {
    "company": "Blue Origin",
-   "title": "Aerospace Systems Engineer I \u2013 Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
    "title": "Materials and Processes Engineer I - Early Career (2027 Starts)",
    "location": "Seattle, WA",
    "in_us": true,
@@ -4813,6 +4906,42 @@
    "field": "mechanical-structures",
    "posted": "2026-09-10",
    "url": "https://spacejobs.now/jobs/blue-origin/thermal-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Aerospace Systems Engineer I \u2013 Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -5377,18 +5506,6 @@
    "url": "https://spacejobs.now/jobs/spacex/full-stack-software-engineer-data-platform-starlink?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "ArianeGroup",
-   "title": "Duales Studium Allgemeiner Maschinenbau - Bachelor of Engineering (m/w/d)",
-   "location": "Lampoldshausen, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-08-25",
-   "url": "https://spacejobs.now/jobs/arianegroup/duales-studium-allgemeiner-maschinenbau-bachelor-of-engineering-m-w-d?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "SpaceX",
    "title": "Full Stack Software Engineer, Internal Systems",
    "location": "Cape Canaveral, FL",
@@ -5429,30 +5546,6 @@
    "field": "manufacturing",
    "posted": "2026-08-24",
    "url": "https://spacejobs.now/jobs/blue-origin/npi-systems-engineer-solar-center-of-excellence?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "Ausbildung zum Industriemechaniker (m/w/d)",
-   "location": "Lampoldshausen, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "manufacturing",
-   "posted": "2026-08-24",
-   "url": "https://spacejobs.now/jobs/arianegroup/ausbildung-zum-industriemechaniker-m-w-d?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "Ausbildung zum Mechatroniker (m/w/d)",
-   "location": "Lampoldshausen, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "manufacturing",
-   "posted": "2026-08-24",
-   "url": "https://spacejobs.now/jobs/arianegroup/ausbildung-zum-mechatroniker-m-w-d?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "SpaceX",

@@ -1,6 +1,6 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-47 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 14 Nov 2026.
+44 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 15 Nov 2026.
 
 [Back to the United States list](README.md)
 
@@ -45,9 +45,6 @@
 | **Rocket Lab** | [Junior Development Engineer - Neutron](https://spacejobs.now/jobs/rocket-lab/junior-development-engineer-neutron?utm_source=github&utm_medium=new-grad-list) | Auckland, New Zealand |  | Sep 14 |
 | **ISISPACE** | [Mechanical Engineer - Junior/Medior](https://spacejobs.now/jobs/isispace/mechanical-engineer-junior-medior?utm_source=github&utm_medium=new-grad-list) | Delft, Netherlands |  | Sep 14 |
 | **Rocket Lab** | [Launch Technician I - Mechanical](https://spacejobs.now/jobs/rocket-lab/launch-technician-i-mechanical?utm_source=github&utm_medium=new-grad-list) | Mahia, New Zealand |  | Sep 2 |
-| **ArianeGroup** | [Duales Studium Allgemeiner Maschinenbau - Bachelor of Engineering (m/w/d)](https://spacejobs.now/jobs/arianegroup/duales-studium-allgemeiner-maschinenbau-bachelor-of-engineering-m-w-d?utm_source=github&utm_medium=new-grad-list) | Lampoldshausen, Germany |  | Aug 25 |
-| **ArianeGroup** | [Ausbildung zum Industriemechaniker (m/w/d)](https://spacejobs.now/jobs/arianegroup/ausbildung-zum-industriemechaniker-m-w-d?utm_source=github&utm_medium=new-grad-list) | Lampoldshausen, Germany |  | Aug 24 |
-| **ArianeGroup** | [Ausbildung zum Mechatroniker (m/w/d)](https://spacejobs.now/jobs/arianegroup/ausbildung-zum-mechatroniker-m-w-d?utm_source=github&utm_medium=new-grad-list) | Lampoldshausen, Germany |  | Aug 24 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. (d/m/w) Elektrotechnik​ und Informationstechnik / Automation zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-d-m-w-elektrotechnik-und-informationstechnik-automation-zum-01-09?utm_source=github&utm_medium=new-grad-list) | Immenstaad am Bodensee, Germany |  | Jun 19 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. Embedded Systems (d/m/w) zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-embedded-systems-d-m-w-zum-01-09-2027?utm_source=github&utm_medium=new-grad-list) | Stuttgart Area, Germany |  | Jun 8 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. Elektrotechnik und Informationstechnik, Elektronik/Kommunikationstechnik (d/m/w) zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-elektrotechnik-und-informationstechnik-elektronik?utm_source=github&utm_medium=new-grad-list) | Stuttgart Area, Germany |  | Jun 8 |
