@@ -15,25 +15,23 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By field
 
-- [Software and IT](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list) (96)
-- [Flight software and GNC](https://spacejobs.now/space-jobs-no-experience/gnc-flight-software?utm_source=github&utm_medium=new-grad-list) (46)
-- [Mechanical, structures and thermal](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list) (61)
-- [Avionics and electrical](https://spacejobs.now/space-jobs-no-experience/avionics-electrical?utm_source=github&utm_medium=new-grad-list) (36)
-- [RF, communications and payloads](https://spacejobs.now/space-jobs-no-experience/rf-communications?utm_source=github&utm_medium=new-grad-list) (11)
-- [Propulsion](https://spacejobs.now/space-jobs-no-experience/propulsion?utm_source=github&utm_medium=new-grad-list) (13)
-- [Systems, integration and test](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list) (53)
-- [Launch and mission operations](https://spacejobs.now/space-jobs-no-experience/launch-mission-ops?utm_source=github&utm_medium=new-grad-list) (25)
-- [Manufacturing](https://spacejobs.now/space-jobs-no-experience/manufacturing?utm_source=github&utm_medium=new-grad-list) (104)
-- [Quality and mission assurance](https://spacejobs.now/space-jobs-no-experience/quality-safety?utm_source=github&utm_medium=new-grad-list) (14)
-- [Science, imaging and Earth data](https://spacejobs.now/space-jobs-no-experience/science-imaging?utm_source=github&utm_medium=new-grad-list) (6)
-- [Business and programs](https://spacejobs.now/space-jobs-no-experience/business-programs?utm_source=github&utm_medium=new-grad-list) (19)
-- [Supply chain and facilities](https://spacejobs.now/space-jobs-no-experience/supply-chain-facilities?utm_source=github&utm_medium=new-grad-list) (18)
+- [Software and IT](fields/ground-software.md) (91 in the US)
+- [Flight software and GNC](fields/gnc-flight-software.md) (43 in the US)
+- [Mechanical, structures and thermal](fields/mechanical-structures.md) (59 in the US)
+- [Avionics and electrical](fields/avionics-electrical.md) (30 in the US)
+- [RF, communications and payloads](fields/rf-communications.md) (5 in the US)
+- [Propulsion](fields/propulsion.md) (13 in the US)
+- [Systems, integration and test](fields/systems-test.md) (51 in the US)
+- [Launch and mission operations](fields/launch-mission-ops.md) (23 in the US)
+- [Manufacturing](fields/manufacturing.md) (93 in the US)
+- [Quality and mission assurance](fields/quality-safety.md) (14 in the US)
+- [Science, imaging and Earth data](fields/science-imaging.md) (6 in the US)
+- [Business and programs](fields/business-programs.md) (14 in the US)
+- [Supply chain and facilities](fields/supply-chain-facilities.md) (17 in the US)
 
 ## By state
 
-Each state's page on SpaceJobs.Now, with its count of entry-level roles (internships included there):
-
-[CA](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list) (396), [CO](https://spacejobs.now/space-jobs-no-experience/colorado?utm_source=github&utm_medium=new-grad-list) (165), [TX](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list) (131), [WA](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list) (111), [FL](https://spacejobs.now/space-jobs-no-experience/florida?utm_source=github&utm_medium=new-grad-list) (63), [VA](https://spacejobs.now/space-jobs-no-experience/virginia?utm_source=github&utm_medium=new-grad-list) (52), [AL](https://spacejobs.now/space-jobs-no-experience/alabama?utm_source=github&utm_medium=new-grad-list) (32), [MD](https://spacejobs.now/space-jobs-no-experience/maryland?utm_source=github&utm_medium=new-grad-list) (19), [PA](https://spacejobs.now/space-jobs-no-experience/pennsylvania?utm_source=github&utm_medium=new-grad-list) (18), [NM](https://spacejobs.now/space-jobs-no-experience/new-mexico?utm_source=github&utm_medium=new-grad-list) (15), [AZ](https://spacejobs.now/space-jobs-no-experience/arizona?utm_source=github&utm_medium=new-grad-list) (12), [MS](https://spacejobs.now/space-jobs-no-experience/mississippi?utm_source=github&utm_medium=new-grad-list) (11), [OH](https://spacejobs.now/space-jobs-no-experience/ohio?utm_source=github&utm_medium=new-grad-list) (6), [DC](https://spacejobs.now/space-jobs-no-experience/district-of-columbia?utm_source=github&utm_medium=new-grad-list) (5), [NY](https://spacejobs.now/space-jobs-no-experience/new-york?utm_source=github&utm_medium=new-grad-list) (5), [TN](https://spacejobs.now/space-jobs-no-experience/tennessee?utm_source=github&utm_medium=new-grad-list) (5), [UT](https://spacejobs.now/space-jobs-no-experience/utah?utm_source=github&utm_medium=new-grad-list) (5)
+[California](states/california.md) (167), [Colorado](states/colorado.md) (90), [Texas](states/texas.md) (88), [Washington](states/washington.md) (62), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (19), [Virginia](states/virginia.md) (17), [Pennsylvania](states/pennsylvania.md) (9), [Mississippi](states/mississippi.md) (7), [Arizona](states/arizona.md) (6), [New Mexico](states/new-mexico.md) (6), [Maryland](states/maryland.md) (5), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [Ohio](states/ohio.md) (3), [Utah](states/utah.md) (3), [District of Columbia](states/district-of-columbia.md) (2)
 
 ## Also useful
 
