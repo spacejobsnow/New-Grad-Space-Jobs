@@ -1,11 +1,11 @@
 ---
 title: "Entry-level software and it jobs at space companies (new grad 2026 and 2027)"
-description: "91 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, Blue Origin, Relativity Space and more), updated daily."
+description: "91 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, Lockheed Martin, Relativity Space and more), updated daily."
 ---
 
 # Entry-level software and it jobs at space companies (new grad 2026 and 2027)
 
-**91 open in the United States at 19 companies, most at SpaceX, True Anomaly, Blue Origin, Relativity Space, KBR. Updated 15 Nov 2026.**
+**91 open in the United States at 19 companies, most at SpaceX, True Anomaly, Lockheed Martin, Relativity Space, Blue Origin. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

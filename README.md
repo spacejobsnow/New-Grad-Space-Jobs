@@ -33,6 +33,10 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 [California](states/california.md) (167), [Colorado](states/colorado.md) (90), [Texas](states/texas.md) (88), [Washington](states/washington.md) (62), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (19), [Virginia](states/virginia.md) (17), [Pennsylvania](states/pennsylvania.md) (9), [Mississippi](states/mississippi.md) (7), [Arizona](states/arizona.md) (6), [New Mexico](states/new-mexico.md) (6), [Maryland](states/maryland.md) (5), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [Ohio](states/ohio.md) (3), [Utah](states/utah.md) (3), [District of Columbia](states/district-of-columbia.md) (2)
 
+## By company
+
+[SpaceX](companies/spacex.md) (121), [Relativity Space](companies/relativity-space.md) (48), [Blue Origin](companies/blue-origin.md) (42), [Lockheed Martin](companies/lockheed-martin.md) (34), [Rocket Lab](companies/rocket-lab.md) (21), [Sierra Space](companies/sierra-space.md) (18), [Firefly Aerospace](companies/firefly-aerospace.md) (16), [KBR](companies/kbr.md) (14), [True Anomaly](companies/true-anomaly.md) (13), [United Launch Alliance](companies/united-launch-alliance.md) (12), [BAE Systems Space & Mission Systems](companies/bae-systems-space.md) (11), [Frontgrade Technologies](companies/frontgrade.md) (8), [AST SpaceMobile](companies/ast-spacemobile.md) (8), [Northrop Grumman](companies/northrop-grumman.md) (8), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (7), [US Space Force](companies/us-space-force.md) (7), [Amentum](companies/amentum.md) (6), [Amazon Leo](companies/amazon-leo.md) (5)
+
 ## Also useful
 
 - [Space jobs that ask for no degree](https://spacejobs.now/space-jobs-without-a-degree?utm_source=github&utm_medium=new-grad-list)

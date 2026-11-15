@@ -5,7 +5,7 @@ description: "88 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**88 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Intuitive Machines. Updated 15 Nov 2026.**
+**88 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Amentum. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

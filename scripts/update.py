@@ -73,7 +73,7 @@ def page(path, title, description, lines):
         f.write("\n".join(front + lines + [""]))
 
 
-def write_pages(by_field, by_state, today):
+def write_pages(by_field, by_state, today, us_all):
     """One page per field and per state (US entry-level roles only), so a search for entry-level propulsion jobs or new grad
     space jobs in Texas finds a list of exactly those; every row opens the role's page on SpaceJobs.Now."""
     written = []
@@ -105,8 +105,35 @@ def write_pages(by_field, by_state, today):
             f"Read each night from each company's own careers site by [SpaceJobs.Now]({link('/space-jobs-no-experience/' + STATE_NAMES[code])}), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
             "[All new grad space jobs](../README.md) · [By field](../README.md#by-field) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)", "",
         ] + rows(jobs))
+    written += write_company_pages(us_all, today)
     with open(os.path.join(ROOT, "data", "pages.txt"), "w") as f:
         f.write("\n".join([PAGES_BASE, PAGES_BASE + "INTERNATIONAL"] + [PAGES_BASE + w for w in written]) + "\n")
+
+
+def write_company_pages(us, today):
+    """One page per company with five or more open US entry-level roles ("SpaceX new grad jobs"); every row opens the role
+    on SpaceJobs.Now, and the page links the company's own list there."""
+    labels = dict(FIELDS)
+    by_company = {}
+    for j in us:
+        by_company.setdefault(j["employer"], []).append(j)
+    written = []
+    for slug, jobs in sorted(by_company.items(), key=lambda x: -len(x[1])):
+        if len(jobs) < 5:
+            continue
+        name = jobs[0]["company"]
+        jobs = sorted(jobs, key=lambda j: j.get("postedAt") or "", reverse=True)
+        fields = sorted({j.get("kind") for j in jobs if j.get("kind") in labels}, key=lambda k: -sum(1 for j in jobs if j.get("kind") == k))
+        title = f"{name} new grad and entry-level jobs (2026 and 2027 graduates)"
+        desc = f"{len(jobs)} open entry-level {name} roles in the US" + (f" ({'; '.join(labels[f] for f in fields[:3])})" if fields else "") + ", updated daily."
+        page(f"companies/{slug}.md", title, desc, [
+            f"# {name} new grad and entry-level jobs", "",
+            f"**{len(jobs)} open in the United States. Updated {today}.**", "",
+            f"Every {name} role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from {name}'s own careers site by [SpaceJobs.Now]({link('/employers/' + slug)}). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
+            "[All new grad space jobs](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state)", "",
+        ] + rows(jobs))
+        written.append(f"companies/{slug}")
+    return written
 
 
 def rows(jobs):
@@ -167,6 +194,10 @@ def main():
     head += [f"- [{label}](fields/{slug}.md) ({len(us_by_field[slug])} in the US)" for slug, label in FIELDS if us_by_field.get(slug)]
     head += ["", "## By state", ""]
     head.append(", ".join(f"[{STATE_LABEL[code]}](states/{STATE_NAMES[code]}.md) ({len(us_by_state[code])})" for code in sorted(us_by_state, key=lambda c: -len(us_by_state[c])) if us_by_state[code]))
+    by_emp = {}
+    for j in us:
+        by_emp.setdefault(j["employer"], []).append(j)
+    head += ["", "## By company", "", ", ".join(f"[{v[0]['company']}](companies/{k}.md) ({len(v)})" for k, v in sorted(by_emp.items(), key=lambda x: -len(x[1])) if len(v) >= 5)]
     head += [
         "",
         "## Also useful",
@@ -200,7 +231,7 @@ def main():
     with open(os.path.join(ROOT, "INTERNATIONAL.md"), "w") as f:
         f.write("\n".join(intl + rows(abroad) + [""]))
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
-    write_pages(us_by_field, us_by_state, today)
+    write_pages(us_by_field, us_by_state, today, us)
     data = [{"company": j["company"], "title": j["title"], "location": j.get("place"), "in_us": in_us(j), "states": j.get("states") or [],
              "pay": j.get("pay"), "term": term(j) or None, "field": j.get("kind"), "posted": (j.get("postedAt") or "")[:10], "url": link(j["path"])} for j in ordered]
     with open(os.path.join(ROOT, "data", "new-grad-jobs.json"), "w") as f:

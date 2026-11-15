@@ -1,0 +1,63 @@
+---
+title: "Relativity Space new grad and entry-level jobs (2026 and 2027 graduates)"
+description: "48 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Software and IT), updated daily."
+---
+
+# Relativity Space new grad and entry-level jobs
+
+**48 open in the United States. Updated 15 Nov 2026.**
+
+Every Relativity Space role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Relativity Space's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/relativity-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
+
+[All new grad space jobs](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state)
+
+| Company | Role | Location | Pay | Posted |
+|---|---|---|---|---|
+| **Relativity Space** | [Vehicle Structures Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 13 |
+| **Relativity Space** | [Vehicle Fluids Hardware Development Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-fluids-hardware-development-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 11 |
+| **Relativity Space** | [Vehicle Structures Engineer I (Heat Shield)](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-heat-shield?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 6 |
+| **Relativity Space** | [Propulsion Integration & Test Engineer I, First shift](https://spacejobs.now/jobs/relativity-space/propulsion-integration-test-engineer-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $93,000–$139,000/yr | Nov 5 |
+| **Relativity Space** | [Additive Post Processing Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/additive-post-processing-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Nov 3 |
+| **Relativity Space** | [Additive Post Processing Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/additive-post-processing-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Nov 3 |
+| **Relativity Space** | [Manufacturing Engineer I, Machining](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-machining?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 30 |
+| **Relativity Space** | [Thermal Engineer I](https://spacejobs.now/jobs/relativity-space/thermal-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 29 |
+| **Relativity Space** | [Logistics Specialist I - Transportation](https://spacejobs.now/jobs/relativity-space/logistics-specialist-i-transportation?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $19.18–$28.76/hr | Oct 29 |
+| **Relativity Space** | [Logistics Specialist I - Inventory](https://spacejobs.now/jobs/relativity-space/logistics-specialist-i-inventory?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $19.18–$28.76/hr | Oct 29 |
+| **Relativity Space** | [GNC Performance Engineer I](https://spacejobs.now/jobs/relativity-space/gnc-performance-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $106,000–$160,000/yr | Oct 28 |
+| **Relativity Space** | [Build Reliability Engineer I](https://spacejobs.now/jobs/relativity-space/build-reliability-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 27 |
+| **Relativity Space** | [Manufacturing Engineer I, Composites](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-composites?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 27 |
+| **Relativity Space** | [IT Associate I](https://spacejobs.now/jobs/relativity-space/it-associate-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $26.80–$40.20/hr | Oct 23 |
+| **Relativity Space** | [Vehicle Technician I](https://spacejobs.now/jobs/relativity-space/vehicle-technician-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 23 |
+| **Relativity Space** | [Environmental Test Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/environmental-test-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $24.37–$36.55/hr | Oct 22 |
+| **Relativity Space** | [PBF Printer Technician I](https://spacejobs.now/jobs/relativity-space/pbf-printer-technician-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Oct 22 |
+| **Relativity Space** | [Offshore Recovery Electrical Engineer I](https://spacejobs.now/jobs/relativity-space/offshore-recovery-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 21 |
+| **Relativity Space** | [Manufacturing Engineer I, Stage Machining & Forming](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-stage-machining-forming?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 19 |
+| **Relativity Space** | [CNC Setup Operator I, Second Shift](https://spacejobs.now/jobs/relativity-space/cnc-setup-operator-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $26.92–$40.38/hr | Oct 19 |
+| **Relativity Space** | [CNC Setup Operator I, First Shift](https://spacejobs.now/jobs/relativity-space/cnc-setup-operator-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $26.92–$40.38/hr | Oct 19 |
+| **Relativity Space** | [Manufacturing Engineer I - Test & Launch Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-test-launch-structures?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 16 |
+| **Relativity Space** | [FSW Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/fsw-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 15 |
+| **Relativity Space** | [Friction Stir Welding Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/friction-stir-welding-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$31.35/hr | Oct 15 |
+| **Relativity Space** | [Manufacturing Engineer I, Turbomachinery](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-turbomachinery?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 15 |
+| **Relativity Space** | [Vehicle Mechanisms Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-mechanisms-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 15 |
+| **Relativity Space** | [CNC Machine Operator I](https://spacejobs.now/jobs/relativity-space/cnc-machine-operator-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $26.92–$40.38/hr | Oct 13 |
+| **Relativity Space** | [Factory Test Technical Specialist I - 1st Shift](https://spacejobs.now/jobs/relativity-space/factory-test-technical-specialist-i-1st-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $33.80–$50.70/hr | Oct 9 |
+| **Relativity Space** | [Propulsion Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/propulsion-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 5 |
+| **Relativity Space** | [Manufacturing Engineer 1, Unpressurized Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-1-unpressurized-structures?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 2 |
+| **Relativity Space** | [Propulsion Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/propulsion-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 1 |
+| **Relativity Space** | [Manufacturing Engineer I, Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-structures?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 1 |
+| **Relativity Space** | [Apprentice Propulsion Test Technician](https://spacejobs.now/jobs/relativity-space/apprentice-propulsion-test-technician?utm_source=github&utm_medium=new-grad-list) | Mississippi | $23.27–$34.90/hr | Sep 23 |
+| **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Sep 22 |
+| **Relativity Space** | [Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 22 |
+| **Relativity Space** | [GNC Simulation Engineer I](https://spacejobs.now/jobs/relativity-space/gnc-simulation-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $110,000–$164,000/yr | Sep 18 |
+| **Relativity Space** | [Vehicle Mechanisms Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-mechanisms-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 11 |
+| **Relativity Space** | [TPS Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Sep 3 |
+| **Relativity Space** | [Launch Operations Engineer I - Launch Operations](https://spacejobs.now/jobs/relativity-space/launch-operations-engineer-i-launch-operations?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Aug 20 |
+| **Relativity Space** | [AI Software Engineer I](https://spacejobs.now/jobs/relativity-space/ai-software-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Aug 18 |
+| **Relativity Space** | [Launch Fluids Engineer I](https://spacejobs.now/jobs/relativity-space/launch-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Aug 18 |
+| **Relativity Space** | [Manufacturing Engineer I, Paint and TPS](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-paint-and-tps?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Aug 3 |
+| **Relativity Space** | [Factory Test Technical Specialist I - 2nd Shift](https://spacejobs.now/jobs/relativity-space/factory-test-technical-specialist-i-2nd-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $33.80–$50.70/hr | Jul 29 |
+| **Relativity Space** | [Weld Engineer I](https://spacejobs.now/jobs/relativity-space/weld-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Jul 21 |
+| **Relativity Space** | [Quality Inspector Technical Specialist I](https://spacejobs.now/jobs/relativity-space/quality-inspector-technical-specialist-i?utm_source=github&utm_medium=new-grad-list) | Mississippi | $31.20–$46.80/hr | Jul 20 |
+| **Relativity Space** | [Instrumentation and Controls Engineer I (Operations)](https://spacejobs.now/jobs/relativity-space/instrumentation-and-controls-engineer-i-operations?utm_source=github&utm_medium=new-grad-list) | Mississippi | $90,000–$136,000/yr | Jun 24 |
+| **Relativity Space** | [Propulsion Test Engineer I](https://spacejobs.now/jobs/relativity-space/propulsion-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Mississippi | $90,000–$136,000/yr | Apr 23 |
+| **Relativity Space** | [Propulsion Test Technician I](https://spacejobs.now/jobs/relativity-space/propulsion-test-technician-i?utm_source=github&utm_medium=new-grad-list) | Mississippi | $28.27–$42.40/hr | Apr 14 |
