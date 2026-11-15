@@ -1,6 +1,6 @@
 ---
 title: "BAE Systems Space & Mission Systems new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "11 open entry-level BAE Systems Space & Mission Systems roles in the US (Mechanical, structures and thermal; Systems, integration and test; Software and IT), updated daily."
+description: "11 open entry-level BAE Systems Space & Mission Systems roles in the US (Mechanical, structures and thermal; Systems, integration and test; Flight software and GNC), updated daily."
 ---
 
 # BAE Systems Space & Mission Systems new grad and entry-level jobs

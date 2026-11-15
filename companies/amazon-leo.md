@@ -1,6 +1,6 @@
 ---
 title: "Amazon Leo new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "5 open entry-level Amazon Leo roles in the US (Software and IT; Systems, integration and test; Avionics and electrical), updated daily."
+description: "5 open entry-level Amazon Leo roles in the US (Software and IT; Launch and mission operations; Avionics and electrical), updated daily."
 ---
 
 # Amazon Leo new grad and entry-level jobs

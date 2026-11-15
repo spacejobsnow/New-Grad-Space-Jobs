@@ -5,7 +5,7 @@ description: "93 open entry-level manufacturing roles at space companies in the 
 
 # Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)
 
-**93 open in the United States at 24 companies, most at Relativity Space, SpaceX, Blue Origin, Lockheed Martin, AST SpaceMobile. Updated 15 Nov 2026.**
+**93 open in the United States at 24 companies, most at Relativity Space, SpaceX, Blue Origin, Lockheed Martin, Firefly Aerospace. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/manufacturing?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

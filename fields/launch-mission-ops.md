@@ -5,7 +5,7 @@ description: "23 open entry-level launch and mission operations roles at space c
 
 # Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)
 
-**23 open in the United States at 13 companies, most at Lockheed Martin, Relativity Space, KBR, SpaceX, Iridium. Updated 15 Nov 2026.**
+**23 open in the United States at 13 companies, most at Lockheed Martin, Relativity Space, KBR, SpaceX, Rocket Lab. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/launch-mission-ops?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

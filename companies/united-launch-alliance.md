@@ -1,6 +1,6 @@
 ---
 title: "United Launch Alliance new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "12 open entry-level United Launch Alliance roles in the US (Mechanical, structures and thermal; Avionics and electrical; Systems, integration and test), updated daily."
+description: "12 open entry-level United Launch Alliance roles in the US (Mechanical, structures and thermal; Flight software and GNC; Avionics and electrical), updated daily."
 ---
 
 # United Launch Alliance new grad and entry-level jobs

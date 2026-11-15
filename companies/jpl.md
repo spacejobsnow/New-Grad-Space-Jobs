@@ -1,6 +1,6 @@
 ---
 title: "NASA Jet Propulsion Laboratory (JPL) new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "7 open entry-level NASA Jet Propulsion Laboratory (JPL) roles in the US (Avionics and electrical; Mechanical, structures and thermal; Systems, integration and test), updated daily."
+description: "7 open entry-level NASA Jet Propulsion Laboratory (JPL) roles in the US (Avionics and electrical; Mechanical, structures and thermal; Flight software and GNC), updated daily."
 ---
 
 # NASA Jet Propulsion Laboratory (JPL) new grad and entry-level jobs

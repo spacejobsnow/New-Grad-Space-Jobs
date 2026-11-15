@@ -1,11 +1,11 @@
 ---
 title: "Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)"
-description: "14 open entry-level quality and mission assurance roles at space companies in the US (Northrop Grumman, Relativity Space, AST SpaceMobile, Frontgrade Technologies and more), updated daily."
+description: "14 open entry-level quality and mission assurance roles at space companies in the US (Northrop Grumman, AST SpaceMobile, Relativity Space, True Anomaly and more), updated daily."
 ---
 
 # Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)
 
-**14 open in the United States at 10 companies, most at Northrop Grumman, Relativity Space, AST SpaceMobile, Frontgrade Technologies, Blue Origin. Updated 15 Nov 2026.**
+**14 open in the United States at 10 companies, most at Northrop Grumman, AST SpaceMobile, Relativity Space, True Anomaly, Frontgrade Technologies. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/quality-safety?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
