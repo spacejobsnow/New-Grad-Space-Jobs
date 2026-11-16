@@ -1,11 +1,11 @@
 ---
 title: "Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)"
-description: "59 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, Relativity Space, United Launch Alliance and more), updated daily."
+description: "59 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, Relativity Space, Sierra Space and more), updated daily."
 ---
 
 # Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)
 
-**59 open in the United States at 16 companies, most at SpaceX, Blue Origin, Relativity Space, United Launch Alliance, Sierra Space. Updated 16 Nov 2026.**
+**59 open in the United States at 16 companies, most at SpaceX, Blue Origin, Relativity Space, Sierra Space, United Launch Alliance. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -1,6 +1,6 @@
 ---
 title: "Rocket Lab new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "21 open entry-level Rocket Lab roles in the US (Systems, integration and test; Manufacturing; Propulsion), updated daily."
+description: "21 open entry-level Rocket Lab roles in the US (Systems, integration and test; Manufacturing; Launch and mission operations), updated daily."
 ---
 
 # Rocket Lab new grad and entry-level jobs

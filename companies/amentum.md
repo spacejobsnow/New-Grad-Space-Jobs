@@ -1,6 +1,6 @@
 ---
 title: "Amentum new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "6 open entry-level Amentum roles in the US (Mechanical, structures and thermal; Supply chain and facilities; Software and IT), updated daily."
+description: "6 open entry-level Amentum roles in the US (Mechanical, structures and thermal; Launch and mission operations; Supply chain and facilities), updated daily."
 ---
 
 # Amentum new grad and entry-level jobs

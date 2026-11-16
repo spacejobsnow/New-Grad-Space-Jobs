@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Virginia (new grad 2026 and 2027)"
-description: "17 open entry-level space jobs in Virginia (KBR, Northrop Grumman, Lockheed Martin, Parsons and more), updated daily."
+description: "17 open entry-level space jobs in Virginia (KBR, Lockheed Martin, Northrop Grumman, Parsons and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Virginia (new grad 2026 and 2027)
 
-**17 open at 8 companies, most at KBR, Northrop Grumman, Lockheed Martin, Parsons, The Aerospace Corporation. Updated 16 Nov 2026.**
+**17 open at 8 companies, most at KBR, Lockheed Martin, Northrop Grumman, Parsons, Intuitive Machines. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/virginia?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

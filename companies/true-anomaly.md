@@ -1,6 +1,6 @@
 ---
 title: "True Anomaly new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "13 open entry-level True Anomaly roles in the US (Software and IT; Flight software and GNC; Propulsion), updated daily."
+description: "13 open entry-level True Anomaly roles in the US (Software and IT; Flight software and GNC; Business and programs), updated daily."
 ---
 
 # True Anomaly new grad and entry-level jobs
