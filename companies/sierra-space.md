@@ -1,6 +1,6 @@
 ---
 title: "Sierra Space new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "18 open entry-level Sierra Space roles in the US (Mechanical, structures and thermal; Manufacturing; Supply chain and facilities), updated daily."
+description: "18 open entry-level Sierra Space roles in the US (Mechanical, structures and thermal; Manufacturing; Software and IT), updated daily."
 ---
 
 # Sierra Space new grad and entry-level jobs

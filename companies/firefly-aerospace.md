@@ -1,6 +1,6 @@
 ---
 title: "Firefly Aerospace new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "16 open entry-level Firefly Aerospace roles in the US (Manufacturing; Mechanical, structures and thermal; Propulsion), updated daily."
+description: "16 open entry-level Firefly Aerospace roles in the US (Manufacturing; Propulsion; Mechanical, structures and thermal), updated daily."
 ---
 
 # Firefly Aerospace new grad and entry-level jobs

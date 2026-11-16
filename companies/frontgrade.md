@@ -1,6 +1,6 @@
 ---
 title: "Frontgrade Technologies new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "8 open entry-level Frontgrade Technologies roles in the US (Manufacturing; Avionics and electrical; Supply chain and facilities), updated daily."
+description: "8 open entry-level Frontgrade Technologies roles in the US (Manufacturing; Avionics and electrical; Systems, integration and test), updated daily."
 ---
 
 # Frontgrade Technologies new grad and entry-level jobs

@@ -1,6 +1,6 @@
 ---
 title: "Relativity Space new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "48 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Launch and mission operations), updated daily."
+description: "48 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Software and IT), updated daily."
 ---
 
 # Relativity Space new grad and entry-level jobs

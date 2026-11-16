@@ -1,11 +1,11 @@
 ---
 title: "Entry-level science, imaging and earth data jobs at space companies (new grad 2026 and 2027)"
-description: "6 open entry-level science, imaging and earth data roles at space companies in the US (KBR, TRL11, RTX, The Aerospace Corporation and more), updated daily."
+description: "6 open entry-level science, imaging and earth data roles at space companies in the US (KBR, RTX, TRL11, The Aerospace Corporation and more), updated daily."
 ---
 
 # Entry-level science, imaging and earth data jobs at space companies (new grad 2026 and 2027)
 
-**6 open in the United States at 5 companies, most at KBR, TRL11, RTX, The Aerospace Corporation, Vantor. Updated 16 Nov 2026.**
+**6 open in the United States at 5 companies, most at KBR, RTX, TRL11, The Aerospace Corporation, Vantor. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/science-imaging?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

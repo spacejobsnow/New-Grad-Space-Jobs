@@ -1,6 +1,6 @@
 ---
 title: "KBR new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "14 open entry-level KBR roles in the US (Systems, integration and test; Launch and mission operations; Software and IT), updated daily."
+description: "14 open entry-level KBR roles in the US (Systems, integration and test; Software and IT; Launch and mission operations), updated daily."
 ---
 
 # KBR new grad and entry-level jobs
