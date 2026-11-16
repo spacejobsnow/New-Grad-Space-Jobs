@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)"
-description: "88 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin and more), updated daily."
+description: "87 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**88 open at 14 companies, most at SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin, Intuitive Machines. Updated 15 Nov 2026.**
+**87 open at 14 companies, most at SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin, Intuitive Machines. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -88,7 +88,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [New Graduate Engineer, Manufacturing (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-manufacturing-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Aug 19 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Aug 19 |
 | **SpaceX** | [New Graduate Engineer, Software - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-software-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Aug 14 |
-| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 1 more |  | Aug 14 |
 | **SpaceX** | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 1 more |  | Aug 14 |
 | **SpaceX** | [Application Software Engineer](https://spacejobs.now/jobs/spacex/application-software-engineer?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 4 more |  | Aug 11 |
 | **Blue Origin** | [Test Engineer I (TX) - Early Career (2026 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-tx-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list) | Van Horn, TX |  | Aug 10 |

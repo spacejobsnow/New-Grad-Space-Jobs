@@ -5,7 +5,7 @@ description: "5 open entry-level Amazon Leo roles in the US (Software and IT; La
 
 # Amazon Leo new grad and entry-level jobs
 
-**5 open in the United States. Updated 15 Nov 2026.**
+**5 open in the United States. Updated 16 Nov 2026.**
 
 Every Amazon Leo role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Amazon Leo's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/amazon-leo?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

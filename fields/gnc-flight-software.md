@@ -5,7 +5,7 @@ description: "43 open entry-level flight software and gnc roles at space compani
 
 # Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)
 
-**43 open in the United States at 19 companies, most at SpaceX, Blue Origin, True Anomaly, Sierra Space, KBR. Updated 15 Nov 2026.**
+**43 open in the United States at 19 companies, most at SpaceX, Blue Origin, True Anomaly, Sierra Space, KBR. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/gnc-flight-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -38,7 +38,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 26 |
 | **SpaceX** | [Software Engineer, Embedded Software (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-embedded-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 26 |
 | **True Anomaly** | [Flight Software Engineer I (Temp-to-hire)](https://spacejobs.now/jobs/true-anomaly/flight-software-engineer-i-temp-to-hire?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more |  | Aug 25 |
-| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 1 more |  | Aug 14 |
+| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 14 |
 | **SpaceX** | [Software Infrastructure Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/software-infrastructure-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
 | **SpaceX** | [Platform Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/platform-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
 | **SpaceX** | [Flight Software Infrastructure Engineer (Starlink)](https://spacejobs.now/jobs/spacex/flight-software-infrastructure-engineer-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |

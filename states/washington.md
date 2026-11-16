@@ -5,7 +5,7 @@ description: "62 open entry-level space jobs in Washington (Blue Origin, SpaceX,
 
 # Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)
 
-**62 open at 6 companies, most at Blue Origin, SpaceX, Cowboy Space, Amazon Leo, Stoke Space. Updated 15 Nov 2026.**
+**62 open at 6 companies, most at Blue Origin, SpaceX, Cowboy Space, Amazon Leo, Stoke Space. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -51,7 +51,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-software-security-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 3 more |  | Aug 19 |
 | **SpaceX** | [New Graduate Engineer, Software - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-software-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Aug 14 |
 | **SpaceX** | [New Graduate Engineer, Mechanical - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $100,000–$135,000/yr | Aug 14 |
-| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 1 more |  | Aug 14 |
+| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 14 |
 | **SpaceX** | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 1 more |  | Aug 14 |
 | **SpaceX** | [Full Stack Engineer (Application Software)](https://spacejobs.now/jobs/spacex/full-stack-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 3 more |  | Aug 14 |
 | **SpaceX** | [Machining Technician (Starlink) - Entry Level](https://spacejobs.now/jobs/spacex/machining-technician-starlink-entry-level?utm_source=github&utm_medium=new-grad-list) | Woodinville, WA | $22.00–$26.50/hr | Aug 12 |

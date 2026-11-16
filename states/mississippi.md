@@ -5,7 +5,7 @@ description: "7 open entry-level space jobs in Mississippi (Relativity Space, No
 
 # Entry-level space and aerospace jobs in Mississippi (new grad 2026 and 2027)
 
-**7 open at 3 companies, most at Relativity Space, Northrop Grumman, Lockheed Martin. Updated 15 Nov 2026.**
+**7 open at 3 companies, most at Relativity Space, Northrop Grumman, Lockheed Martin. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mississippi?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

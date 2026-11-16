@@ -2,12 +2,12 @@
 
 Every open entry-level job at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list), a free job board for the space industry. A role is listed when its posting asks for no prior experience, names new or recent graduates, or is an early-career level.
 
-**466 open in the United States, 44 in Europe, Canada and Asia-Pacific, at 69 companies. Updated 15 Nov 2026.**
+**466 open in the United States, 45 in Europe, Canada and Asia-Pacific, at 69 companies. Updated 16 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
 - United States: the table below
-- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md) (44 roles)
+- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md) (45 roles)
 - Internships and co-ops have their own list: [Summer2027-Space-Internships](https://github.com/spacejobsnow/Summer2027-Space-Internships)
 - The same list as data: [data/new-grad-jobs.json](data/new-grad-jobs.json) (CC BY 4.0)
 
@@ -31,7 +31,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By state
 
-[California](states/california.md) (167), [Colorado](states/colorado.md) (90), [Texas](states/texas.md) (88), [Washington](states/washington.md) (62), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (19), [Virginia](states/virginia.md) (17), [Pennsylvania](states/pennsylvania.md) (9), [Mississippi](states/mississippi.md) (7), [Arizona](states/arizona.md) (6), [New Mexico](states/new-mexico.md) (6), [Maryland](states/maryland.md) (5), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [Ohio](states/ohio.md) (3), [Utah](states/utah.md) (3), [District of Columbia](states/district-of-columbia.md) (2)
+[California](states/california.md) (167), [Colorado](states/colorado.md) (90), [Texas](states/texas.md) (87), [Washington](states/washington.md) (62), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (19), [Virginia](states/virginia.md) (17), [Pennsylvania](states/pennsylvania.md) (9), [Mississippi](states/mississippi.md) (7), [Arizona](states/arizona.md) (6), [New Mexico](states/new-mexico.md) (6), [Maryland](states/maryland.md) (5), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [Ohio](states/ohio.md) (3), [Utah](states/utah.md) (3), [District of Columbia](states/district-of-columbia.md) (2)
 
 ## By company
 
@@ -41,6 +41,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 - [Space jobs that ask for no degree](https://spacejobs.now/space-jobs-without-a-degree?utm_source=github&utm_medium=new-grad-list)
 - [Space jobs open to non-US citizens](https://spacejobs.now/space-jobs-non-us-citizens?utm_source=github&utm_medium=new-grad-list)
+- [Entry-level space jobs that need a security clearance](https://spacejobs.now/space-jobs-with-security-clearance/entry-level?utm_source=github&utm_medium=new-grad-list) (ROTC, veterans, clearance-eligible graduates)
 - [What space employers pay, by employer and kind of work](https://spacejobs.now/salaries?utm_source=github&utm_medium=new-grad-list)
 
 ## United States (466)
@@ -426,7 +427,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Relativity Space** | [Launch Fluids Engineer I](https://spacejobs.now/jobs/relativity-space/launch-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Aug 18 |
 | **SpaceX** | [New Graduate Engineer, Software - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-software-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Aug 14 |
 | **SpaceX** | [New Graduate Engineer, Mechanical - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $100,000–$135,000/yr | Aug 14 |
-| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 1 more |  | Aug 14 |
+| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-gnc-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 14 |
 | **SpaceX** | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 1 more |  | Aug 14 |
 | **SpaceX** | [Full Stack Engineer (Application Software)](https://spacejobs.now/jobs/spacex/full-stack-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 3 more |  | Aug 14 |
 | **KBR** | [Jr. Systems Engineer (Digital Engineering Engagement)](https://spacejobs.now/jobs/kbr/jr-systems-engineer-digital-engineering-engagement?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $82,000–$102,000/yr | Aug 13 |

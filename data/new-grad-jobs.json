@@ -1,8 +1,20 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "jobs": [
+  {
+   "company": "Open Cosmos",
+   "title": "Junior Electronics Engineer (6 month FTC)",
+   "location": "Didcot, United Kingdom and 6 more",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-16",
+   "url": "https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list"
+  },
   {
    "company": "United Launch Alliance",
    "title": "Structural Dynamics Engineer 1",
@@ -5848,13 +5860,12 @@
   {
    "company": "SpaceX",
    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-   "location": "Bastrop, TX and 1 more",
+   "location": "Redmond, WA",
    "in_us": true,
    "states": [
-    "TX",
     "WA"
    ],
-   "pay": null,
+   "pay": "$125,000\u2013$165,000/yr",
    "term": null,
    "field": "gnc-flight-software",
    "posted": "2026-08-14",

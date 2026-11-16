@@ -204,6 +204,7 @@ def main():
         "",
         f"- [Space jobs that ask for no degree]({link('/space-jobs-without-a-degree')})",
         f"- [Space jobs open to non-US citizens]({link('/space-jobs-non-us-citizens')})",
+        f"- [Entry-level space jobs that need a security clearance]({link('/space-jobs-with-security-clearance/entry-level')}) (ROTC, veterans, clearance-eligible graduates)",
         f"- [What space employers pay, by employer and kind of work]({link('/salaries')})",
         "",
         f"## United States ({len(us)})",

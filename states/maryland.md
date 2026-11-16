@@ -5,7 +5,7 @@ description: "5 open entry-level space jobs in Maryland (Rocket Lab, Intuitive M
 
 # Entry-level space and aerospace jobs in Maryland (new grad 2026 and 2027)
 
-**5 open at 2 companies, most at Rocket Lab, Intuitive Machines. Updated 15 Nov 2026.**
+**5 open at 2 companies, most at Rocket Lab, Intuitive Machines. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/maryland?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

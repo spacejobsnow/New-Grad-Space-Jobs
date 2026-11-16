@@ -1,11 +1,11 @@
 ---
 title: "True Anomaly new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "13 open entry-level True Anomaly roles in the US (Software and IT; Flight software and GNC; Avionics and electrical), updated daily."
+description: "13 open entry-level True Anomaly roles in the US (Software and IT; Flight software and GNC; Propulsion), updated daily."
 ---
 
 # True Anomaly new grad and entry-level jobs
 
-**13 open in the United States. Updated 15 Nov 2026.**
+**13 open in the United States. Updated 16 Nov 2026.**
 
 Every True Anomaly role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from True Anomaly's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/true-anomaly?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

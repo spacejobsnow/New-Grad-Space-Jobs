@@ -1,11 +1,12 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-44 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 15 Nov 2026.
+45 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 16 Nov 2026.
 
 [Back to the United States list](README.md)
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Open Cosmos** | [Junior Electronics Engineer (6 month FTC)](https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list) | Didcot, United Kingdom and 6 more |  | Nov 16 |
 | **Lockheed Martin** | [Electromechanical Field Engineer - Graduate / Entry Level](https://spacejobs.now/jobs/lockheed-martin/electromechanical-field-engineer-graduate-entry-level?utm_source=github&utm_medium=new-grad-list) | Helensburgh, United Kingdom |  | Nov 12 |
 | **OHB** | [Junior Plant Operator AFP (m/f/d)](https://spacejobs.now/jobs/ohb/junior-plant-operator-afp-m-f-d?utm_source=github&utm_medium=new-grad-list) | Augsburg, Germany |  | Nov 12 |
 | **SES** | [Junior Financial Controller, MeoSphere](https://spacejobs.now/jobs/ses/junior-financial-controller-meosphere?utm_source=github&utm_medium=new-grad-list) | Betzdorf, Luxembourg |  | Nov 10 |
