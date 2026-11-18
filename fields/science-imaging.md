@@ -1,11 +1,11 @@
 ---
 title: "Entry-level science, imaging and earth data jobs at space companies (new grad 2026 and 2027)"
-description: "6 open entry-level science, imaging and earth data roles at space companies in the US (KBR, RTX, TRL11, The Aerospace Corporation and more), updated daily."
+description: "7 open entry-level science, imaging and earth data roles at space companies in the US (KBR, AstroForge, Vantor, TRL11 and more), updated daily."
 ---
 
 # Entry-level science, imaging and earth data jobs at space companies (new grad 2026 and 2027)
 
-**6 open in the United States at 5 companies, most at KBR, RTX, TRL11, The Aerospace Corporation, Vantor. Updated 16 Nov 2026.**
+**7 open in the United States at 6 companies, most at KBR, AstroForge, Vantor, TRL11, RTX. Updated 18 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/science-imaging?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **AstroForge** | [Data Scientist](https://spacejobs.now/jobs/astroforge/data-scientist?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $140,000–$165,000/yr | Nov 17 |
 | **The Aerospace Corporation** | [2027 Quantum Photonics Scientist - Engineer I](https://spacejobs.now/jobs/aerospace-corporation/2027-quantum-photonics-scientist-engineer-i?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA |  | Oct 26 |
 | **RTX** | [Electro-Optics Systems Engineer I (Onsite)](https://spacejobs.now/jobs/rtx/electro-optics-systems-engineer-i-onsite?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA | $62,900–$119,700/yr | Oct 14 |
 | **Vantor** | [Junior Data Scientist](https://spacejobs.now/jobs/vantor/junior-data-scientist?utm_source=github&utm_medium=new-grad-list) | Remote (United States) |  | Sep 15 |

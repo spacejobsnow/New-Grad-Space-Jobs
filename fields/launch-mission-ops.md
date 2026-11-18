@@ -1,11 +1,11 @@
 ---
 title: "Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)"
-description: "23 open entry-level launch and mission operations roles at space companies in the US (SpaceX, Lockheed Martin, KBR, Relativity Space and more), updated daily."
+description: "23 open entry-level launch and mission operations roles at space companies in the US (SpaceX, Relativity Space, KBR, Iridium and more), updated daily."
 ---
 
 # Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)
 
-**23 open in the United States at 13 companies, most at SpaceX, Lockheed Martin, KBR, Relativity Space, Rocket Lab. Updated 16 Nov 2026.**
+**23 open in the United States at 13 companies, most at SpaceX, Relativity Space, KBR, Iridium, Lockheed Martin. Updated 18 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/launch-mission-ops?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [Operations Engineer (Starship)](https://spacejobs.now/jobs/spacex/operations-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 1 more |  | Nov 17 |
 | **Axiom Space** | [Mission Operations Engineer (Entry Level)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 13 |
 | **Iridium** | [Network Control Specialist I](https://spacejobs.now/jobs/iridium/network-control-specialist-i?utm_source=github&utm_medium=new-grad-list) | Tempe, AZ | $60,000–$75,000/yr | Nov 12 |
 | **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $85,000–$95,000/yr | Nov 12 |
@@ -21,7 +22,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lockheed Martin** | [Systems Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $65,500–$121,700/yr | Nov 5 |
 | **Lockheed Martin** | [Satellite Mission Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/satellite-mission-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Fort Belvoir, VA | $79,300–$147,300/yr | Nov 3 |
 | **SpaceX** | [Test Specialist (Falcon Operations) - Multiple Shifts](https://spacejobs.now/jobs/spacex/test-specialist-falcon-operations-multiple-shifts?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $33.00–$41.75/hr | Nov 2 |
-| **Lockheed Martin** | [Satellite Mission Engr Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/satellite-mission-engr-asc-early-career?utm_source=github&utm_medium=new-grad-list) | White Sands Missile Range, NM | $58,200–$108,200/yr | Nov 2 |
 | **Iridium** | [Network Operations Engineer I](https://spacejobs.now/jobs/iridium/network-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Tempe, AZ | $65,000–$80,000/yr | Oct 30 |
 | **Quantum Space** | [Mission Operations Engineer I](https://spacejobs.now/jobs/quantum-space/mission-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $90,000–$125,000/yr | Oct 28 |
 | **Amazon Leo** | [Manufacturing Engineer I - Launch Payload Processing Facility, LEO Satellite Processing Zone](https://spacejobs.now/jobs/amazon-leo/manufacturing-engineer-i-launch-payload-processing-facility-leo-satellite-processing-zone?utm_source=github&utm_medium=new-grad-list) | Merritt Island, Florida | $96,600–$160,000/yr | Oct 22 |

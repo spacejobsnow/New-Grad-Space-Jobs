@@ -1,11 +1,11 @@
 ---
 title: "Entry-level software and it jobs at space companies (new grad 2026 and 2027)"
-description: "91 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, Lockheed Martin, KBR and more), updated daily."
+description: "91 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, Relativity Space, Blue Origin and more), updated daily."
 ---
 
 # Entry-level software and it jobs at space companies (new grad 2026 and 2027)
 
-**91 open in the United States at 19 companies, most at SpaceX, True Anomaly, Lockheed Martin, KBR, Blue Origin. Updated 16 Nov 2026.**
+**91 open in the United States at 20 companies, most at SpaceX, True Anomaly, Relativity Space, Blue Origin, KBR. Updated 18 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,13 +13,16 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
+| **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Nov 17 |
+| **AstroForge** | [Data Engineer](https://spacejobs.now/jobs/astroforge/data-engineer?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $150,000–$175,000/yr | Nov 17 |
+| **SpaceX** | [Hardware Test Automation Engineer, Satellites (Starlink)](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 17 |
+| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 5 more | $67,000–$140,000/yr | Nov 16 |
 | **Viasat** | [Information Security Specialist, Early Career](https://spacejobs.now/jobs/viasat/information-security-specialist-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $75,000–$118,000/yr | Nov 13 |
-| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA and 5 more | $67,000–$140,000/yr | Nov 12 |
 | **Lockheed Martin** | [Software Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA | $75,400–$140,000/yr | Nov 12 |
 | **SpaceX** | [Aerospace Software Engineer (Starfall)](https://spacejobs.now/jobs/spacex/aerospace-software-engineer-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Nov 12 |
 | **SpaceX** | [New Graduate Engineer, Aerospace Software (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-aerospace-software-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Nov 12 |
 | **Sierra Space** | [Software Engineer I - DevOps / DevSecOps](https://spacejobs.now/jobs/sierra-space/software-engineer-i-devops-devsecops?utm_source=github&utm_medium=new-grad-list) | Louisville, CO and 1 more | $83,999–$115,498/yr | Nov 12 |
-| **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 1 more |  | Nov 11 |
 | **SpaceX** | [Data Engineer (Starship)](https://spacejobs.now/jobs/spacex/data-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Nov 11 |
 | **The Aerospace Corporation** | [Jr. Data Solutions and Software Engineer](https://spacejobs.now/jobs/aerospace-corporation/jr-data-solutions-and-software-engineer?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA |  | Nov 11 |
 | **Blue Origin** | [Lunar Systems Administrator - Level 1](https://spacejobs.now/jobs/blue-origin/lunar-systems-administrator-level-1?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Nov 11 |
@@ -34,7 +37,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, Manufacturing](https://spacejobs.now/jobs/spacex/software-engineer-manufacturing?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 3 |
 | **Vantor** | [Junior Data Engineer (TS/SCI)](https://spacejobs.now/jobs/vantor/junior-data-engineer-ts-sci?utm_source=github&utm_medium=new-grad-list) | Herndon, VA |  | Nov 3 |
 | **Amentum** | [Software Tools Developer, Entry Level](https://spacejobs.now/jobs/amentum/software-tools-developer-entry-level?utm_source=github&utm_medium=new-grad-list) | Huntsville, AL |  | Nov 3 |
-| **Lockheed Martin** | [Dev Sec Engineering - Early Career](https://spacejobs.now/jobs/lockheed-martin/dev-sec-engineering-early-career?utm_source=github&utm_medium=new-grad-list) | Herndon, VA | $75,400–$140,000/yr | Nov 2 |
 | **Iridium** | [Systems Development Engineer I](https://spacejobs.now/jobs/iridium/systems-development-engineer-i?utm_source=github&utm_medium=new-grad-list) | Chandler, AZ | $70,000–$92,000/yr | Oct 30 |
 | **Northwood Space** | [Software Engineer- Early Career (Platform)](https://spacejobs.now/jobs/northwood-space/software-engineer-early-career-platform?utm_source=github&utm_medium=new-grad-list) | Torrance, CA |  | Oct 29 |
 | **SpaceX** | [Application Software Engineer, Launch Software](https://spacejobs.now/jobs/spacex/application-software-engineer-launch-software?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 26 |
@@ -54,7 +56,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, Manufacturing Infrastructure](https://spacejobs.now/jobs/spacex/software-engineer-manufacturing-infrastructure?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 26 |
 | **SpaceX** | [Site Reliability Engineer (High Performance Computing)](https://spacejobs.now/jobs/spacex/site-reliability-engineer-high-performance-computing?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 23 |
 | **SpaceX** | [Full Stack Software Engineer](https://spacejobs.now/jobs/spacex/full-stack-software-engineer?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Sep 23 |
-| **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Sep 22 |
 | **KBR** | [Jr Fullstack Software Engineer](https://spacejobs.now/jobs/kbr/jr-fullstack-software-engineer?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, Colorado | $115,000–$130,000/yr | Sep 21 |
 | **SpaceX** | [Software Engineer (Controls Software)](https://spacejobs.now/jobs/spacex/software-engineer-controls-software?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 18 |
 | **SpaceX** | [Software Engineer, Internal Applications](https://spacejobs.now/jobs/spacex/software-engineer-internal-applications?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 15 |
@@ -103,4 +104,3 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Mission Integration Engineer, AI (Starshield) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/mission-integration-engineer-ai-starshield-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$115,000/yr | May 28 |
 | **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$145,000/yr | May 19 |
 | **True Anomaly** | [Software Engineer I, Full Stack (New Grad)](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-full-stack-new-grad?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more |  | Mar 27 |
-| **SpaceX** | [Software Engineer, C++ - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-c-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jan 19 |

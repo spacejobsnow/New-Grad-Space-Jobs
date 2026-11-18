@@ -1,11 +1,11 @@
 ---
 title: "Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)"
-description: "30 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Blue Origin, Rocket Lab and more), updated daily."
+description: "28 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Firefly Aerospace and more), updated daily."
 ---
 
 # Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)
 
-**30 open in the United States at 17 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Blue Origin, Rocket Lab, Firefly Aerospace. Updated 16 Nov 2026.**
+**28 open in the United States at 15 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Firefly Aerospace, Blue Origin. Updated 18 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/avionics-electrical?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,9 +13,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Lockheed Martin** | [Electronics Engineer - Orion EGSE - Early Career](https://spacejobs.now/jobs/lockheed-martin/electronics-engineer-orion-egse-early-career?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Nov 17 |
+| **Lockheed Martin** | [Circuit Design Engineer Asc-Early Career](https://spacejobs.now/jobs/lockheed-martin/circuit-design-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 17 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more |  | Nov 15 |
-| **Lockheed Martin** | [Circuit Design Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/circuit-design-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 12 |
-| **Northwood Space** | [Electrical Engineer (Portal) - New Grad](https://spacejobs.now/jobs/northwood-space/electrical-engineer-portal-new-grad?utm_source=github&utm_medium=new-grad-list) | Torrance, CA |  | Nov 7 |
 | **SpaceX** | [New Graduate Engineer, Electrical - Satellites (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 5 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Electronics Engineer I (Advanced Electronics Systems and Technologies / 345C)](https://spacejobs.now/jobs/jpl/electronics-engineer-i-advanced-electronics-systems-and-technologies-345c?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $97,656–$114,192/yr | Nov 5 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Power Systems Engineer I (345A)](https://spacejobs.now/jobs/jpl/power-systems-engineer-i-345a?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $99,112–$118,560/yr | Nov 5 |
@@ -26,11 +26,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **X-Bow Systems** | [Junior Controls Engineer](https://spacejobs.now/jobs/x-bow-systems/junior-controls-engineer?utm_source=github&utm_medium=new-grad-list) | Luling, TX |  | Nov 3 |
 | **Voyager Technologies** | [Electrical Hardware Engineer I](https://spacejobs.now/jobs/voyager/electrical-hardware-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pittsburgh, PA |  | Oct 29 |
 | **Rocket Lab** | [Harness Engineer I](https://spacejobs.now/jobs/rocket-lab/harness-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Oct 28 |
-| **Viasat** | [Hardware Engineer (PWB / PWA Design), Early Career](https://spacejobs.now/jobs/viasat/hardware-engineer-pwb-pwa-design-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $85,000–$134,000/yr | Oct 28 |
 | **True Anomaly** | [Harness Engineer I](https://spacejobs.now/jobs/true-anomaly/harness-engineer-i?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $75,000–$110,000/yr | Oct 27 |
 | **Rocket Lab** | [Electrical Engineer I](https://spacejobs.now/jobs/rocket-lab/electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $88,000–$132,000/yr | Oct 27 |
 | **Firefly Aerospace** | [Wire Harness Electrical Engineer I](https://spacejobs.now/jobs/firefly-aerospace/wire-harness-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 27 |
-| **Rendezvous Robotics** | [Avionics Engineer (Early Career)](https://spacejobs.now/jobs/rendezvous-robotics/avionics-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Golden, CO |  | Oct 22 |
 | **Firefly Aerospace** | [Electrical Engineer II](https://spacejobs.now/jobs/firefly-aerospace/electrical-engineer-ii?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 20 |
 | **SpaceX** | [New Graduate Engineer, Electrical (Starshield)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $115,000–$140,000/yr | Oct 19 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Power Electronics Engineer I](https://spacejobs.now/jobs/jpl/power-electronics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $97,656–$114,192/yr | Oct 19 |

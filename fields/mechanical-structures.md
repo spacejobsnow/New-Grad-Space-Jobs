@@ -1,11 +1,11 @@
 ---
 title: "Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)"
-description: "59 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, Relativity Space, Sierra Space and more), updated daily."
+description: "59 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, United Launch Alliance, Relativity Space and more), updated daily."
 ---
 
 # Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)
 
-**59 open in the United States at 16 companies, most at SpaceX, Blue Origin, Relativity Space, Sierra Space, United Launch Alliance. Updated 16 Nov 2026.**
+**59 open in the United States at 17 companies, most at SpaceX, Blue Origin, United Launch Alliance, Relativity Space, Sierra Space. Updated 18 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Mechanical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
+| **United Launch Alliance** | [Structural Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
+| **Quantum Space** | [Mechanical Engineer I](https://spacejobs.now/jobs/quantum-space/mechanical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more | $85,000–$110,000/yr | Nov 17 |
+| **Quantum Space** | [Structural Analyst I](https://spacejobs.now/jobs/quantum-space/structural-analyst-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more |  | Nov 16 |
 | **United Launch Alliance** | [Structural Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 15 |
 | **Relativity Space** | [Vehicle Structures Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 13 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – Structural](https://spacejobs.now/jobs/bae-systems-space/engineer-i-structural?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $64,926–$110,374/yr | Nov 13 |
@@ -21,9 +25,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **NASA Jet Propulsion Laboratory (JPL)** | [Mechatronics Engineer I](https://spacejobs.now/jobs/jpl/mechatronics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $102,232–$123,136/yr | Nov 12 |
 | **Relativity Space** | [Vehicle Fluids Hardware Development Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-fluids-hardware-development-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 11 |
 | **Millennium Space Systems** | [Structural Analysis Engineer (Entry-level)](https://spacejobs.now/jobs/millennium-space-systems/structural-analysis-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA | $63,000–$113,000/yr | Nov 11 |
-| **United Launch Alliance** | [Mechanical Design Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/mechanical-design-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 10 |
 | **United Launch Alliance** | [Thermodynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 10 |
-| **Rocket Lab** | [Mechanical Engineer I](https://spacejobs.now/jobs/rocket-lab/mechanical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $94,000–$98,000/yr | Nov 9 |
 | **Relativity Space** | [Vehicle Structures Engineer I (Heat Shield)](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-heat-shield?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 6 |
 | **Amentum** | [Early Career Spaceflight Hardware Propulsion Engineer](https://spacejobs.now/jobs/amentum/early-career-spaceflight-hardware-propulsion-engineer?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 6 |
 | **SpaceX** | [New Graduate Engineer, Mechanical - Satellites (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $100,000–$135,000/yr | Nov 5 |
@@ -42,11 +44,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [New Graduate Engineer, Infrastructure](https://spacejobs.now/jobs/spacex/new-graduate-engineer-infrastructure?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Oct 16 |
 | **Relativity Space** | [Vehicle Mechanisms Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-mechanisms-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 15 |
 | **Amentum** | [Structural Analyst, Early Career (ES2)](https://spacejobs.now/jobs/amentum/structural-analyst-early-career-es2?utm_source=github&utm_medium=new-grad-list) | Huntsville, AL |  | Oct 14 |
-| **BAE Systems Space & Mission Systems** | [Project Engineer I - Mechanical](https://spacejobs.now/jobs/bae-systems-space/project-engineer-i-mechanical?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado and 2 more | $118,095–$200,762/yr | Oct 13 |
 | **Blue Origin** | [Robotics Engineer I](https://spacejobs.now/jobs/blue-origin/robotics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $110,623–$154,872/yr | Oct 12 |
 | **Sierra Space** | [Mechanical Engineer I (Mechanisms)](https://spacejobs.now/jobs/sierra-space/mechanical-engineer-i-mechanisms?utm_source=github&utm_medium=new-grad-list) | Durham, NC | $77,234–$106,197/yr | Oct 11 |
 | **Sierra Space** | [Mechanical Engineer I (Thermal Design)](https://spacejobs.now/jobs/sierra-space/mechanical-engineer-i-thermal-design?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,234–$106,197/yr | Oct 9 |
-| **BAE Systems Space & Mission Systems** | [Project Engineer I – Cryo Systems](https://spacejobs.now/jobs/bae-systems-space/project-engineer-i-cryo-systems?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado | $118,095–$200,762/yr | Oct 9 |
 | **Sierra Space** | [Mechanical Engineer I (Solar Arrays)](https://spacejobs.now/jobs/sierra-space/mechanical-engineer-i-solar-arrays?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $77,234–$106,197/yr | Oct 7 |
 | **Sierra Space** | [Structural Analysis Engineer I (Stress Analysis)](https://spacejobs.now/jobs/sierra-space/structural-analysis-engineer-i-stress-analysis?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,234–$106,197/yr | Oct 7 |
 | **Sierra Space** | [Thermal Analysis Engineer I](https://spacejobs.now/jobs/sierra-space/thermal-analysis-engineer-i?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $82,646–$113,638/yr | Oct 7 |

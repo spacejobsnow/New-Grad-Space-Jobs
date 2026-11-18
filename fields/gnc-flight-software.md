@@ -1,11 +1,11 @@
 ---
 title: "Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)"
-description: "43 open entry-level flight software and gnc roles at space companies in the US (SpaceX, Blue Origin, True Anomaly, KBR and more), updated daily."
+description: "42 open entry-level flight software and gnc roles at space companies in the US (SpaceX, Blue Origin, True Anomaly, United Launch Alliance and more), updated daily."
 ---
 
 # Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)
 
-**43 open in the United States at 19 companies, most at SpaceX, Blue Origin, True Anomaly, KBR, Sierra Space. Updated 16 Nov 2026.**
+**42 open in the United States at 18 companies, most at SpaceX, Blue Origin, True Anomaly, United Launch Alliance, Relativity Space. Updated 18 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/gnc-flight-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Trajectory Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/trajectory-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 17 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – Embedded Software](https://spacejobs.now/jobs/bae-systems-space/engineer-i-embedded-software?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Nov 11 |
 | **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Flight Software Engineer I](https://spacejobs.now/jobs/jpl/flight-software-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $96,616–$117,104/yr | Nov 5 |
@@ -52,7 +53,5 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **KBR** | [Junior Orbit Analyst](https://spacejobs.now/jobs/kbr/junior-orbit-analyst?utm_source=github&utm_medium=new-grad-list) | Springfield, Virginia | $101,700–$124,300/yr | Jul 1 |
 | **SpaceX** | [Software Engineer (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jun 26 |
 | **SpaceX** | [Software Engineer, Flight Software C++ (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-c-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jun 16 |
-| **Inversion Space** | [Autonomy Engineer I, Arc Vehicle](https://spacejobs.now/jobs/inversion-space/autonomy-engineer-i-arc-vehicle?utm_source=github&utm_medium=new-grad-list) | Los Angeles, California |  | Jun 12 |
 | **SpaceX** | [Software Engineer (Special Projects) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-special-projects-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | May 28 |
 | **True Anomaly** | [Machine Learning Engineer (II-III), Space Agentic AI](https://spacejobs.now/jobs/true-anomaly/machine-learning-engineer-ii-iii-space-agentic-ai?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $125,000–$220,000/yr | May 15 |
-| **SpaceX** | [New Graduate Engineer, Software](https://spacejobs.now/jobs/spacex/new-graduate-engineer-software?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$145,000/yr | Apr 3 |

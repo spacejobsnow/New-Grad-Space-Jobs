@@ -5,7 +5,7 @@ description: "14 open entry-level KBR roles in the US (Systems, integration and 
 
 # KBR new grad and entry-level jobs
 
-**14 open in the United States. Updated 16 Nov 2026.**
+**14 open in the United States. Updated 18 Nov 2026.**
 
 Every KBR role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from KBR's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/kbr?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

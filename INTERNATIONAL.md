@@ -1,12 +1,12 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-45 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 16 Nov 2026.
+42 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 18 Nov 2026.
 
 [Back to the United States list](README.md)
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
-| **Open Cosmos** | [Junior Electronics Engineer (6 month FTC)](https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list) | Didcot, United Kingdom and 6 more |  | Nov 16 |
+| **Open Cosmos** | [Junior Electronics Engineer (6 month FTC)](https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list) | Didcot, United Kingdom |  | Nov 16 |
 | **Lockheed Martin** | [Electromechanical Field Engineer - Graduate / Entry Level](https://spacejobs.now/jobs/lockheed-martin/electromechanical-field-engineer-graduate-entry-level?utm_source=github&utm_medium=new-grad-list) | Helensburgh, United Kingdom |  | Nov 12 |
 | **OHB** | [Junior Plant Operator AFP (m/f/d)](https://spacejobs.now/jobs/ohb/junior-plant-operator-afp-m-f-d?utm_source=github&utm_medium=new-grad-list) | Augsburg, Germany |  | Nov 12 |
 | **SES** | [Junior Financial Controller, MeoSphere](https://spacejobs.now/jobs/ses/junior-financial-controller-meosphere?utm_source=github&utm_medium=new-grad-list) | Betzdorf, Luxembourg |  | Nov 10 |
@@ -25,7 +25,6 @@
 | **Eutelsat** | [Apprenti(e) Financial Planning & Analysis](https://spacejobs.now/jobs/eutelsat/apprenti-e-financial-planning-analysis?utm_source=github&utm_medium=new-grad-list) | Issy-Les-Moulineaux, France |  | Oct 30 |
 | **Eutelsat** | [Junior Legal Counsel (IRIS2)](https://spacejobs.now/jobs/eutelsat/junior-legal-counsel-iris2?utm_source=github&utm_medium=new-grad-list) | Issy-Les-Moulineaux, France |  | Oct 30 |
 | **Open Cosmos** | [Procurement Specialist (Entry level)](https://spacejobs.now/jobs/open-cosmos/procurement-specialist-entry-level?utm_source=github&utm_medium=new-grad-list) | Didcot, United Kingdom |  | Oct 28 |
-| **The Exploration Company** | [Junior Engine Control System & Monitoring Engineer](https://spacejobs.now/jobs/the-exploration-company/junior-engine-control-system-monitoring-engineer?utm_source=github&utm_medium=new-grad-list) | Munich, Germany |  | Oct 26 |
 | **Telespazio** | [Junior Spacecraft Operations Engineer](https://spacejobs.now/jobs/telespazio/junior-spacecraft-operations-engineer?utm_source=github&utm_medium=new-grad-list) | Fucino, Italy |  | Oct 26 |
 | **Thales Alenia Space** | [Concepteur Electronique RF Junior - F/H](https://spacejobs.now/jobs/thales-alenia-space/concepteur-electronique-rf-junior-f-h?utm_source=github&utm_medium=new-grad-list) | Toulouse, Haute-Garonne, France |  | Oct 24 |
 | **Thales Alenia Space** | [Concepteur Electronique Numérique Junior - F/H](https://spacejobs.now/jobs/thales-alenia-space/concepteur-electronique-numerique-junior-f-h?utm_source=github&utm_medium=new-grad-list) | Toulouse, Haute-Garonne, France |  | Oct 22 |
@@ -42,10 +41,8 @@
 | **Airbus Defence and Space** | [Space Manufacturing Engineering Higher Technical Apprenticeship](https://spacejobs.now/jobs/airbus-defence-and-space/space-manufacturing-engineering-higher-technical-apprenticeship?utm_source=github&utm_medium=new-grad-list) | Portsmouth, United Kingdom |  | Oct 5 |
 | **Airbus Defence and Space** | [Structures Manufacturing Technician Craft Apprenticeship (Level 2)](https://spacejobs.now/jobs/airbus-defence-and-space/structures-manufacturing-technician-craft-apprenticeship-level-2?utm_source=github&utm_medium=new-grad-list) | Stevenage, United Kingdom |  | Oct 5 |
 | **Foundational** | [Apprentice Technician](https://spacejobs.now/jobs/foundational/apprentice-technician?utm_source=github&utm_medium=new-grad-list) | London, United Kingdom |  | Sep 30 |
-| **AST SpaceMobile** | [Satellite Operations Engineer Junior](https://spacejobs.now/jobs/ast-spacemobile/satellite-operations-engineer-junior?utm_source=github&utm_medium=new-grad-list) | Barcelona, Spain |  | Sep 22 |
 | **Rocket Lab** | [Junior Development Engineer - Neutron](https://spacejobs.now/jobs/rocket-lab/junior-development-engineer-neutron?utm_source=github&utm_medium=new-grad-list) | Auckland, New Zealand |  | Sep 14 |
 | **ISISPACE** | [Mechanical Engineer - Junior/Medior](https://spacejobs.now/jobs/isispace/mechanical-engineer-junior-medior?utm_source=github&utm_medium=new-grad-list) | Delft, Netherlands |  | Sep 14 |
-| **Rocket Lab** | [Launch Technician I - Mechanical](https://spacejobs.now/jobs/rocket-lab/launch-technician-i-mechanical?utm_source=github&utm_medium=new-grad-list) | Mahia, New Zealand |  | Sep 2 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. (d/m/w) Elektrotechnik​ und Informationstechnik / Automation zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-d-m-w-elektrotechnik-und-informationstechnik-automation-zum-01-09?utm_source=github&utm_medium=new-grad-list) | Immenstaad am Bodensee, Germany |  | Jun 19 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. Embedded Systems (d/m/w) zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-embedded-systems-d-m-w-zum-01-09-2027?utm_source=github&utm_medium=new-grad-list) | Stuttgart Area, Germany |  | Jun 8 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. Elektrotechnik und Informationstechnik, Elektronik/Kommunikationstechnik (d/m/w) zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-elektrotechnik-und-informationstechnik-elektronik?utm_source=github&utm_medium=new-grad-list) | Stuttgart Area, Germany |  | Jun 8 |
