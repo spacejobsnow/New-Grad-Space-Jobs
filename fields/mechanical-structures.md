@@ -1,11 +1,11 @@
 ---
 title: "Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)"
-description: "59 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, United Launch Alliance, Relativity Space and more), updated daily."
+description: "58 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, United Launch Alliance, Relativity Space and more), updated daily."
 ---
 
 # Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)
 
-**59 open in the United States at 17 companies, most at SpaceX, Blue Origin, United Launch Alliance, Relativity Space, Sierra Space. Updated 18 Nov 2026.**
+**58 open in the United States at 16 companies, most at SpaceX, Blue Origin, United Launch Alliance, Relativity Space, Sierra Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -19,7 +19,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Quantum Space** | [Structural Analyst I](https://spacejobs.now/jobs/quantum-space/structural-analyst-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more |  | Nov 16 |
 | **United Launch Alliance** | [Structural Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 15 |
 | **Relativity Space** | [Vehicle Structures Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 13 |
-| **BAE Systems Space & Mission Systems** | [Engineer I – Structural](https://spacejobs.now/jobs/bae-systems-space/engineer-i-structural?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $64,926–$110,374/yr | Nov 13 |
 | **Lockheed Martin** | [Electro Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/electro-mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Englewood, CO | $65,500–$121,700/yr | Nov 12 |
 | **Lockheed Martin** | [Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Nov 12 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Mechatronics Engineer I](https://spacejobs.now/jobs/jpl/mechatronics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $102,232–$123,136/yr | Nov 12 |

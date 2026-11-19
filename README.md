@@ -2,12 +2,12 @@
 
 Every open entry-level job at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list), a free job board for the space industry. A role is listed when its posting asks for no prior experience, names new or recent graduates, or is an early-career level.
 
-**468 open in the United States, 42 in Europe, Canada and Asia-Pacific, at 69 companies. Updated 18 Nov 2026.**
+**470 open in the United States, 40 in Europe, Canada and Asia-Pacific, at 69 companies. Updated 19 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
 - United States: the table below
-- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md) (42 roles)
+- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md) (40 roles)
 - Internships and co-ops have their own list: [Summer2027-Space-Internships](https://github.com/spacejobsnow/Summer2027-Space-Internships)
 - The same list as data: [data/new-grad-jobs.json](data/new-grad-jobs.json) (CC BY 4.0)
 
@@ -15,27 +15,27 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By field
 
-- [Software and IT](fields/ground-software.md) (91 in the US)
-- [Flight software and GNC](fields/gnc-flight-software.md) (42 in the US)
-- [Mechanical, structures and thermal](fields/mechanical-structures.md) (59 in the US)
+- [Software and IT](fields/ground-software.md) (90 in the US)
+- [Flight software and GNC](fields/gnc-flight-software.md) (43 in the US)
+- [Mechanical, structures and thermal](fields/mechanical-structures.md) (58 in the US)
 - [Avionics and electrical](fields/avionics-electrical.md) (28 in the US)
 - [RF, communications and payloads](fields/rf-communications.md) (5 in the US)
-- [Propulsion](fields/propulsion.md) (13 in the US)
-- [Systems, integration and test](fields/systems-test.md) (52 in the US)
-- [Launch and mission operations](fields/launch-mission-ops.md) (23 in the US)
-- [Manufacturing](fields/manufacturing.md) (97 in the US)
-- [Quality and mission assurance](fields/quality-safety.md) (14 in the US)
+- [Propulsion](fields/propulsion.md) (12 in the US)
+- [Systems, integration and test](fields/systems-test.md) (53 in the US)
+- [Launch and mission operations](fields/launch-mission-ops.md) (24 in the US)
+- [Manufacturing](fields/manufacturing.md) (98 in the US)
+- [Quality and mission assurance](fields/quality-safety.md) (15 in the US)
 - [Science, imaging and Earth data](fields/science-imaging.md) (7 in the US)
 - [Business and programs](fields/business-programs.md) (13 in the US)
 - [Supply chain and facilities](fields/supply-chain-facilities.md) (16 in the US)
 
 ## By state
 
-[California](states/california.md) (169), [Colorado](states/colorado.md) (90), [Texas](states/texas.md) (88), [Washington](states/washington.md) (63), [Florida](states/florida.md) (46), [Alabama](states/alabama.md) (19), [Virginia](states/virginia.md) (18), [Pennsylvania](states/pennsylvania.md) (9), [New Mexico](states/new-mexico.md) (7), [Mississippi](states/mississippi.md) (7), [Arizona](states/arizona.md) (6), [Maryland](states/maryland.md) (6), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [Ohio](states/ohio.md) (3), [Utah](states/utah.md) (3), [District of Columbia](states/district-of-columbia.md) (2)
+[California](states/california.md) (170), [Colorado](states/colorado.md) (89), [Texas](states/texas.md) (88), [Washington](states/washington.md) (65), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (19), [Virginia](states/virginia.md) (18), [Pennsylvania](states/pennsylvania.md) (9), [New Mexico](states/new-mexico.md) (7), [Mississippi](states/mississippi.md) (7), [Arizona](states/arizona.md) (6), [Maryland](states/maryland.md) (6), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [Utah](states/utah.md) (3), [Ohio](states/ohio.md) (2), [District of Columbia](states/district-of-columbia.md) (2)
 
 ## By company
 
-[SpaceX](companies/spacex.md) (121), [Relativity Space](companies/relativity-space.md) (47), [Blue Origin](companies/blue-origin.md) (42), [Lockheed Martin](companies/lockheed-martin.md) (35), [Rocket Lab](companies/rocket-lab.md) (23), [Sierra Space](companies/sierra-space.md) (18), [Firefly Aerospace](companies/firefly-aerospace.md) (16), [United Launch Alliance](companies/united-launch-alliance.md) (14), [KBR](companies/kbr.md) (14), [True Anomaly](companies/true-anomaly.md) (12), [BAE Systems Space & Mission Systems](companies/bae-systems-space.md) (10), [US Space Force](companies/us-space-force.md) (8), [AST SpaceMobile](companies/ast-spacemobile.md) (8), [Northrop Grumman](companies/northrop-grumman.md) (8), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (7), [Frontgrade Technologies](companies/frontgrade.md) (6), [Amentum](companies/amentum.md) (6), [Amazon Leo](companies/amazon-leo.md) (5)
+[SpaceX](companies/spacex.md) (121), [Relativity Space](companies/relativity-space.md) (49), [Blue Origin](companies/blue-origin.md) (42), [Lockheed Martin](companies/lockheed-martin.md) (35), [Rocket Lab](companies/rocket-lab.md) (23), [Sierra Space](companies/sierra-space.md) (18), [Firefly Aerospace](companies/firefly-aerospace.md) (16), [United Launch Alliance](companies/united-launch-alliance.md) (13), [KBR](companies/kbr.md) (13), [True Anomaly](companies/true-anomaly.md) (12), [BAE Systems Space & Mission Systems](companies/bae-systems-space.md) (10), [US Space Force](companies/us-space-force.md) (8), [AST SpaceMobile](companies/ast-spacemobile.md) (8), [Northrop Grumman](companies/northrop-grumman.md) (8), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (7), [Frontgrade Technologies](companies/frontgrade.md) (6), [Amazon Leo](companies/amazon-leo.md) (6), [Amentum](companies/amentum.md) (6)
 
 ## Also useful
 
@@ -44,10 +44,11 @@ Many US roles require US citizenship or US person status (export rules); each ro
 - [Entry-level space jobs that need a security clearance](https://spacejobs.now/space-jobs-with-security-clearance/entry-level?utm_source=github&utm_medium=new-grad-list) (ROTC, veterans, clearance-eligible graduates)
 - [What space employers pay, by employer and kind of work](https://spacejobs.now/salaries?utm_source=github&utm_medium=new-grad-list)
 
-## United States (468)
+## United States (470)
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Relativity Space** | [New Grad 2027 - Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California |  | Nov 18 |
 | **US Space Force** | [Utility Systems Operator](https://spacejobs.now/jobs/us-space-force/utility-systems-operator?utm_source=github&utm_medium=new-grad-list) | Schriever AFB, CO | $66,179–$77,198/yr | Nov 18 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Nov 17 |
@@ -85,7 +86,6 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Relativity Space** | [Vehicle Structures Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 13 |
 | **Frontgrade Technologies** | [Production Test Technician I, 2nd Shift](https://spacejobs.now/jobs/frontgrade/production-test-technician-i-2nd-shift?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA |  | Nov 13 |
 | **Vast** | [Compensation Analyst I](https://spacejobs.now/jobs/vast/compensation-analyst-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $32–$45/hr | Nov 13 |
-| **BAE Systems Space & Mission Systems** | [Engineer I – Structural](https://spacejobs.now/jobs/bae-systems-space/engineer-i-structural?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $64,926–$110,374/yr | Nov 13 |
 | **Axiom Space** | [Mission Operations Engineer (Entry Level)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 13 |
 | **Rocket Lab** | [IQC Inspector I](https://spacejobs.now/jobs/rocket-lab/iqc-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 12 |
 | **Lockheed Martin** | [Satellite Mission Engr - Early Career](https://spacejobs.now/jobs/lockheed-martin/satellite-mission-engr-early-career?utm_source=github&utm_medium=new-grad-list) | White Sands Missile Range, NM | $70,500–$130,900/yr | Nov 12 |
@@ -114,7 +114,6 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Anduril** | [2027 New Grad Information Security Engineer](https://spacejobs.now/jobs/anduril/2027-new-grad-information-security-engineer?utm_source=github&utm_medium=new-grad-list) | Costa Mesa, California | $88,000–$117,000/yr | Nov 10 |
 | **AST SpaceMobile** | [Technician I, 3rd shift, 20703 MLI](https://spacejobs.now/jobs/ast-spacemobile/technician-i-3rd-shift-20703-mli?utm_source=github&utm_medium=new-grad-list) | Midland, Texas | $20.00/hr | Nov 10 |
 | **United Launch Alliance** | [Thermodynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 10 |
-| **United Launch Alliance** | [Prop Systems Design Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/prop-systems-design-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 10 |
 | **Sierra Space** | [Manufacturing Specialist I - Tooling](https://spacejobs.now/jobs/sierra-space/manufacturing-specialist-i-tooling?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $73,231–$100,714/yr | Nov 10 |
 | **Amazon Leo** | [IT Application Engineer I, Amazon Leo, ALM365](https://spacejobs.now/jobs/amazon-leo/it-application-engineer-i-amazon-leo-alm365?utm_source=github&utm_medium=new-grad-list) | Bellevue, Washington | $90,700–$158,700/yr | Nov 10 |
 | **Amazon Leo** | [Quality Assurance Engineer I, Leo Network Observability, Visibility & Analytics team](https://spacejobs.now/jobs/amazon-leo/quality-assurance-engineer-i-leo-network-observability-visibility-analytics-team?utm_source=github&utm_medium=new-grad-list) | Redmond, Washington | $84,100–$147,200/yr | Nov 10 |
@@ -126,12 +125,12 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Omitron** | [Junior Orbital Analyst](https://spacejobs.now/jobs/omitron/junior-orbital-analyst?utm_source=github&utm_medium=new-grad-list) | Vandenberg SFB, CA | $90,000–$130,000/yr | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Manufacturing Systems](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Internal Platforms](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-internal-platforms?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Nov 9 |
+| **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 9 |
 | **Varda Space Industries** | [CNC Lathe Machinist I and II, Prototype Shop](https://spacejobs.now/jobs/varda/cnc-lathe-machinist-i-and-ii-prototype-shop?utm_source=github&utm_medium=new-grad-list) | El Segundo, California | $29–$40/hr | Nov 7 |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 6 |
 | **Relativity Space** | [Vehicle Structures Engineer I (Heat Shield)](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-heat-shield?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 6 |
 | **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **Voyager Technologies** | [Energetics Technician I](https://spacejobs.now/jobs/voyager/energetics-technician-i?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $27/hr | Nov 6 |
-| **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
 | **US Space Force** | [Maintenance Mechanic](https://spacejobs.now/jobs/us-space-force/maintenance-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
 | **Firefly Aerospace** | [Composites Manufacturing Engineer I](https://spacejobs.now/jobs/firefly-aerospace/composites-manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Nov 6 |
 | **BAE Systems Space & Mission Systems** | [Space Operations Specialist I – Space Systems Ops & Sustainment](https://spacejobs.now/jobs/bae-systems-space/space-operations-specialist-i-space-systems-ops-sustainment?utm_source=github&utm_medium=new-grad-list) | Las Cruces, New Mexico | $53,122–$90,306/yr | Nov 6 |
@@ -181,6 +180,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Intuitive Machines** | [JR Spaceflight Hardware Propulsion Engineer](https://spacejobs.now/jobs/intuitive-machines/jr-spaceflight-hardware-propulsion-engineer?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 2 |
 | **Lockheed Martin** | [Integrated Program Planner Asc - Level 1](https://spacejobs.now/jobs/lockheed-martin/integrated-program-planner-asc-level-1?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 1 more | $55,700–$103,400/yr | Oct 30 |
 | **Rocket Lab** | [Production Planner I](https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $63,000–$79,000/yr | Oct 30 |
+| **BAE Systems Space & Mission Systems** | [Systems Engineer I - Core Systems Engineering](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Oct 30 |
 | **CACI** | [Radio frequency/Electrical Engineer I](https://spacejobs.now/jobs/caci/radio-frequency-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $63,300–$129,700/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Project Engineer I - Industrial](https://spacejobs.now/jobs/bae-systems-space/project-engineer-i-industrial?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado | $118,095–$200,762/yr | Oct 30 |
 | **SpaceX** | [Production Control Scheduler (Starship Launch Hardware)](https://spacejobs.now/jobs/spacex/production-control-scheduler-starship-launch-hardware?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL |  | Oct 30 |
@@ -309,6 +309,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Lockheed Martin** | [Orion Test Operations Engineer-Entry Level - Third Shift](https://spacejobs.now/jobs/lockheed-martin/orion-test-operations-engineer-entry-level-third-shift?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Oct 8 |
 | **Northrop Grumman** | [Manufacturing Technician - Level 1](https://spacejobs.now/jobs/northrop-grumman/manufacturing-technician-level-1?utm_source=github&utm_medium=new-grad-list) | San Diego, CA | $43,400–$72,300/yr | Oct 8 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Spacecraft Fluids)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-spacecraft-fluids?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 8 |
+| **Relativity Space** | [Instrumentation & Controls Engineer I](https://spacejobs.now/jobs/relativity-space/instrumentation-controls-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 7 |
 | **SpaceX** | [Application Software Engineer, Employee Experience](https://spacejobs.now/jobs/spacex/application-software-engineer-employee-experience?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 7 |
 | **Sierra Space** | [Mechanical Engineer I (Solar Arrays)](https://spacejobs.now/jobs/sierra-space/mechanical-engineer-i-solar-arrays?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $77,234–$106,197/yr | Oct 7 |
 | **Sierra Space** | [Structural Analysis Engineer I (Stress Analysis)](https://spacejobs.now/jobs/sierra-space/structural-analysis-engineer-i-stress-analysis?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,234–$106,197/yr | Oct 7 |
@@ -438,6 +439,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **KBR** | [Jr. Systems Engineer (Digital Engineering Engagement)](https://spacejobs.now/jobs/kbr/jr-systems-engineer-digital-engineering-engagement?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $82,000–$102,000/yr | Aug 13 |
 | **SpaceX** | [Machining Technician (Starlink) - Entry Level](https://spacejobs.now/jobs/spacex/machining-technician-starlink-entry-level?utm_source=github&utm_medium=new-grad-list) | Woodinville, WA | $22.00–$26.50/hr | Aug 12 |
 | **Blue Origin** | [Fluid Systems & Propulsion Engineer I – Early Career (2026 starts)](https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Aug 12 |
+| **Amazon Leo** | [Manufacturing Technician I](https://spacejobs.now/jobs/amazon-leo/manufacturing-technician-i?utm_source=github&utm_medium=new-grad-list) | Kirkland, Washington | $26–$30/hr | Aug 12 |
 | **SpaceX** | [Software Infrastructure Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/software-infrastructure-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
 | **SpaceX** | [Platform Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/platform-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
 | **SpaceX** | [Flight Software Infrastructure Engineer (Starlink)](https://spacejobs.now/jobs/spacex/flight-software-infrastructure-engineer-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
@@ -454,7 +456,6 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **SpaceX** | [Apprentice Fabrication Technician - 2nd Shift](https://spacejobs.now/jobs/spacex/apprentice-fabrication-technician-2nd-shift?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Aug 5 |
 | **Muon Space** | [Software Engineer, Entry-Level](https://spacejobs.now/jobs/muon-space/software-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | San Jose, CA | $151,000–$172,000/yr | Aug 5 |
 | **Relativity Space** | [Manufacturing Engineer I, Paint and TPS](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-paint-and-tps?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Aug 3 |
-| **KBR** | [Junior Systems Engineer](https://spacejobs.now/jobs/kbr/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Beavercreek, Ohio | $80,000–$100,000/yr | Jul 31 |
 | **SpaceX** | [Application Software Engineer, Applied AI](https://spacejobs.now/jobs/spacex/application-software-engineer-applied-ai?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 6 more |  | Jul 30 |
 | **SpaceX** | [Entry-Level Production Technician, PCBA](https://spacejobs.now/jobs/spacex/entry-level-production-technician-pcba?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $22.00–$26.50/hr | Jul 30 |
 | **SpaceX** | [Software Engineer, Data - Top Secret Clearance (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-data-top-secret-clearance-starlink?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Jul 30 |
@@ -515,6 +516,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 | **Rocket Lab** | [Manufacturing Engineer I](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $84,550–$108,000/yr | Nov 10 |
 | **TRL11** | [Jr Algorithms/Video Engineer](https://spacejobs.now/jobs/trl11/jr-algorithms-video-engineer?utm_source=github&utm_medium=new-grad-list) | Irvine, California |  | May 30 |
 | **Amentum** | [JSC Operator 1 of 2](https://spacejobs.now/jobs/amentum/jsc-operator-1-of-2?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Jan 10 |
+| **Stoke Space** | [Entry Level Aerospace Technician](https://spacejobs.now/jobs/stoke-space/entry-level-aerospace-technician?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $25.00/hr | Aug 14 |
 | **Astranis** | [Mechanical Engineer - Spacecraft Configuration](https://spacejobs.now/jobs/astranis/mechanical-engineer-spacecraft-configuration?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $100,000–$130,000/yr | Mar 22 |
 
 ## Missing a company?

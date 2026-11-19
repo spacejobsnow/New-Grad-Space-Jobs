@@ -1,8 +1,22 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "jobs": [
+  {
+   "company": "Relativity Space",
+   "title": "New Grad 2027 - Materials & Processes Engineer I",
+   "location": "Long Beach, California",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "quality-safety",
+   "posted": "2026-11-18",
+   "url": "https://spacejobs.now/jobs/relativity-space/new-grad-2027-materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list"
+  },
   {
    "company": "US Space Force",
    "title": "Utility Systems Operator",
@@ -84,7 +98,7 @@
    ],
    "pay": "$105,000\u2013$145,000/yr",
    "term": null,
-   "field": "ground-software",
+   "field": "systems-test",
    "posted": "2026-11-17",
    "url": "https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list"
   },
@@ -549,20 +563,6 @@
    "url": "https://spacejobs.now/jobs/vast/compensation-analyst-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "BAE Systems Space & Mission Systems",
-   "title": "Engineer I \u2013 Structural",
-   "location": "Boulder, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$64,926\u2013$110,374/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-13",
-   "url": "https://spacejobs.now/jobs/bae-systems-space/engineer-i-structural?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Axiom Space",
    "title": "Mission Operations Engineer (Entry Level)",
    "location": "Houston, TX",
@@ -642,7 +642,7 @@
    ],
    "pay": "$125,000\u2013$150,000/yr",
    "term": null,
-   "field": "ground-software",
+   "field": "gnc-flight-software",
    "posted": "2026-11-12",
    "url": "https://spacejobs.now/jobs/spacex/aerospace-software-engineer-starfall?utm_source=github&utm_medium=new-grad-list"
   },
@@ -979,20 +979,6 @@
    "url": "https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "United Launch Alliance",
-   "title": "Prop Systems Design Engineer 1",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$70,952\u2013$118,253/yr",
-   "term": null,
-   "field": "propulsion",
-   "posted": "2026-11-10",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/prop-systems-design-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "SES",
    "title": "Junior Financial Controller, MeoSphere",
    "location": "Betzdorf, Luxembourg",
@@ -1153,7 +1139,7 @@
    ],
    "pay": null,
    "term": null,
-   "field": "manufacturing",
+   "field": "ground-software",
    "posted": "2026-11-09",
    "url": "https://spacejobs.now/jobs/spacex/full-stack-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list"
   },
@@ -1171,6 +1157,20 @@
    "field": "ground-software",
    "posted": "2026-11-09",
    "url": "https://spacejobs.now/jobs/spacex/full-stack-software-engineer-internal-platforms?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "US Space Force",
+   "title": "Electrician (Motor Vehicle Operator)",
+   "location": "Patrick AFB, FL",
+   "in_us": true,
+   "states": [
+    "FL"
+   ],
+   "pay": "$64,801\u2013$75,508/yr",
+   "term": null,
+   "field": "manufacturing",
+   "posted": "2026-11-09",
+   "url": "https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Varda Space Industries",
@@ -1267,20 +1267,6 @@
    "field": "ground-software",
    "posted": "2026-11-06",
    "url": "https://spacejobs.now/jobs/ses/junior-analyst-security-operations?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "US Space Force",
-   "title": "Electrician (Motor Vehicle Operator)",
-   "location": "Patrick AFB, FL",
-   "in_us": true,
-   "states": [
-    "FL"
-   ],
-   "pay": "$64,801\u2013$75,508/yr",
-   "term": null,
-   "field": "manufacturing",
-   "posted": "2026-11-06",
-   "url": "https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "US Space Force",
@@ -2009,6 +1995,20 @@
    "url": "https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "BAE Systems Space & Mission Systems",
+   "title": "Systems Engineer I - Core Systems Engineering",
+   "location": "Broomfield, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$64,926\u2013$110,374/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "Thales Alenia Space",
    "title": "Junior Navigation System and Solution Architect",
    "location": "Roma, Italy",
@@ -2167,30 +2167,6 @@
    "field": "business-programs",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/ses/junior-specialist-business-support?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Eutelsat",
-   "title": "Alternant(e) Gouvernance Cybers\u00e9curit\u00e9",
-   "location": "Issy-Les-Moulineaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "ground-software",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/eutelsat/alternant-e-gouvernance-cybersecurite?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Eutelsat",
-   "title": "Analyste Corporate Finance (Alternance)",
-   "location": "Issy-Les-Moulineaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "business-programs",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/eutelsat/analyste-corporate-finance-alternance?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Eutelsat",
@@ -4018,6 +3994,20 @@
    "field": "propulsion",
    "posted": "2026-10-08",
    "url": "https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-spacecraft-fluids?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Relativity Space",
+   "title": "Instrumentation & Controls Engineer I",
+   "location": "Cape Canaveral, Florida",
+   "in_us": true,
+   "states": [
+    "FL"
+   ],
+   "pay": "$90,000\u2013$136,000/yr",
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-10-07",
+   "url": "https://spacejobs.now/jobs/relativity-space/instrumentation-controls-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "SpaceX",
@@ -5983,6 +5973,20 @@
    "url": "https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "Amazon Leo",
+   "title": "Manufacturing Technician I",
+   "location": "Kirkland, Washington",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$26\u2013$30/hr",
+   "term": null,
+   "field": "manufacturing",
+   "posted": "2026-08-12",
+   "url": "https://spacejobs.now/jobs/amazon-leo/manufacturing-technician-i?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "SpaceX",
    "title": "Software Infrastructure Engineer, Flight Software (Starlink)",
    "location": "Redmond, WA",
@@ -6210,20 +6214,6 @@
    "field": "manufacturing",
    "posted": "2026-08-03",
    "url": "https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-paint-and-tps?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "KBR",
-   "title": "Junior Systems Engineer",
-   "location": "Beavercreek, Ohio",
-   "in_us": true,
-   "states": [
-    "OH"
-   ],
-   "pay": "$80,000\u2013$100,000/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-07-31",
-   "url": "https://spacejobs.now/jobs/kbr/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "SpaceX",
@@ -7132,6 +7122,20 @@
    "field": "launch-mission-ops",
    "posted": "2025-01-10",
    "url": "https://spacejobs.now/jobs/amentum/jsc-operator-1-of-2?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Stoke Space",
+   "title": "Entry Level Aerospace Technician",
+   "location": "Kent, Washington",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$25.00/hr",
+   "term": null,
+   "field": "manufacturing",
+   "posted": "2024-08-14",
+   "url": "https://spacejobs.now/jobs/stoke-space/entry-level-aerospace-technician?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Astranis",

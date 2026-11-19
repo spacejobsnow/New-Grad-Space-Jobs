@@ -5,7 +5,7 @@ description: "35 open entry-level Lockheed Martin roles in the US (Systems, inte
 
 # Lockheed Martin new grad and entry-level jobs
 
-**35 open in the United States. Updated 18 Nov 2026.**
+**35 open in the United States. Updated 19 Nov 2026.**
 
 Every Lockheed Martin role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Lockheed Martin's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/lockheed-martin?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

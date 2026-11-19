@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Florida (new grad 2026 and 2027)"
-description: "46 open entry-level space jobs in Florida (Blue Origin, SpaceX, Relativity Space, Lockheed Martin and more), updated daily."
+description: "47 open entry-level space jobs in Florida (Blue Origin, SpaceX, Relativity Space, Lockheed Martin and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Florida (new grad 2026 and 2027)
 
-**46 open at 10 companies, most at Blue Origin, SpaceX, Relativity Space, Lockheed Martin, US Space Force. Updated 18 Nov 2026.**
+**47 open at 10 companies, most at Blue Origin, SpaceX, Relativity Space, Lockheed Martin, US Space Force. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/florida?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -18,8 +18,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more |  | Nov 15 |
 | **Lockheed Martin** | [FBM Early Career Rotation Program](https://spacejobs.now/jobs/lockheed-martin/fbm-early-career-rotation-program?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL | $58,200–$108,200/yr | Nov 12 |
 | **Blue Origin** | [Lunar Systems Administrator - Level 1](https://spacejobs.now/jobs/blue-origin/lunar-systems-administrator-level-1?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Nov 11 |
+| **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 9 |
 | **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
-| **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
 | **US Space Force** | [Maintenance Mechanic](https://spacejobs.now/jobs/us-space-force/maintenance-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
 | **Blue Origin** | [Facilities Design Civil Engineer I](https://spacejobs.now/jobs/blue-origin/facilities-design-civil-engineer-i?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Nov 3 |
 | **Amentum** | [Logistics Specialist I](https://spacejobs.now/jobs/amentum/logistics-specialist-i?utm_source=github&utm_medium=new-grad-list) | FL | $28.71/hr | Nov 3 |
@@ -34,6 +34,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Full Stack Software Engineer, Launch Software](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-launch-software?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Oct 15 |
 | **Star Catcher** | [Electrical Engineer](https://spacejobs.now/jobs/star-catcher/electrical-engineer?utm_source=github&utm_medium=new-grad-list) | Jacksonville, Florida |  | Oct 12 |
 | **Lockheed Martin** | [Orion Test Operations Engineer-Entry Level - Third Shift](https://spacejobs.now/jobs/lockheed-martin/orion-test-operations-engineer-entry-level-third-shift?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Oct 8 |
+| **Relativity Space** | [Instrumentation & Controls Engineer I](https://spacejobs.now/jobs/relativity-space/instrumentation-controls-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 7 |
 | **Blue Origin** | [NDT Technician – Radiography (RT) - Level I & Level II - EVERGREEN](https://spacejobs.now/jobs/blue-origin/ndt-technician-radiography-rt-level-i-level-ii-evergreen?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Oct 7 |
 | **L3Harris** | [Specialist, Integration and Test Engineer 1](https://spacejobs.now/jobs/l3harris/specialist-integration-and-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Palm Bay, FL |  | Oct 1 |
 | **Lockheed Martin** | [Manufacturing Support Team Member Asc - Level 1](https://spacejobs.now/jobs/lockheed-martin/manufacturing-support-team-member-asc-level-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL | $49,500–$91,900/yr | Sep 21 |

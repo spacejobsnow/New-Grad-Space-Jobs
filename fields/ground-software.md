@@ -1,11 +1,11 @@
 ---
 title: "Entry-level software and it jobs at space companies (new grad 2026 and 2027)"
-description: "91 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, Relativity Space, Blue Origin and more), updated daily."
+description: "90 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, KBR, Relativity Space and more), updated daily."
 ---
 
 # Entry-level software and it jobs at space companies (new grad 2026 and 2027)
 
-**91 open in the United States at 20 companies, most at SpaceX, True Anomaly, Relativity Space, Blue Origin, KBR. Updated 18 Nov 2026.**
+**90 open in the United States at 20 companies, most at SpaceX, True Anomaly, KBR, Relativity Space, Blue Origin. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -16,11 +16,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Nov 17 |
 | **AstroForge** | [Data Engineer](https://spacejobs.now/jobs/astroforge/data-engineer?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $150,000–$175,000/yr | Nov 17 |
-| **SpaceX** | [Hardware Test Automation Engineer, Satellites (Starlink)](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 17 |
 | **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 5 more | $67,000–$140,000/yr | Nov 16 |
 | **Viasat** | [Information Security Specialist, Early Career](https://spacejobs.now/jobs/viasat/information-security-specialist-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $75,000–$118,000/yr | Nov 13 |
 | **Lockheed Martin** | [Software Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA | $75,400–$140,000/yr | Nov 12 |
-| **SpaceX** | [Aerospace Software Engineer (Starfall)](https://spacejobs.now/jobs/spacex/aerospace-software-engineer-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Nov 12 |
 | **SpaceX** | [New Graduate Engineer, Aerospace Software (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-aerospace-software-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Nov 12 |
 | **Sierra Space** | [Software Engineer I - DevOps / DevSecOps](https://spacejobs.now/jobs/sierra-space/software-engineer-i-devops-devsecops?utm_source=github&utm_medium=new-grad-list) | Louisville, CO and 1 more | $83,999–$115,498/yr | Nov 12 |
 | **SpaceX** | [Data Engineer (Starship)](https://spacejobs.now/jobs/spacex/data-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Nov 11 |
@@ -29,6 +27,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Anduril** | [2027 New Grad Information Security Engineer](https://spacejobs.now/jobs/anduril/2027-new-grad-information-security-engineer?utm_source=github&utm_medium=new-grad-list) | Costa Mesa, California | $88,000–$117,000/yr | Nov 10 |
 | **Amazon Leo** | [IT Application Engineer I, Amazon Leo, ALM365](https://spacejobs.now/jobs/amazon-leo/it-application-engineer-i-amazon-leo-alm365?utm_source=github&utm_medium=new-grad-list) | Bellevue, Washington | $90,700–$158,700/yr | Nov 10 |
 | **Amazon Leo** | [Quality Assurance Engineer I, Leo Network Observability, Visibility & Analytics team](https://spacejobs.now/jobs/amazon-leo/quality-assurance-engineer-i-leo-network-observability-visibility-analytics-team?utm_source=github&utm_medium=new-grad-list) | Redmond, Washington | $84,100–$147,200/yr | Nov 10 |
+| **SpaceX** | [Full Stack Software Engineer, Manufacturing Systems](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Internal Platforms](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-internal-platforms?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Nov 9 |
 | **SpaceX** | [Site Reliability Engineer (Starlink)](https://spacejobs.now/jobs/spacex/site-reliability-engineer-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 2 more | $135,000–$175,000/yr | Nov 5 |
 | **SpaceX** | [Software Engineer, Telemetry - Top Secret Clearance (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-telemetry-top-secret-clearance-starlink?utm_source=github&utm_medium=new-grad-list) | Washington, DC and 1 more | $125,000–$160,000/yr | Nov 5 |

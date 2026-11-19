@@ -1,11 +1,11 @@
 ---
 title: "KBR new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "14 open entry-level KBR roles in the US (Systems, integration and test; Software and IT; Launch and mission operations), updated daily."
+description: "13 open entry-level KBR roles in the US (Systems, integration and test; Launch and mission operations; Software and IT), updated daily."
 ---
 
 # KBR new grad and entry-level jobs
 
-**14 open in the United States. Updated 18 Nov 2026.**
+**13 open in the United States. Updated 19 Nov 2026.**
 
 Every KBR role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from KBR's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/kbr?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -20,7 +20,6 @@ Every KBR role whose posting asks for no prior experience, names new or recent g
 | **KBR** | [Jr Software Developer](https://spacejobs.now/jobs/kbr/jr-software-developer?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, Colorado | $110,000–$130,000/yr | Aug 27 |
 | **KBR** | [Data Engineer, JR](https://spacejobs.now/jobs/kbr/data-engineer-jr?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $119,000/yr | Aug 24 |
 | **KBR** | [Jr. Systems Engineer (Digital Engineering Engagement)](https://spacejobs.now/jobs/kbr/jr-systems-engineer-digital-engineering-engagement?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $82,000–$102,000/yr | Aug 13 |
-| **KBR** | [Junior Systems Engineer](https://spacejobs.now/jobs/kbr/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Beavercreek, Ohio | $80,000–$100,000/yr | Jul 31 |
 | **KBR** | [Junior Orbit Analyst](https://spacejobs.now/jobs/kbr/junior-orbit-analyst?utm_source=github&utm_medium=new-grad-list) | Springfield, Virginia | $101,700–$124,300/yr | Jul 1 |
 | **KBR** | [Threat Analyst – Junior](https://spacejobs.now/jobs/kbr/threat-analyst-junior?utm_source=github&utm_medium=new-grad-list) | Springfield, Virginia |  | Jul 1 |
 | **KBR** | [Battlespace Awareness Operator – Junior](https://spacejobs.now/jobs/kbr/battlespace-awareness-operator-junior?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia and 1 more | $92,900–$124,300/yr | Jul 1 |

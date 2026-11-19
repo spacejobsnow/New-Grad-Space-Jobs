@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in California (new grad 2026 and 2027)"
-description: "169 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
+description: "170 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in California (new grad 2026 and 2027)
 
-**169 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 18 Nov 2026.**
+**170 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Relativity Space** | [New Grad 2027 - Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California |  | Nov 18 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Nov 17 |
 | **AstroForge** | [Data Engineer](https://spacejobs.now/jobs/astroforge/data-engineer?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $150,000–$175,000/yr | Nov 17 |

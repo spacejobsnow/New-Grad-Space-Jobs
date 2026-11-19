@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)"
-description: "63 open entry-level space jobs in Washington (Blue Origin, SpaceX, Cowboy Space, Amazon Leo and more), updated daily."
+description: "65 open entry-level space jobs in Washington (Blue Origin, SpaceX, Amazon Leo, Cowboy Space and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)
 
-**63 open at 6 companies, most at Blue Origin, SpaceX, Cowboy Space, Amazon Leo, Lockheed Martin. Updated 18 Nov 2026.**
+**65 open at 6 companies, most at Blue Origin, SpaceX, Amazon Leo, Cowboy Space, Stoke Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -57,6 +57,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Full Stack Engineer (Application Software)](https://spacejobs.now/jobs/spacex/full-stack-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 3 more |  | Aug 14 |
 | **SpaceX** | [Machining Technician (Starlink) - Entry Level](https://spacejobs.now/jobs/spacex/machining-technician-starlink-entry-level?utm_source=github&utm_medium=new-grad-list) | Woodinville, WA | $22.00–$26.50/hr | Aug 12 |
 | **Blue Origin** | [Fluid Systems & Propulsion Engineer I – Early Career (2026 starts)](https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Aug 12 |
+| **Amazon Leo** | [Manufacturing Technician I](https://spacejobs.now/jobs/amazon-leo/manufacturing-technician-i?utm_source=github&utm_medium=new-grad-list) | Kirkland, Washington | $26–$30/hr | Aug 12 |
 | **SpaceX** | [Software Infrastructure Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/software-infrastructure-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
 | **SpaceX** | [Platform Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/platform-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
 | **SpaceX** | [Flight Software Infrastructure Engineer (Starlink)](https://spacejobs.now/jobs/spacex/flight-software-infrastructure-engineer-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 11 |
@@ -76,3 +77,4 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, DevOps (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-devops-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$150,000/yr | Jun 3 |
 | **SpaceX** | [Software Engineer, Hardware Test & Automation (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-hardware-test-automation-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$145,000/yr | May 27 |
 | **Stoke Space** | [Engine Test Engineer (Level 1 - Early Career)](https://spacejobs.now/jobs/stoke-space/engine-test-engineer-level-1-early-career?utm_source=github&utm_medium=new-grad-list) | Moses Lake, Washington |  | Nov 13 |
+| **Stoke Space** | [Entry Level Aerospace Technician](https://spacejobs.now/jobs/stoke-space/entry-level-aerospace-technician?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $25.00/hr | Aug 14 |

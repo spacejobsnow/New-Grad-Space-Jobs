@@ -1,11 +1,11 @@
 ---
 title: "Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)"
-description: "23 open entry-level launch and mission operations roles at space companies in the US (SpaceX, Relativity Space, KBR, Iridium and more), updated daily."
+description: "24 open entry-level launch and mission operations roles at space companies in the US (SpaceX, Relativity Space, KBR, Iridium and more), updated daily."
 ---
 
 # Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)
 
-**23 open in the United States at 13 companies, most at SpaceX, Relativity Space, KBR, Iridium, Lockheed Martin. Updated 18 Nov 2026.**
+**24 open in the United States at 13 companies, most at SpaceX, Relativity Space, KBR, Iridium, Lockheed Martin. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/launch-mission-ops?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -27,6 +27,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Amazon Leo** | [Manufacturing Engineer I - Launch Payload Processing Facility, LEO Satellite Processing Zone](https://spacejobs.now/jobs/amazon-leo/manufacturing-engineer-i-launch-payload-processing-facility-leo-satellite-processing-zone?utm_source=github&utm_medium=new-grad-list) | Merritt Island, Florida | $96,600–$160,000/yr | Oct 22 |
 | **Relativity Space** | [Offshore Recovery Electrical Engineer I](https://spacejobs.now/jobs/relativity-space/offshore-recovery-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 21 |
 | **Firefly Aerospace** | [Launch Engineer I, (Fluids & Mechanical)](https://spacejobs.now/jobs/firefly-aerospace/launch-engineer-i-fluids-mechanical?utm_source=github&utm_medium=new-grad-list) | Firefly |  | Oct 20 |
+| **Relativity Space** | [Instrumentation & Controls Engineer I](https://spacejobs.now/jobs/relativity-space/instrumentation-controls-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 7 |
 | **Rocket Lab** | [Flight Analysis Engineer I/II](https://spacejobs.now/jobs/rocket-lab/flight-analysis-engineer-i-ii?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $100,000–$125,000/yr | Sep 30 |
 | **Relativity Space** | [Launch Operations Engineer I - Launch Operations](https://spacejobs.now/jobs/relativity-space/launch-operations-engineer-i-launch-operations?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Aug 20 |
 | **Relativity Space** | [Launch Fluids Engineer I](https://spacejobs.now/jobs/relativity-space/launch-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Aug 18 |

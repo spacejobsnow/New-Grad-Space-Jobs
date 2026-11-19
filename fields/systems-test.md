@@ -1,11 +1,11 @@
 ---
 title: "Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)"
-description: "52 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, Blue Origin, SpaceX, KBR and more), updated daily."
+description: "53 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)
 
-**52 open in the United States at 20 companies, most at Lockheed Martin, Blue Origin, SpaceX, KBR, Rocket Lab. Updated 18 Nov 2026.**
+**53 open in the United States at 20 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, BAE Systems Space & Mission Systems. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [Hardware Test Automation Engineer, Satellites (Starlink)](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 17 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Nov 17 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Herndon, VA and 1 more | $65,500–$121,700/yr | Nov 17 |
 | **Lockheed Martin** | [Systems Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO and 4 more | $58,200–$121,700/yr | Nov 16 |
@@ -23,6 +24,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Barrios Technology** | [Junior Systems Engineer](https://spacejobs.now/jobs/barrios-technology/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 9 |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 6 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – ESTE Systems Engineer](https://spacejobs.now/jobs/bae-systems-space/engineer-i-este-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado | $64,926–$110,374/yr | Nov 4 |
+| **BAE Systems Space & Mission Systems** | [Systems Engineer I - Core Systems Engineering](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Systems Engineer I – Core Systems Engineering - $5,000 Sign On Bonus](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering-5-000-sign-on-bonus?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado and 1 more | $64,926–$110,374/yr | Oct 30 |
 | **Sierra Space** | [Test Engineer I](https://spacejobs.now/jobs/sierra-space/test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Durham, NC | $73,175–$100,615/yr | Oct 30 |
 | **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $64,740–$107,900/yr | Oct 30 |
@@ -56,7 +58,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **KBR** | [Jr. Systems Engineer (Digital Engineering Engagement)](https://spacejobs.now/jobs/kbr/jr-systems-engineer-digital-engineering-engagement?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $82,000–$102,000/yr | Aug 13 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career (2026 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 3 more | $74,537–$138,880/yr | Aug 10 |
 | **Blue Origin** | [Test Engineer I (TX) - Early Career (2026 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-tx-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list) | Van Horn, TX |  | Aug 10 |
-| **KBR** | [Junior Systems Engineer](https://spacejobs.now/jobs/kbr/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Beavercreek, Ohio | $80,000–$100,000/yr | Jul 31 |
 | **Blue Origin** | [Test Engineer I - Early Career (2026 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-2026-starts?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Jul 29 |
 | **Relativity Space** | [Instrumentation and Controls Engineer I (Operations)](https://spacejobs.now/jobs/relativity-space/instrumentation-and-controls-engineer-i-operations?utm_source=github&utm_medium=new-grad-list) | Mississippi | $90,000–$136,000/yr | Jun 24 |
 | **SpaceX** | [Software Engineer, Hardware Test & Automation (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-hardware-test-automation-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jun 1 |

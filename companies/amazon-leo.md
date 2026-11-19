@@ -1,11 +1,11 @@
 ---
 title: "Amazon Leo new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "5 open entry-level Amazon Leo roles in the US (Software and IT; Avionics and electrical; Systems, integration and test), updated daily."
+description: "6 open entry-level Amazon Leo roles in the US (Software and IT; Systems, integration and test; Launch and mission operations), updated daily."
 ---
 
 # Amazon Leo new grad and entry-level jobs
 
-**5 open in the United States. Updated 18 Nov 2026.**
+**6 open in the United States. Updated 19 Nov 2026.**
 
 Every Amazon Leo role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Amazon Leo's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/amazon-leo?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -18,3 +18,4 @@ Every Amazon Leo role whose posting asks for no prior experience, names new or r
 | **Amazon Leo** | [Junior Design Verification Engineer](https://spacejobs.now/jobs/amazon-leo/junior-design-verification-engineer?utm_source=github&utm_medium=new-grad-list) | Austin, Texas | $131,800–$185,000/yr | Nov 5 |
 | **Amazon Leo** | [Manufacturing Engineer I - Launch Payload Processing Facility, LEO Satellite Processing Zone](https://spacejobs.now/jobs/amazon-leo/manufacturing-engineer-i-launch-payload-processing-facility-leo-satellite-processing-zone?utm_source=github&utm_medium=new-grad-list) | Merritt Island, Florida | $96,600–$160,000/yr | Oct 22 |
 | **Amazon Leo** | [Junior ASIC Design Verification Engineer](https://spacejobs.now/jobs/amazon-leo/junior-asic-design-verification-engineer?utm_source=github&utm_medium=new-grad-list) | San Diego, California | $122,600–$170,000/yr | Sep 25 |
+| **Amazon Leo** | [Manufacturing Technician I](https://spacejobs.now/jobs/amazon-leo/manufacturing-technician-i?utm_source=github&utm_medium=new-grad-list) | Kirkland, Washington | $26–$30/hr | Aug 12 |

@@ -5,7 +5,7 @@ description: "7 open entry-level NASA Jet Propulsion Laboratory (JPL) roles in t
 
 # NASA Jet Propulsion Laboratory (JPL) new grad and entry-level jobs
 
-**7 open in the United States. Updated 18 Nov 2026.**
+**7 open in the United States. Updated 19 Nov 2026.**
 
 Every NASA Jet Propulsion Laboratory (JPL) role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from NASA Jet Propulsion Laboratory (JPL)'s own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/jpl?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

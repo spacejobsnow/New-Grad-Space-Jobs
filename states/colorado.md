@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)"
-description: "90 open entry-level space jobs in Colorado (Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly and more), updated daily."
+description: "89 open entry-level space jobs in Colorado (Lockheed Martin, Sierra Space, True Anomaly, United Launch Alliance and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)
 
-**90 open at 18 companies, most at Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly, Blue Origin. Updated 18 Nov 2026.**
+**89 open at 18 companies, most at Lockheed Martin, Sierra Space, True Anomaly, United Launch Alliance, BAE Systems Space & Mission Systems. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/colorado?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -29,14 +29,12 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **United Launch Alliance** | [Structural Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 15 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more |  | Nov 15 |
 | **True Anomaly** | [Content Producer, Social](https://spacejobs.now/jobs/true-anomaly/content-producer-social?utm_source=github&utm_medium=new-grad-list) | Denver, CO | $65,000–$120,000/yr | Nov 14 |
-| **BAE Systems Space & Mission Systems** | [Engineer I – Structural](https://spacejobs.now/jobs/bae-systems-space/engineer-i-structural?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $64,926–$110,374/yr | Nov 13 |
 | **Lockheed Martin** | [FBM Early Career Rotation Program - Early Career](https://spacejobs.now/jobs/lockheed-martin/fbm-early-career-rotation-program-early-career?utm_source=github&utm_medium=new-grad-list) | Englewood, CO | $65,500–$121,700/yr | Nov 12 |
 | **Lockheed Martin** | [Electro Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/electro-mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Englewood, CO | $65,500–$121,700/yr | Nov 12 |
 | **Lockheed Martin** | [Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Nov 12 |
 | **Sierra Space** | [Software Engineer I - DevOps / DevSecOps](https://spacejobs.now/jobs/sierra-space/software-engineer-i-devops-devsecops?utm_source=github&utm_medium=new-grad-list) | Louisville, CO and 1 more | $83,999–$115,498/yr | Nov 12 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – Embedded Software](https://spacejobs.now/jobs/bae-systems-space/engineer-i-embedded-software?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Nov 11 |
 | **United Launch Alliance** | [Thermodynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 10 |
-| **United Launch Alliance** | [Prop Systems Design Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/prop-systems-design-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 10 |
 | **Sierra Space** | [Manufacturing Specialist I - Tooling](https://spacejobs.now/jobs/sierra-space/manufacturing-specialist-i-tooling?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $73,231–$100,714/yr | Nov 10 |
 | **Lockheed Martin** | [Colorado Advanced Manufacturing Technician Apprentice Program (AMTAP) - Cohort 42](https://spacejobs.now/jobs/lockheed-martin/colorado-advanced-manufacturing-technician-apprentice-program-amtap-cohort-42?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $15.86–$23.79/hr | Nov 9 |
 | **Lockheed Martin** | [Radio Frequency Engineer Asc - Entry Level](https://spacejobs.now/jobs/lockheed-martin/radio-frequency-engineer-asc-entry-level?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 9 |
@@ -49,6 +47,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **US Space Force** | [Industrial Equipment Maintenance Mechanic Supervisor](https://spacejobs.now/jobs/us-space-force/industrial-equipment-maintenance-mechanic-supervisor?utm_source=github&utm_medium=new-grad-list) | Schriever AFB, CO | $82,332–$96,044/yr | Nov 4 |
 | **Lockheed Martin** | [Integrated Program Planner Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/integrated-program-planner-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $55,700–$103,400/yr | Nov 3 |
 | **Lockheed Martin** | [Integrated Program Planner Asc - Level 1](https://spacejobs.now/jobs/lockheed-martin/integrated-program-planner-asc-level-1?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 1 more | $55,700–$103,400/yr | Oct 30 |
+| **BAE Systems Space & Mission Systems** | [Systems Engineer I - Core Systems Engineering](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Oct 30 |
 | **CACI** | [Radio frequency/Electrical Engineer I](https://spacejobs.now/jobs/caci/radio-frequency-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $63,300–$129,700/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Project Engineer I - Industrial](https://spacejobs.now/jobs/bae-systems-space/project-engineer-i-industrial?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado | $118,095–$200,762/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Systems Engineer I – Core Systems Engineering - $5,000 Sign On Bonus](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering-5-000-sign-on-bonus?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado and 1 more | $64,926–$110,374/yr | Oct 30 |

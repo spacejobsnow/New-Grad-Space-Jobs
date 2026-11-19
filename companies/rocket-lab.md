@@ -1,11 +1,11 @@
 ---
 title: "Rocket Lab new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "23 open entry-level Rocket Lab roles in the US (Manufacturing; Systems, integration and test; Avionics and electrical), updated daily."
+description: "23 open entry-level Rocket Lab roles in the US (Manufacturing; Systems, integration and test; Launch and mission operations), updated daily."
 ---
 
 # Rocket Lab new grad and entry-level jobs
 
-**23 open in the United States. Updated 18 Nov 2026.**
+**23 open in the United States. Updated 19 Nov 2026.**
 
 Every Rocket Lab role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Rocket Lab's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/rocket-lab?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

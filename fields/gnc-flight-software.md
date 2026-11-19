@@ -1,11 +1,11 @@
 ---
 title: "Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)"
-description: "42 open entry-level flight software and gnc roles at space companies in the US (SpaceX, Blue Origin, True Anomaly, United Launch Alliance and more), updated daily."
+description: "43 open entry-level flight software and gnc roles at space companies in the US (SpaceX, Blue Origin, True Anomaly, United Launch Alliance and more), updated daily."
 ---
 
 # Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)
 
-**42 open in the United States at 18 companies, most at SpaceX, Blue Origin, True Anomaly, United Launch Alliance, Relativity Space. Updated 18 Nov 2026.**
+**43 open in the United States at 18 companies, most at SpaceX, Blue Origin, True Anomaly, United Launch Alliance, Sierra Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/gnc-flight-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,6 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
 | **United Launch Alliance** | [Trajectory Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/trajectory-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 17 |
+| **SpaceX** | [Aerospace Software Engineer (Starfall)](https://spacejobs.now/jobs/spacex/aerospace-software-engineer-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Nov 12 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – Embedded Software](https://spacejobs.now/jobs/bae-systems-space/engineer-i-embedded-software?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Nov 11 |
 | **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Flight Software Engineer I](https://spacejobs.now/jobs/jpl/flight-software-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $96,616–$117,104/yr | Nov 5 |
