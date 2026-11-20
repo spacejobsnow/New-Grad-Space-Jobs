@@ -1,11 +1,11 @@
 ---
 title: "SpaceX new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "121 open entry-level SpaceX roles in the US (Software and IT; Flight software and GNC; Mechanical, structures and thermal), updated daily."
+description: "118 open entry-level SpaceX roles in the US (Software and IT; Flight software and GNC; Manufacturing), updated daily."
 ---
 
 # SpaceX new grad and entry-level jobs
 
-**121 open in the United States. Updated 19 Nov 2026.**
+**118 open in the United States. Updated 20 Nov 2026.**
 
 Every SpaceX role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from SpaceX's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/spacex?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -22,7 +22,6 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Full Stack Software Engineer, Manufacturing Systems](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Internal Platforms](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-internal-platforms?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Nov 9 |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 6 |
-| **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **SpaceX** | [Site Reliability Engineer (Starlink)](https://spacejobs.now/jobs/spacex/site-reliability-engineer-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 2 more | $135,000–$175,000/yr | Nov 5 |
 | **SpaceX** | [New Graduate Engineer, Mechanical - Satellites (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $100,000–$135,000/yr | Nov 5 |
 | **SpaceX** | [New Graduate Engineer, Electrical - Satellites (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 5 |
@@ -35,7 +34,7 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Avionics Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/avionics-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 3 |
 | **SpaceX** | [Software Engineer, Manufacturing](https://spacejobs.now/jobs/spacex/software-engineer-manufacturing?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 3 |
 | **SpaceX** | [Apprentice Weld Support Technician](https://spacejobs.now/jobs/spacex/apprentice-weld-support-technician?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 2 |
-| **SpaceX** | [Test Specialist (Falcon Operations) - Multiple Shifts](https://spacejobs.now/jobs/spacex/test-specialist-falcon-operations-multiple-shifts?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $33.00–$41.75/hr | Nov 2 |
+| **SpaceX** | [Test Specialist (Falcon Operations) - Multiple Shifts](https://spacejobs.now/jobs/spacex/test-specialist-falcon-operations-multiple-shifts?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $33.00–$41.75/hr | Nov 2 |
 | **SpaceX** | [Production Control Scheduler (Starship Launch Hardware)](https://spacejobs.now/jobs/spacex/production-control-scheduler-starship-launch-hardware?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL |  | Oct 30 |
 | **SpaceX** | [Application Software Engineer, Launch Software](https://spacejobs.now/jobs/spacex/application-software-engineer-launch-software?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 26 |
 | **SpaceX** | [AI Software Engineer (Vehicle Engineering)](https://spacejobs.now/jobs/spacex/ai-software-engineer-vehicle-engineering?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 23 |
@@ -55,7 +54,6 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Software Engineer, Manufacturing Infrastructure](https://spacejobs.now/jobs/spacex/software-engineer-manufacturing-infrastructure?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 26 |
 | **SpaceX** | [Site Reliability Engineer (High Performance Computing)](https://spacejobs.now/jobs/spacex/site-reliability-engineer-high-performance-computing?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 23 |
 | **SpaceX** | [Full Stack Software Engineer](https://spacejobs.now/jobs/spacex/full-stack-software-engineer?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Sep 23 |
-| **SpaceX** | [Hardware Test Automation Engineer](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Sep 22 |
 | **SpaceX** | [Software Engineer (Controls Software)](https://spacejobs.now/jobs/spacex/software-engineer-controls-software?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 18 |
 | **SpaceX** | [Software Engineer, Internal Applications](https://spacejobs.now/jobs/spacex/software-engineer-internal-applications?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 15 |
 | **SpaceX** | [New Graduate Engineer, Security Software (Starshield)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-security-software-starshield?utm_source=github&utm_medium=new-grad-list) | Washington, DC and 1 more | $130,000–$160,000/yr | Sep 11 |
@@ -67,7 +65,7 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Full Stack Software Engineer, Flight Software](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-flight-software?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL |  | Sep 5 |
 | **SpaceX** | [New Graduate Engineer, Starship Components](https://spacejobs.now/jobs/spacex/new-graduate-engineer-starship-components?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Sep 3 |
 | **SpaceX** | [Site Reliability Engineer, Platform Infrastructure](https://spacejobs.now/jobs/spacex/site-reliability-engineer-platform-infrastructure?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Sep 3 |
-| **SpaceX** | [Integration & Test Engineer (Falcon)](https://spacejobs.now/jobs/spacex/integration-test-engineer-falcon?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $100,000–$130,000/yr | Sep 2 |
+| **SpaceX** | [Integration & Test Engineer (Falcon)](https://spacejobs.now/jobs/spacex/integration-test-engineer-falcon?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $100,000–$130,000/yr | Sep 2 |
 | **SpaceX** | [Full Stack Engineer, Flight Software](https://spacejobs.now/jobs/spacex/full-stack-engineer-flight-software?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 1 |
 | **SpaceX** | [Software Engineer, HITL - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-hitl-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Aug 31 |
 | **SpaceX** | [Full Stack Engineer, Employee Experience](https://spacejobs.now/jobs/spacex/full-stack-engineer-employee-experience?utm_source=github&utm_medium=new-grad-list) | Palo Alto, CA | $135,000–$160,000/yr | Aug 30 |
@@ -117,7 +115,7 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Software Engineer, Satellite Systems (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-satellite-systems-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 13 |
 | **SpaceX** | [Jr. Sous Chef - Temporary](https://spacejobs.now/jobs/spacex/jr-sous-chef-temporary?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 2 more |  | Jul 13 |
 | **SpaceX** | [Application Software Engineer, Spaceport Experience](https://spacejobs.now/jobs/spacex/application-software-engineer-spaceport-experience?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Jul 13 |
-| **SpaceX** | [Launch Engineer, Falcon Engineering](https://spacejobs.now/jobs/spacex/launch-engineer-falcon-engineering?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $100,000–$117,500/yr | Jul 8 |
+| **SpaceX** | [Launch Engineer, Falcon Engineering](https://spacejobs.now/jobs/spacex/launch-engineer-falcon-engineering?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $100,000–$117,500/yr | Jul 8 |
 | **SpaceX** | [New Graduate Engineer, Mechanical (Cape Canaveral)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-cape-canaveral?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL |  | Jul 7 |
 | **SpaceX** | [Software Engineer (Starshield) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-starshield-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 7 |
 | **SpaceX** | [Software Engineer, Product Development (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-product-development-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 6 |
@@ -133,4 +131,3 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Mission Integration Engineer, AI (Starshield) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/mission-integration-engineer-ai-starshield-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$115,000/yr | May 28 |
 | **SpaceX** | [Software Engineer (Special Projects) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-special-projects-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | May 28 |
 | **SpaceX** | [Software Engineer, Hardware Test & Automation (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-hardware-test-automation-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$145,000/yr | May 27 |
-| **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$145,000/yr | May 19 |

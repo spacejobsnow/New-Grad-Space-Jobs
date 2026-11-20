@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)"
-description: "88 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile and more), updated daily."
+description: "86 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**88 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Intuitive Machines. Updated 19 Nov 2026.**
+**86 open at 14 companies, most at SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin, Axiom Space. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -26,7 +26,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Full Stack Software Engineer, Manufacturing Systems](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Internal Platforms](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-internal-platforms?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Nov 9 |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 6 |
-| **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **Firefly Aerospace** | [Composites Manufacturing Engineer I](https://spacejobs.now/jobs/firefly-aerospace/composites-manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Nov 6 |
 | **Amentum** | [Early Career Spaceflight Hardware Propulsion Engineer](https://spacejobs.now/jobs/amentum/early-career-spaceflight-hardware-propulsion-engineer?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 6 |
 | **SpaceX** | [New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-26-27-starlink-starmind?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 5 |
@@ -66,7 +65,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, Manufacturing Infrastructure](https://spacejobs.now/jobs/spacex/software-engineer-manufacturing-infrastructure?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 26 |
 | **SpaceX** | [Full Stack Software Engineer](https://spacejobs.now/jobs/spacex/full-stack-software-engineer?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Sep 23 |
 | **Intuitive Machines** | [Orbit Determination and Navigation Engineer I, II](https://spacejobs.now/jobs/intuitive-machines/orbit-determination-and-navigation-engineer-i-ii?utm_source=github&utm_medium=new-grad-list) | Glen Burnie, MD and 11 more |  | Sep 23 |
-| **SpaceX** | [Hardware Test Automation Engineer](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Sep 22 |
 | **SpaceX** | [Software Engineer (Controls Software)](https://spacejobs.now/jobs/spacex/software-engineer-controls-software?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 18 |
 | **SpaceX** | [New Graduate Engineer, Power Generation (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-power-generation-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 11 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $69,015–$96,621/yr | Sep 10 |

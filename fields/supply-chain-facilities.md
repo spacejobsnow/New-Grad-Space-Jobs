@@ -1,11 +1,11 @@
 ---
 title: "Entry-level supply chain and facilities jobs at space companies (new grad 2026 and 2027)"
-description: "16 open entry-level supply chain and facilities roles at space companies in the US (US Space Force, Sierra Space, Blue Origin, Lockheed Martin and more), updated daily."
+description: "15 open entry-level supply chain and facilities roles at space companies in the US (US Space Force, Lockheed Martin, Blue Origin, Sierra Space and more), updated daily."
 ---
 
 # Entry-level supply chain and facilities jobs at space companies (new grad 2026 and 2027)
 
-**16 open in the United States at 9 companies, most at US Space Force, Sierra Space, Blue Origin, Lockheed Martin, Relativity Space. Updated 19 Nov 2026.**
+**15 open in the United States at 9 companies, most at US Space Force, Lockheed Martin, Blue Origin, Sierra Space, Relativity Space. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/supply-chain-facilities?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,13 +13,12 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **US Space Force** | [FUEL Distribution Systems Mechanic](https://spacejobs.now/jobs/us-space-force/fuel-distribution-systems-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,802–$75,508/yr | Nov 20 |
 | **US Space Force** | [Utility Systems Operator](https://spacejobs.now/jobs/us-space-force/utility-systems-operator?utm_source=github&utm_medium=new-grad-list) | Schriever AFB, CO | $66,179–$77,198/yr | Nov 18 |
 | **Lockheed Martin** | [Purchasing & Material Administration Analyst Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/purchasing-material-administration-analyst-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $55,700–$103,400/yr | Nov 17 |
 | **US Space Force** | [Maintenance Mechanic](https://spacejobs.now/jobs/us-space-force/maintenance-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
-| **US Space Force** | [Industrial Equipment Maintenance Mechanic Supervisor](https://spacejobs.now/jobs/us-space-force/industrial-equipment-maintenance-mechanic-supervisor?utm_source=github&utm_medium=new-grad-list) | Schriever AFB, CO | $82,332–$96,044/yr | Nov 4 |
 | **Axiom Space** | [Buyer I](https://spacejobs.now/jobs/axiom-space/buyer-i?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 4 |
 | **E-Space** | [Junior Facilities Maintenance Technician](https://spacejobs.now/jobs/e-space/junior-facilities-maintenance-technician?utm_source=github&utm_medium=new-grad-list) | Arlington, TX |  | Nov 3 |
-| **US Space Force** | [Utility Systems Repairer-Operator](https://spacejobs.now/jobs/us-space-force/utility-systems-repairer-operator?utm_source=github&utm_medium=new-grad-list) | Clear AFB, AK | $90,241–$105,268/yr | Nov 3 |
 | **Blue Origin** | [Facilities Design Civil Engineer I](https://spacejobs.now/jobs/blue-origin/facilities-design-civil-engineer-i?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Nov 3 |
 | **Amentum** | [Logistics Specialist I](https://spacejobs.now/jobs/amentum/logistics-specialist-i?utm_source=github&utm_medium=new-grad-list) | FL | $28.71/hr | Nov 3 |
 | **Rocket Lab** | [Production Planner I](https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $63,000–$79,000/yr | Oct 30 |

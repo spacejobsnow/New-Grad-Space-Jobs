@@ -5,7 +5,7 @@ description: "53 open entry-level systems, integration and test roles at space c
 
 # Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)
 
-**53 open in the United States at 20 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, BAE Systems Space & Mission Systems. Updated 19 Nov 2026.**
+**53 open in the United States at 20 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, KBR. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -30,6 +30,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $64,740–$107,900/yr | Oct 30 |
 | **United Launch Alliance** | [Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **Northrop Grumman** | [Systems Engineer – Space Superiority Missions](https://spacejobs.now/jobs/northrop-grumman/systems-engineer-space-superiority-missions?utm_source=github&utm_medium=new-grad-list) | Dulles, VA | $91,800–$137,600/yr | Oct 30 |
+| **Rocket Lab** | [Avionics Test Engineer I](https://spacejobs.now/jobs/rocket-lab/avionics-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $68,000–$93,500/yr | Oct 28 |
 | **Rocket Lab** | [Systems Engineer I](https://spacejobs.now/jobs/rocket-lab/systems-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,400–$113,300/yr | Oct 28 |
 | **Firefly Aerospace** | [Test Engineer I, Component](https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 23 |
 | **Blue Origin** | [Test Engineer I - TeraWave](https://spacejobs.now/jobs/blue-origin/test-engineer-i-terawave?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Oct 23 |
@@ -47,12 +48,11 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **L3Harris** | [Specialist, Integration and Test Engineer 1](https://spacejobs.now/jobs/l3harris/specialist-integration-and-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Palm Bay, FL |  | Oct 1 |
 | **Lockheed Martin** | [Systems Engineer Associate - Entry Level](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-entry-level?utm_source=github&utm_medium=new-grad-list) | Silverdale, WA | $65,500–$121,700/yr | Sep 29 |
 | **Amazon Leo** | [Junior ASIC Design Verification Engineer](https://spacejobs.now/jobs/amazon-leo/junior-asic-design-verification-engineer?utm_source=github&utm_medium=new-grad-list) | San Diego, California | $122,600–$170,000/yr | Sep 25 |
-| **SpaceX** | [Hardware Test Automation Engineer](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Sep 22 |
 | **KBR** | [Jr PNT Engineer](https://spacejobs.now/jobs/kbr/jr-pnt-engineer?utm_source=github&utm_medium=new-grad-list) | Beavercreek Township, Ohio |  | Sep 15 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **SpaceX** | [Structural Test Engineer (Starship)](https://spacejobs.now/jobs/spacex/structural-test-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 8 |
-| **SpaceX** | [Integration & Test Engineer (Falcon)](https://spacejobs.now/jobs/spacex/integration-test-engineer-falcon?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $100,000–$130,000/yr | Sep 2 |
+| **SpaceX** | [Integration & Test Engineer (Falcon)](https://spacejobs.now/jobs/spacex/integration-test-engineer-falcon?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $100,000–$130,000/yr | Sep 2 |
 | **SpaceX** | [Software Engineer, HITL - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-hitl-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Aug 31 |
 | **Muon Space** | [Hardware Test Engineer I, Testbeds & EGSE](https://spacejobs.now/jobs/muon-space/hardware-test-engineer-i-testbeds-egse?utm_source=github&utm_medium=new-grad-list) | San Jose, CA | $143,000–$162,000/yr | Aug 21 |
 | **KBR** | [Jr. Systems Engineer (Digital Engineering Engagement)](https://spacejobs.now/jobs/kbr/jr-systems-engineer-digital-engineering-engagement?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $82,000–$102,000/yr | Aug 13 |

@@ -1,6 +1,6 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-40 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 19 Nov 2026.
+40 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 20 Nov 2026.
 
 [Back to the United States list](README.md)
 

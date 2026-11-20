@@ -5,7 +5,7 @@ description: "47 open entry-level space jobs in Florida (Blue Origin, SpaceX, Re
 
 # Entry-level space and aerospace jobs in Florida (new grad 2026 and 2027)
 
-**47 open at 10 companies, most at Blue Origin, SpaceX, Relativity Space, Lockheed Martin, US Space Force. Updated 19 Nov 2026.**
+**47 open at 10 companies, most at Blue Origin, SpaceX, Relativity Space, Lockheed Martin, US Space Force. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/florida?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,13 +13,13 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
+| **US Space Force** | [FUEL Distribution Systems Mechanic](https://spacejobs.now/jobs/us-space-force/fuel-distribution-systems-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,802–$75,508/yr | Nov 20 |
 | **Lockheed Martin** | [Electronics Engineer - Orion EGSE - Early Career](https://spacejobs.now/jobs/lockheed-martin/electronics-engineer-orion-egse-early-career?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Nov 17 |
 | **US Space Force** | [Heavy Mobile Equipment Mechanic](https://spacejobs.now/jobs/us-space-force/heavy-mobile-equipment-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,507/yr | Nov 16 |
-| **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more |  | Nov 15 |
 | **Lockheed Martin** | [FBM Early Career Rotation Program](https://spacejobs.now/jobs/lockheed-martin/fbm-early-career-rotation-program?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL | $58,200–$108,200/yr | Nov 12 |
 | **Blue Origin** | [Lunar Systems Administrator - Level 1](https://spacejobs.now/jobs/blue-origin/lunar-systems-administrator-level-1?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Nov 11 |
 | **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 9 |
-| **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **US Space Force** | [Maintenance Mechanic](https://spacejobs.now/jobs/us-space-force/maintenance-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
 | **Blue Origin** | [Facilities Design Civil Engineer I](https://spacejobs.now/jobs/blue-origin/facilities-design-civil-engineer-i?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL |  | Nov 3 |
 | **Amentum** | [Logistics Specialist I](https://spacejobs.now/jobs/amentum/logistics-specialist-i?utm_source=github&utm_medium=new-grad-list) | FL | $28.71/hr | Nov 3 |

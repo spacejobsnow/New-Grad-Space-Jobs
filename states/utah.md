@@ -5,7 +5,7 @@ description: "3 open entry-level space jobs in Utah (Northrop Grumman, Intuitive
 
 # Entry-level space and aerospace jobs in Utah (new grad 2026 and 2027)
 
-**3 open at 2 companies, most at Northrop Grumman, Intuitive Machines. Updated 19 Nov 2026.**
+**3 open at 2 companies, most at Northrop Grumman, Intuitive Machines. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/utah?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

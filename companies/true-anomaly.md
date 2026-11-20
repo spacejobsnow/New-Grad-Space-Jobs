@@ -1,11 +1,11 @@
 ---
 title: "True Anomaly new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "12 open entry-level True Anomaly roles in the US (Software and IT; Flight software and GNC; Business and programs), updated daily."
+description: "13 open entry-level True Anomaly roles in the US (Software and IT; Flight software and GNC; Avionics and electrical), updated daily."
 ---
 
 # True Anomaly new grad and entry-level jobs
 
-**12 open in the United States. Updated 19 Nov 2026.**
+**13 open in the United States. Updated 20 Nov 2026.**
 
 Every True Anomaly role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from True Anomaly's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/true-anomaly?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -25,3 +25,4 @@ Every True Anomaly role whose posting asks for no prior experience, names new or
 | **True Anomaly** | [Flight Software Engineer I (Temp-to-hire)](https://spacejobs.now/jobs/true-anomaly/flight-software-engineer-i-temp-to-hire?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more |  | Aug 25 |
 | **True Anomaly** | [Machine Learning Engineer (II-III), Space Agentic AI](https://spacejobs.now/jobs/true-anomaly/machine-learning-engineer-ii-iii-space-agentic-ai?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $125,000–$220,000/yr | May 15 |
 | **True Anomaly** | [Software Engineer I, Full Stack (New Grad)](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-full-stack-new-grad?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more |  | Mar 27 |
+| **True Anomaly** | [Electrical Engineer I- IIII (eGSE)](https://spacejobs.now/jobs/true-anomaly/electrical-engineer-i-iiii-egse?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $90,000–$110,000/yr | Jan 21 |

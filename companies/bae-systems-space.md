@@ -1,11 +1,11 @@
 ---
 title: "BAE Systems Space & Mission Systems new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "10 open entry-level BAE Systems Space & Mission Systems roles in the US (Systems, integration and test; Manufacturing; Flight software and GNC), updated daily."
+description: "9 open entry-level BAE Systems Space & Mission Systems roles in the US (Systems, integration and test; Manufacturing; Launch and mission operations), updated daily."
 ---
 
 # BAE Systems Space & Mission Systems new grad and entry-level jobs
 
-**10 open in the United States. Updated 19 Nov 2026.**
+**9 open in the United States. Updated 20 Nov 2026.**
 
 Every BAE Systems Space & Mission Systems role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from BAE Systems Space & Mission Systems's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/bae-systems-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -20,6 +20,5 @@ Every BAE Systems Space & Mission Systems role whose posting asks for no prior e
 | **BAE Systems Space & Mission Systems** | [Systems Engineer I - Core Systems Engineering](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Project Engineer I - Industrial](https://spacejobs.now/jobs/bae-systems-space/project-engineer-i-industrial?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado | $118,095–$200,762/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Systems Engineer I – Core Systems Engineering - $5,000 Sign On Bonus](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering-5-000-sign-on-bonus?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado and 1 more | $64,926–$110,374/yr | Oct 30 |
-| **BAE Systems Space & Mission Systems** | [Project Engineer I - Space Communications](https://spacejobs.now/jobs/bae-systems-space/project-engineer-i-space-communications?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $118,095–$200,762/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Technical Specialist I – CMM Programmer - 2nd Shift](https://spacejobs.now/jobs/bae-systems-space/technical-specialist-i-cmm-programmer-2nd-shift?utm_source=github&utm_medium=new-grad-list) | Westminster, Colorado | $66,017–$105,628/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – Ground Systems](https://spacejobs.now/jobs/bae-systems-space/engineer-i-ground-systems?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado | $64,926–$110,374/yr | Oct 9 |

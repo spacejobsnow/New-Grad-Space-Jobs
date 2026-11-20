@@ -1,11 +1,11 @@
 ---
 title: "Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)"
-description: "28 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, Firefly Aerospace and more), updated daily."
+description: "29 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Firefly Aerospace and more), updated daily."
 ---
 
 # Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)
 
-**28 open in the United States at 15 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, Firefly Aerospace, Lockheed Martin. Updated 19 Nov 2026.**
+**29 open in the United States at 15 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Firefly Aerospace, Blue Origin. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/avionics-electrical?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,9 +13,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
 | **Lockheed Martin** | [Electronics Engineer - Orion EGSE - Early Career](https://spacejobs.now/jobs/lockheed-martin/electronics-engineer-orion-egse-early-career?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Nov 17 |
 | **Lockheed Martin** | [Circuit Design Engineer Asc-Early Career](https://spacejobs.now/jobs/lockheed-martin/circuit-design-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 17 |
-| **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more |  | Nov 15 |
 | **SpaceX** | [New Graduate Engineer, Electrical - Satellites (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 5 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Electronics Engineer I (Advanced Electronics Systems and Technologies / 345C)](https://spacejobs.now/jobs/jpl/electronics-engineer-i-advanced-electronics-systems-and-technologies-345c?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $97,656–$114,192/yr | Nov 5 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Power Systems Engineer I (345A)](https://spacejobs.now/jobs/jpl/power-systems-engineer-i-345a?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $99,112–$118,560/yr | Nov 5 |
@@ -41,3 +41,4 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [ASIC Engineer - Early Career](https://spacejobs.now/jobs/blue-origin/asic-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $129,032–$180,644/yr | Aug 20 |
 | **SpaceX** | [New Graduate Engineer, Electrical (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Aug 19 |
 | **SpaceX** | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-26-27-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 1 more |  | Aug 14 |
+| **True Anomaly** | [Electrical Engineer I- IIII (eGSE)](https://spacejobs.now/jobs/true-anomaly/electrical-engineer-i-iiii-egse?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $90,000–$110,000/yr | Jan 21 |

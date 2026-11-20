@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in California (new grad 2026 and 2027)"
-description: "170 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
+description: "172 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in California (new grad 2026 and 2027)
 
-**170 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 19 Nov 2026.**
+**172 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Viasat** | [Associate Software Engineer, Early Career](https://spacejobs.now/jobs/viasat/associate-software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $95,000–$150,000/yr | Nov 19 |
+| **Relativity Space** | [TPS Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Nov 19 |
 | **Relativity Space** | [New Grad 2027 - Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California |  | Nov 18 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Nov 17 |
@@ -37,12 +39,11 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Millennium Space Systems** | [Structural Analysis Engineer (Entry-level)](https://spacejobs.now/jobs/millennium-space-systems/structural-analysis-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA | $63,000–$113,000/yr | Nov 11 |
 | **Anduril** | [2027 New Grad Information Security Engineer](https://spacejobs.now/jobs/anduril/2027-new-grad-information-security-engineer?utm_source=github&utm_medium=new-grad-list) | Costa Mesa, California | $88,000–$117,000/yr | Nov 10 |
 | **Rocket Lab** | [Manufacturing Engineer I - Propulsion](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i-propulsion?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $89,350–$115,025/yr | Nov 9 |
-| **Omitron** | [Junior Orbital Analyst](https://spacejobs.now/jobs/omitron/junior-orbital-analyst?utm_source=github&utm_medium=new-grad-list) | Vandenberg SFB, CA | $90,000–$130,000/yr | Nov 9 |
+| **Omitron** | [Junior Orbital Analyst](https://spacejobs.now/jobs/omitron/junior-orbital-analyst?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $90,000–$130,000/yr | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Manufacturing Systems](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 9 |
 | **SpaceX** | [Full Stack Software Engineer, Internal Platforms](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-internal-platforms?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Nov 9 |
 | **Varda Space Industries** | [CNC Lathe Machinist I and II, Prototype Shop](https://spacejobs.now/jobs/varda/cnc-lathe-machinist-i-and-ii-prototype-shop?utm_source=github&utm_medium=new-grad-list) | El Segundo, California | $29–$40/hr | Nov 7 |
 | **Relativity Space** | [Vehicle Structures Engineer I (Heat Shield)](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-heat-shield?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 6 |
-| **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 6 |
 | **SpaceX** | [Site Reliability Engineer (Starlink)](https://spacejobs.now/jobs/spacex/site-reliability-engineer-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 2 more | $135,000–$175,000/yr | Nov 5 |
 | **Lockheed Martin** | [Contracts Management Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/contracts-management-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Highlands Ranch, CO and 1 more | $55,700–$103,400/yr | Nov 5 |
 | **Rocket Lab** | [Business Development Engineer I](https://spacejobs.now/jobs/rocket-lab/business-development-engineer-i?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 1 more | $66,000–$100,000/yr | Nov 5 |
@@ -57,7 +58,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Northwood Space** | [Lifecycle Electrical Engineer (Prism) - New Grad](https://spacejobs.now/jobs/northwood-space/lifecycle-electrical-engineer-prism-new-grad?utm_source=github&utm_medium=new-grad-list) | Torrance, CA |  | Nov 3 |
 | **Relativity Space** | [Additive Post Processing Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/additive-post-processing-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Nov 3 |
 | **Relativity Space** | [Additive Post Processing Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/additive-post-processing-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Nov 3 |
-| **SpaceX** | [Test Specialist (Falcon Operations) - Multiple Shifts](https://spacejobs.now/jobs/spacex/test-specialist-falcon-operations-multiple-shifts?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $33.00–$41.75/hr | Nov 2 |
+| **SpaceX** | [Test Specialist (Falcon Operations) - Multiple Shifts](https://spacejobs.now/jobs/spacex/test-specialist-falcon-operations-multiple-shifts?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $33.00–$41.75/hr | Nov 2 |
 | **Rocket Lab** | [Production Planner I](https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $63,000–$79,000/yr | Oct 30 |
 | **Relativity Space** | [Manufacturing Engineer I, Machining](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-machining?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 30 |
 | **Relativity Space** | [Thermal Engineer I](https://spacejobs.now/jobs/relativity-space/thermal-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 29 |
@@ -66,6 +67,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Rocket Lab** | [Spacecraft Propulsion Components Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-propulsion-components-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,400–$123,600/yr | Oct 29 |
 | **Rocket Lab** | [RF Phased Array Engineer I](https://spacejobs.now/jobs/rocket-lab/rf-phased-array-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Oct 28 |
 | **Rocket Lab** | [Harness Engineer I](https://spacejobs.now/jobs/rocket-lab/harness-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Oct 28 |
+| **Rocket Lab** | [Avionics Test Engineer I](https://spacejobs.now/jobs/rocket-lab/avionics-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $68,000–$93,500/yr | Oct 28 |
 | **Rocket Lab** | [Systems Engineer I](https://spacejobs.now/jobs/rocket-lab/systems-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,400–$113,300/yr | Oct 28 |
 | **Rocket Lab** | [Radar Engineer I](https://spacejobs.now/jobs/rocket-lab/radar-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Oct 28 |
 | **Anduril** | [2027 New Grad GNC Engineer](https://spacejobs.now/jobs/anduril/2027-new-grad-gnc-engineer?utm_source=github&utm_medium=new-grad-list) | Costa Mesa, California | $117,000–$154,000/yr | Oct 28 |
@@ -123,8 +125,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Site Reliability Engineer (High Performance Computing)](https://spacejobs.now/jobs/spacex/site-reliability-engineer-high-performance-computing?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 23 |
 | **SpaceX** | [Full Stack Software Engineer](https://spacejobs.now/jobs/spacex/full-stack-software-engineer?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Sep 23 |
 | **Intuitive Machines** | [Orbit Determination and Navigation Engineer I, II](https://spacejobs.now/jobs/intuitive-machines/orbit-determination-and-navigation-engineer-i-ii?utm_source=github&utm_medium=new-grad-list) | Glen Burnie, MD and 11 more |  | Sep 23 |
+| **Relativity Space** | [Software Engineer II (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-ii-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $130,000–$196,000/yr | Sep 22 |
 | **Relativity Space** | [Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 22 |
-| **Relativity Space** | [GNC Simulation Engineer I](https://spacejobs.now/jobs/relativity-space/gnc-simulation-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $110,000–$164,000/yr | Sep 18 |
 | **SpaceX** | [Software Engineer, Internal Applications](https://spacejobs.now/jobs/spacex/software-engineer-internal-applications?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 15 |
 | **Inversion Space** | [TPS Technician I](https://spacejobs.now/jobs/inversion-space/tps-technician-i?utm_source=github&utm_medium=new-grad-list) | Los Angeles, California |  | Sep 11 |
 | **SpaceX** | [New Graduate Engineer, Security Software (Starshield)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-security-software-starshield?utm_source=github&utm_medium=new-grad-list) | Washington, DC and 1 more | $130,000–$160,000/yr | Sep 11 |
@@ -137,7 +139,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **True Anomaly** | [Software Engineer I, Elixir (New Grad)](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-elixir-new-grad?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more |  | Sep 8 |
 | **SpaceX** | [New Graduate Engineer, Starship Components](https://spacejobs.now/jobs/spacex/new-graduate-engineer-starship-components?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Sep 3 |
 | **Relativity Space** | [TPS Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Sep 3 |
-| **SpaceX** | [Integration & Test Engineer (Falcon)](https://spacejobs.now/jobs/spacex/integration-test-engineer-falcon?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $100,000–$130,000/yr | Sep 2 |
+| **SpaceX** | [Integration & Test Engineer (Falcon)](https://spacejobs.now/jobs/spacex/integration-test-engineer-falcon?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $100,000–$130,000/yr | Sep 2 |
 | **SpaceX** | [Full Stack Engineer, Flight Software](https://spacejobs.now/jobs/spacex/full-stack-engineer-flight-software?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Sep 1 |
 | **SpaceX** | [Software Engineer, HITL - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-hitl-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Aug 31 |
 | **SpaceX** | [Full Stack Engineer, Employee Experience](https://spacejobs.now/jobs/spacex/full-stack-engineer-employee-experience?utm_source=github&utm_medium=new-grad-list) | Palo Alto, CA | $135,000–$160,000/yr | Aug 30 |
@@ -167,7 +169,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Relativity Space** | [Weld Engineer I](https://spacejobs.now/jobs/relativity-space/weld-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Jul 21 |
 | **SpaceX** | [Software Engineer (Starfall)](https://spacejobs.now/jobs/spacex/software-engineer-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 21 |
 | **SpaceX** | [Software Engineer, Satellite Systems (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-satellite-systems-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 13 |
-| **SpaceX** | [Launch Engineer, Falcon Engineering](https://spacejobs.now/jobs/spacex/launch-engineer-falcon-engineering?utm_source=github&utm_medium=new-grad-list) | Vandenberg, CA | $100,000–$117,500/yr | Jul 8 |
+| **SpaceX** | [Launch Engineer, Falcon Engineering](https://spacejobs.now/jobs/spacex/launch-engineer-falcon-engineering?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $100,000–$117,500/yr | Jul 8 |
 | **SpaceX** | [Software Engineer (Starshield) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-starshield-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 7 |
 | **SpaceX** | [Software Engineer, Product Development (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-product-development-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 6 |
 | **SpaceX** | [Software Engineer, High Performance Computing](https://spacejobs.now/jobs/spacex/software-engineer-high-performance-computing?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 6 |
@@ -178,8 +180,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, Hardware Test & Automation (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-hardware-test-automation-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jun 1 |
 | **SpaceX** | [Mission Integration Engineer, AI (Starshield) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/mission-integration-engineer-ai-starshield-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$115,000/yr | May 28 |
 | **SpaceX** | [Software Engineer (Special Projects) - Top Secret Clearance](https://spacejobs.now/jobs/spacex/software-engineer-special-projects-top-secret-clearance?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | May 28 |
-| **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$145,000/yr | May 19 |
 | **True Anomaly** | [Machine Learning Engineer (II-III), Space Agentic AI](https://spacejobs.now/jobs/true-anomaly/machine-learning-engineer-ii-iii-space-agentic-ai?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $125,000–$220,000/yr | May 15 |
 | **True Anomaly** | [Software Engineer I, Full Stack (New Grad)](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-full-stack-new-grad?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more |  | Mar 27 |
+| **True Anomaly** | [Electrical Engineer I- IIII (eGSE)](https://spacejobs.now/jobs/true-anomaly/electrical-engineer-i-iiii-egse?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $90,000–$110,000/yr | Jan 21 |
 | **TRL11** | [Jr Algorithms/Video Engineer](https://spacejobs.now/jobs/trl11/jr-algorithms-video-engineer?utm_source=github&utm_medium=new-grad-list) | Irvine, California |  | May 30 |
 | **Astranis** | [Mechanical Engineer - Spacecraft Configuration](https://spacejobs.now/jobs/astranis/mechanical-engineer-spacecraft-configuration?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $100,000–$130,000/yr | Mar 22 |

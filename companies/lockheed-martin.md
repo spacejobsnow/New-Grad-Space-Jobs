@@ -5,7 +5,7 @@ description: "35 open entry-level Lockheed Martin roles in the US (Systems, inte
 
 # Lockheed Martin new grad and entry-level jobs
 
-**35 open in the United States. Updated 19 Nov 2026.**
+**35 open in the United States. Updated 20 Nov 2026.**
 
 Every Lockheed Martin role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Lockheed Martin's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/lockheed-martin?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -24,7 +24,7 @@ Every Lockheed Martin role whose posting asks for no prior experience, names new
 | **Lockheed Martin** | [Systems Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO and 4 more | $58,200–$121,700/yr | Nov 16 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO and 2 more | $58,200–$121,700/yr | Nov 16 |
 | **Lockheed Martin** | [Production Planner/Scheduler - Level 1](https://spacejobs.now/jobs/lockheed-martin/production-planner-scheduler-level-1?utm_source=github&utm_medium=new-grad-list) | MS and 1 more | $49,500–$91,900/yr | Nov 14 |
-| **Lockheed Martin** | [Satellite Mission Engr - Early Career](https://spacejobs.now/jobs/lockheed-martin/satellite-mission-engr-early-career?utm_source=github&utm_medium=new-grad-list) | White Sands Missile Range, NM | $70,500–$130,900/yr | Nov 12 |
+| **Lockheed Martin** | [Satellite Mission Engr - Early Career](https://spacejobs.now/jobs/lockheed-martin/satellite-mission-engr-early-career?utm_source=github&utm_medium=new-grad-list) | White Sands, NM | $70,500–$130,900/yr | Nov 12 |
 | **Lockheed Martin** | [Software Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA | $75,400–$140,000/yr | Nov 12 |
 | **Lockheed Martin** | [Systems Engineer-IT Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-it-asc-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA | $65,500–$121,700/yr | Nov 12 |
 | **Lockheed Martin** | [FBM Early Career Rotation Program](https://spacejobs.now/jobs/lockheed-martin/fbm-early-career-rotation-program?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL | $58,200–$108,200/yr | Nov 12 |
