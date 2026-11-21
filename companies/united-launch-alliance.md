@@ -5,7 +5,7 @@ description: "14 open entry-level United Launch Alliance roles in the US (Mechan
 
 # United Launch Alliance new grad and entry-level jobs
 
-**14 open in the United States. Updated 20 Nov 2026.**
+**14 open in the United States. Updated 21 Nov 2026.**
 
 Every United Launch Alliance role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from United Launch Alliance's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/united-launch-alliance?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Every United Launch Alliance role whose posting asks for no prior experience, na
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL and 1 more | $61,657–$107,900/yr | Nov 21 |
+| **United Launch Alliance** | [Control Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 21 |
 | **United Launch Alliance** | [Ground Software (GSW) Avionics & Infrastructure Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/ground-software-gsw-avionics-infrastructure-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,111–$128,518/yr | Nov 20 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
 | **United Launch Alliance** | [Mechanical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
@@ -23,7 +25,5 @@ Every United Launch Alliance role whose posting asks for no prior experience, na
 | **United Launch Alliance** | [Material & Process Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/material-process-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **United Launch Alliance** | [Strength Analyst 1 - Vulcan Development](https://spacejobs.now/jobs/united-launch-alliance/strength-analyst-1-vulcan-development?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Oct 30 |
 | **United Launch Alliance** | [Weld Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
-| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $64,740–$107,900/yr | Oct 30 |
 | **United Launch Alliance** | [Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
-| **United Launch Alliance** | [Control Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Oct 30 |
 | **United Launch Alliance** | [Contamination Control Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/contamination-control-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Oct 30 |

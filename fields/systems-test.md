@@ -1,11 +1,11 @@
 ---
 title: "Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)"
-description: "53 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
+description: "54 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, Blue Origin, SpaceX, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)
 
-**53 open in the United States at 20 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, KBR. Updated 20 Nov 2026.**
+**54 open in the United States at 22 companies, most at Lockheed Martin, Blue Origin, SpaceX, Rocket Lab, KBR. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL and 1 more | $61,657–$107,900/yr | Nov 21 |
+| **Viasat** | [Systems Test Engineer, Early Career](https://spacejobs.now/jobs/viasat/systems-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $77,000–$122,000/yr | Nov 20 |
+| **Millennium Space Systems** | [Optical Systems Engineer (Entry Level)](https://spacejobs.now/jobs/millennium-space-systems/optical-systems-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA | $70,550–$103,750/yr | Nov 19 |
 | **SpaceX** | [Hardware Test Automation Engineer, Satellites (Starlink)](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 17 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Nov 17 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Herndon, VA and 1 more | $65,500–$121,700/yr | Nov 17 |
@@ -24,10 +27,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Barrios Technology** | [Junior Systems Engineer](https://spacejobs.now/jobs/barrios-technology/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 9 |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 6 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – ESTE Systems Engineer](https://spacejobs.now/jobs/bae-systems-space/engineer-i-este-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado | $64,926–$110,374/yr | Nov 4 |
-| **BAE Systems Space & Mission Systems** | [Systems Engineer I - Core Systems Engineering](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering?utm_source=github&utm_medium=new-grad-list) | Broomfield, CO | $64,926–$110,374/yr | Oct 30 |
 | **BAE Systems Space & Mission Systems** | [Systems Engineer I – Core Systems Engineering - $5,000 Sign On Bonus](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering-5-000-sign-on-bonus?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado and 1 more | $64,926–$110,374/yr | Oct 30 |
 | **Sierra Space** | [Test Engineer I](https://spacejobs.now/jobs/sierra-space/test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Durham, NC | $73,175–$100,615/yr | Oct 30 |
-| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $64,740–$107,900/yr | Oct 30 |
 | **United Launch Alliance** | [Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **Northrop Grumman** | [Systems Engineer – Space Superiority Missions](https://spacejobs.now/jobs/northrop-grumman/systems-engineer-space-superiority-missions?utm_source=github&utm_medium=new-grad-list) | Dulles, VA | $91,800–$137,600/yr | Oct 30 |
 | **Rocket Lab** | [Avionics Test Engineer I](https://spacejobs.now/jobs/rocket-lab/avionics-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $68,000–$93,500/yr | Oct 28 |

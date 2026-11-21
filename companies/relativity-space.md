@@ -1,11 +1,11 @@
 ---
 title: "Relativity Space new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "50 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Launch and mission operations), updated daily."
+description: "49 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Launch and mission operations), updated daily."
 ---
 
 # Relativity Space new grad and entry-level jobs
 
-**50 open in the United States. Updated 20 Nov 2026.**
+**49 open in the United States. Updated 21 Nov 2026.**
 
 Every Relativity Space role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Relativity Space's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/relativity-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -33,7 +33,6 @@ Every Relativity Space role whose posting asks for no prior experience, names ne
 | **Relativity Space** | [Environmental Test Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/environmental-test-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $24.37–$36.55/hr | Oct 22 |
 | **Relativity Space** | [PBF Printer Technician I](https://spacejobs.now/jobs/relativity-space/pbf-printer-technician-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Oct 22 |
 | **Relativity Space** | [Offshore Recovery Electrical Engineer I](https://spacejobs.now/jobs/relativity-space/offshore-recovery-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 21 |
-| **Relativity Space** | [Manufacturing Engineer I, Stage Machining & Forming](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-stage-machining-forming?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 19 |
 | **Relativity Space** | [CNC Setup Operator I, Second Shift](https://spacejobs.now/jobs/relativity-space/cnc-setup-operator-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $26.92–$40.38/hr | Oct 19 |
 | **Relativity Space** | [CNC Setup Operator I, First Shift](https://spacejobs.now/jobs/relativity-space/cnc-setup-operator-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $26.92–$40.38/hr | Oct 19 |
 | **Relativity Space** | [Manufacturing Engineer I - Test & Launch Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-test-launch-structures?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 16 |

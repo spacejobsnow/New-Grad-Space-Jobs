@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)"
-description: "65 open entry-level space jobs in Washington (Blue Origin, SpaceX, Cowboy Space, Amazon Leo and more), updated daily."
+description: "66 open entry-level space jobs in Washington (Blue Origin, SpaceX, Amazon Leo, Cowboy Space and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)
 
-**65 open at 6 companies, most at Blue Origin, SpaceX, Cowboy Space, Amazon Leo, Stoke Space. Updated 20 Nov 2026.**
+**66 open at 6 companies, most at Blue Origin, SpaceX, Amazon Leo, Cowboy Space, Stoke Space. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [Software Engineer, Development Test (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-development-test-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Nov 20 |
 | **SpaceX** | [Hardware Test Automation Engineer, Satellites (Starlink)](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 17 |
 | **Blue Origin** | [Solar PV Test Engineer III – Solar Center of Excellence](https://spacejobs.now/jobs/blue-origin/solar-pv-test-engineer-iii-solar-center-of-excellence?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $121,023–$169,432/yr | Nov 12 |
 | **Amazon Leo** | [IT Application Engineer I, Amazon Leo, ALM365](https://spacejobs.now/jobs/amazon-leo/it-application-engineer-i-amazon-leo-alm365?utm_source=github&utm_medium=new-grad-list) | Bellevue, Washington | $90,700–$158,700/yr | Nov 10 |

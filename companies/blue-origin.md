@@ -5,7 +5,7 @@ description: "42 open entry-level Blue Origin roles in the US (Manufacturing; Me
 
 # Blue Origin new grad and entry-level jobs
 
-**42 open in the United States. Updated 20 Nov 2026.**
+**42 open in the United States. Updated 21 Nov 2026.**
 
 Every Blue Origin role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Blue Origin's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/blue-origin?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

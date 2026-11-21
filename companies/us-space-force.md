@@ -1,11 +1,11 @@
 ---
 title: "US Space Force new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "7 open entry-level US Space Force roles in the US (Manufacturing; Supply chain and facilities), updated daily."
+description: "6 open entry-level US Space Force roles in the US (Manufacturing; Supply chain and facilities), updated daily."
 ---
 
 # US Space Force new grad and entry-level jobs
 
-**7 open in the United States. Updated 20 Nov 2026.**
+**6 open in the United States. Updated 21 Nov 2026.**
 
 Every US Space Force role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from US Space Force's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/us-space-force?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -19,4 +19,3 @@ Every US Space Force role whose posting asks for no prior experience, names new 
 | **US Space Force** | [Heavy Mobile Equipment Mechanic](https://spacejobs.now/jobs/us-space-force/heavy-mobile-equipment-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,507/yr | Nov 16 |
 | **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 9 |
 | **US Space Force** | [Maintenance Mechanic](https://spacejobs.now/jobs/us-space-force/maintenance-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
-| **US Space Force** | [ELECTRICIAN](https://spacejobs.now/jobs/us-space-force/electrician?utm_source=github&utm_medium=new-grad-list) | Aurora, CO | $70,978–$82,853/yr | Nov 4 |
