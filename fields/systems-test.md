@@ -1,11 +1,11 @@
 ---
 title: "Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)"
-description: "54 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, Blue Origin, SpaceX, Rocket Lab and more), updated daily."
+description: "54 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)
 
-**54 open in the United States at 22 companies, most at Lockheed Martin, Blue Origin, SpaceX, Rocket Lab, KBR. Updated 21 Nov 2026.**
+**54 open in the United States at 22 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, KBR. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

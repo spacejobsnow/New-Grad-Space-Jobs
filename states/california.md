@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in California (new grad 2026 and 2027)"
-description: "171 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
+description: "173 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in California (new grad 2026 and 2027)
 
-**171 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 21 Nov 2026.**
+**173 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
+| **SpaceX** | [Electrical Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-raptor?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Nov 21 |
 | **Viasat** | [Systems Test Engineer, Early Career](https://spacejobs.now/jobs/viasat/systems-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $77,000–$122,000/yr | Nov 20 |
 | **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $135,000–$160,000/yr | Nov 20 |

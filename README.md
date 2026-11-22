@@ -2,7 +2,7 @@
 
 Every open entry-level job at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list), a free job board for the space industry. A role is listed when its posting asks for no prior experience, names new or recent graduates, or is an early-career level.
 
-**465 open in the United States, 44 in Europe, Canada and Asia-Pacific, at 69 companies. Updated 21 Nov 2026.**
+**467 open in the United States, 44 in Europe, Canada and Asia-Pacific, at 69 companies. Updated 22 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
@@ -15,27 +15,27 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By field
 
-- [Software and IT](fields/ground-software.md) (93 in the US)
+- [Software and IT](fields/ground-software.md) (94 in the US)
 - [Flight software and GNC](fields/gnc-flight-software.md) (39 in the US)
 - [Mechanical, structures and thermal](fields/mechanical-structures.md) (56 in the US)
-- [Avionics and electrical](fields/avionics-electrical.md) (29 in the US)
+- [Avionics and electrical](fields/avionics-electrical.md) (31 in the US)
 - [RF, communications and payloads](fields/rf-communications.md) (6 in the US)
 - [Propulsion](fields/propulsion.md) (13 in the US)
 - [Systems, integration and test](fields/systems-test.md) (54 in the US)
 - [Launch and mission operations](fields/launch-mission-ops.md) (24 in the US)
 - [Manufacturing](fields/manufacturing.md) (93 in the US)
-- [Quality and mission assurance](fields/quality-safety.md) (13 in the US)
+- [Quality and mission assurance](fields/quality-safety.md) (12 in the US)
 - [Science, imaging and Earth data](fields/science-imaging.md) (7 in the US)
 - [Business and programs](fields/business-programs.md) (13 in the US)
 - [Supply chain and facilities](fields/supply-chain-facilities.md) (15 in the US)
 
 ## By state
 
-[California](states/california.md) (171), [Texas](states/texas.md) (86), [Colorado](states/colorado.md) (84), [Washington](states/washington.md) (66), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (20), [Virginia](states/virginia.md) (17), [Pennsylvania](states/pennsylvania.md) (9), [New Mexico](states/new-mexico.md) (7), [Arizona](states/arizona.md) (6), [Mississippi](states/mississippi.md) (6), [Maryland](states/maryland.md) (5), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [District of Columbia](states/district-of-columbia.md) (4), [Utah](states/utah.md) (3), [Ohio](states/ohio.md) (2)
+[California](states/california.md) (173), [Texas](states/texas.md) (86), [Colorado](states/colorado.md) (84), [Washington](states/washington.md) (66), [Florida](states/florida.md) (47), [Alabama](states/alabama.md) (20), [Virginia](states/virginia.md) (17), [Pennsylvania](states/pennsylvania.md) (9), [New Mexico](states/new-mexico.md) (7), [Arizona](states/arizona.md) (6), [Mississippi](states/mississippi.md) (6), [Maryland](states/maryland.md) (5), [New York](states/new-york.md) (5), [Tennessee](states/tennessee.md) (5), [District of Columbia](states/district-of-columbia.md) (4), [Utah](states/utah.md) (3), [Ohio](states/ohio.md) (2)
 
 ## By company
 
-[SpaceX](companies/spacex.md) (121), [Relativity Space](companies/relativity-space.md) (49), [Blue Origin](companies/blue-origin.md) (42), [Lockheed Martin](companies/lockheed-martin.md) (35), [Rocket Lab](companies/rocket-lab.md) (24), [Sierra Space](companies/sierra-space.md) (18), [Firefly Aerospace](companies/firefly-aerospace.md) (16), [United Launch Alliance](companies/united-launch-alliance.md) (14), [KBR](companies/kbr.md) (13), [True Anomaly](companies/true-anomaly.md) (12), [AST SpaceMobile](companies/ast-spacemobile.md) (8), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (7), [BAE Systems Space & Mission Systems](companies/bae-systems-space.md) (7), [US Space Force](companies/us-space-force.md) (6), [Frontgrade Technologies](companies/frontgrade.md) (6), [Amazon Leo](companies/amazon-leo.md) (6), [Amentum](companies/amentum.md) (6), [Northrop Grumman](companies/northrop-grumman.md) (5)
+[SpaceX](companies/spacex.md) (123), [Relativity Space](companies/relativity-space.md) (49), [Blue Origin](companies/blue-origin.md) (42), [Lockheed Martin](companies/lockheed-martin.md) (35), [Rocket Lab](companies/rocket-lab.md) (24), [Sierra Space](companies/sierra-space.md) (18), [Firefly Aerospace](companies/firefly-aerospace.md) (16), [United Launch Alliance](companies/united-launch-alliance.md) (14), [KBR](companies/kbr.md) (13), [True Anomaly](companies/true-anomaly.md) (12), [AST SpaceMobile](companies/ast-spacemobile.md) (8), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (7), [BAE Systems Space & Mission Systems](companies/bae-systems-space.md) (7), [US Space Force](companies/us-space-force.md) (6), [Frontgrade Technologies](companies/frontgrade.md) (6), [Amazon Leo](companies/amazon-leo.md) (6), [Amentum](companies/amentum.md) (6), [Northrop Grumman](companies/northrop-grumman.md) (5)
 
 ## Also useful
 
@@ -44,10 +44,12 @@ Many US roles require US citizenship or US person status (export rules); each ro
 - [Entry-level space jobs that need a security clearance](https://spacejobs.now/space-jobs-with-security-clearance/entry-level?utm_source=github&utm_medium=new-grad-list) (ROTC, veterans, clearance-eligible graduates)
 - [What space employers pay, by employer and kind of work](https://spacejobs.now/salaries?utm_source=github&utm_medium=new-grad-list)
 
-## United States (465)
+## United States (467)
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
+| **SpaceX** | [Electrical Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL and 1 more | $61,657–$107,900/yr | Nov 21 |
 | **United Launch Alliance** | [Control Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 21 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-raptor?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Nov 21 |

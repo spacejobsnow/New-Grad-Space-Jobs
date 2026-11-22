@@ -1,11 +1,11 @@
 ---
 title: "Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)"
-description: "13 open entry-level quality and mission assurance roles at space companies in the US (Relativity Space, AST SpaceMobile, SpaceX, United Launch Alliance and more), updated daily."
+description: "12 open entry-level quality and mission assurance roles at space companies in the US (Relativity Space, AST SpaceMobile, Rocket Lab, Frontgrade Technologies and more), updated daily."
 ---
 
 # Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)
 
-**13 open in the United States at 9 companies, most at Relativity Space, AST SpaceMobile, SpaceX, United Launch Alliance, Frontgrade Technologies. Updated 21 Nov 2026.**
+**12 open in the United States at 9 companies, most at Relativity Space, AST SpaceMobile, Rocket Lab, Frontgrade Technologies, Blue Origin. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/quality-safety?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,7 +13,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
-| **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $135,000–$160,000/yr | Nov 20 |
 | **Relativity Space** | [New Grad 2027 - Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California |  | Nov 18 |
 | **Rocket Lab** | [Quality Inspector I](https://spacejobs.now/jobs/rocket-lab/quality-inspector-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $22–$27/hr | Nov 16 |
 | **AST SpaceMobile** | [Quality Inspector I, 1st Shift, Site 1](https://spacejobs.now/jobs/ast-spacemobile/quality-inspector-i-1st-shift-site-1?utm_source=github&utm_medium=new-grad-list) | Midland, Texas |  | Nov 3 |

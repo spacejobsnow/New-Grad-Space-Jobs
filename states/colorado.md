@@ -5,7 +5,7 @@ description: "84 open entry-level space jobs in Colorado (Lockheed Martin, Sierr
 
 # Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)
 
-**84 open at 17 companies, most at Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly, Blue Origin. Updated 21 Nov 2026.**
+**84 open at 17 companies, most at Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly, Blue Origin. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/colorado?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Alabama (new grad 2026 and 2027)"
-description: "20 open entry-level space jobs in Alabama (Blue Origin, Lockheed Martin, United Launch Alliance, Amentum and more), updated daily."
+description: "20 open entry-level space jobs in Alabama (Blue Origin, United Launch Alliance, Lockheed Martin, Amentum and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Alabama (new grad 2026 and 2027)
 
-**20 open at 4 companies, most at Blue Origin, Lockheed Martin, United Launch Alliance, Amentum. Updated 21 Nov 2026.**
+**20 open at 4 companies, most at Blue Origin, United Launch Alliance, Lockheed Martin, Amentum. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/alabama?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -1,8 +1,36 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "jobs": [
+  {
+   "company": "SpaceX",
+   "title": "New Graduate Engineer, Electrical (Starfall)",
+   "location": "Hawthorne, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$105,000\u2013$140,000/yr",
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "SpaceX",
+   "title": "Electrical Systems Engineer (Special Programs)",
+   "location": "Hawthorne, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$105,000\u2013$140,000/yr",
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list"
+  },
   {
    "company": "United Launch Alliance",
    "title": "Systems Test Engineer 1",
@@ -84,7 +112,7 @@
    ],
    "pay": "$135,000\u2013$160,000/yr",
    "term": null,
-   "field": "quality-safety",
+   "field": "ground-software",
    "posted": "2026-11-20",
    "url": "https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list"
   },

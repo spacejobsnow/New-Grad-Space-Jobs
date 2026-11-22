@@ -5,7 +5,7 @@ description: "2 open entry-level space jobs in Ohio (Intuitive Machines, KBR and
 
 # Entry-level space and aerospace jobs in Ohio (new grad 2026 and 2027)
 
-**2 open at 2 companies, most at Intuitive Machines, KBR. Updated 21 Nov 2026.**
+**2 open at 2 companies, most at Intuitive Machines, KBR. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ohio?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

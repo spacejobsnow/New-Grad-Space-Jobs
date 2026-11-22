@@ -1,11 +1,11 @@
 ---
 title: "Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)"
-description: "29 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, True Anomaly and more), updated daily."
+description: "31 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)
 
-**29 open in the United States at 15 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, True Anomaly, Blue Origin. Updated 21 Nov 2026.**
+**31 open in the United States at 15 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Rocket Lab, Blue Origin. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/avionics-electrical?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
+| **SpaceX** | [Electrical Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
 | **Lockheed Martin** | [Electronics Engineer - Orion EGSE - Early Career](https://spacejobs.now/jobs/lockheed-martin/electronics-engineer-orion-egse-early-career?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Nov 17 |
 | **Lockheed Martin** | [Circuit Design Engineer Asc-Early Career](https://spacejobs.now/jobs/lockheed-martin/circuit-design-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 17 |
