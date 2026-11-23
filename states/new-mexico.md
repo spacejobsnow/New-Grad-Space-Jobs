@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in New Mexico (new grad 2026 and 2027)"
-description: "7 open entry-level space jobs in New Mexico (Rocket Lab, AeroVironment (AV), Lockheed Martin, BAE Systems Space & Mission Systems and more), updated daily."
+description: "7 open entry-level space jobs in New Mexico (Rocket Lab, Virgin Galactic, BAE Systems Space & Mission Systems, AeroVironment (AV) and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in New Mexico (new grad 2026 and 2027)
 
-**7 open at 5 companies, most at Rocket Lab, AeroVironment (AV), Lockheed Martin, BAE Systems Space & Mission Systems, Virgin Galactic. Updated 22 Nov 2026.**
+**7 open at 5 companies, most at Rocket Lab, Virgin Galactic, BAE Systems Space & Mission Systems, AeroVironment (AV), Lockheed Martin. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/new-mexico?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

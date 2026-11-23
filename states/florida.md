@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Florida (new grad 2026 and 2027)"
-description: "47 open entry-level space jobs in Florida (Blue Origin, SpaceX, Relativity Space, Lockheed Martin and more), updated daily."
+description: "47 open entry-level space jobs in Florida (Blue Origin, SpaceX, Relativity Space, US Space Force and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Florida (new grad 2026 and 2027)
 
-**47 open at 10 companies, most at Blue Origin, SpaceX, Relativity Space, Lockheed Martin, US Space Force. Updated 22 Nov 2026.**
+**47 open at 10 companies, most at Blue Origin, SpaceX, Relativity Space, US Space Force, Lockheed Martin. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/florida?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -39,9 +39,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **L3Harris** | [Specialist, Integration and Test Engineer 1](https://spacejobs.now/jobs/l3harris/specialist-integration-and-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Palm Bay, FL |  | Oct 1 |
 | **Lockheed Martin** | [Manufacturing Support Team Member Asc - Level 1](https://spacejobs.now/jobs/lockheed-martin/manufacturing-support-team-member-asc-level-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL | $49,500–$91,900/yr | Sep 21 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $69,015–$96,621/yr | Sep 10 |
-| **Blue Origin** | [Structural & Mechanical Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/structural-mechanical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
+| **Blue Origin** | [Structural & Mechanical Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/structural-mechanical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Avionics / Embedded Software Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/avionics-embedded-software-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $101,405–$141,966/yr | Sep 10 |
 | **Blue Origin** | [Guidance, Navigation & Control Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/guidance-navigation-control-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $87,816–$122,942/yr | Sep 10 |
 | **Blue Origin** | [Fluid Systems & Propulsion Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |

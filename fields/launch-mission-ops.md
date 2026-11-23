@@ -1,11 +1,11 @@
 ---
 title: "Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)"
-description: "24 open entry-level launch and mission operations roles at space companies in the US (SpaceX, Relativity Space, KBR, Lockheed Martin and more), updated daily."
+description: "23 open entry-level launch and mission operations roles at space companies in the US (Relativity Space, SpaceX, KBR, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)
 
-**24 open in the United States at 13 companies, most at SpaceX, Relativity Space, KBR, Lockheed Martin, Rocket Lab. Updated 22 Nov 2026.**
+**23 open in the United States at 13 companies, most at Relativity Space, SpaceX, KBR, Rocket Lab, Iridium. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/launch-mission-ops?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,7 +13,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
-| **SpaceX** | [Operations Engineer (Starship)](https://spacejobs.now/jobs/spacex/operations-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 1 more |  | Nov 17 |
 | **Axiom Space** | [Mission Operations Engineer (Entry Level)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 13 |
 | **Iridium** | [Network Control Specialist I](https://spacejobs.now/jobs/iridium/network-control-specialist-i?utm_source=github&utm_medium=new-grad-list) | Tempe, AZ | $60,000–$75,000/yr | Nov 12 |
 | **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $76,000–$95,000/yr | Nov 12 |

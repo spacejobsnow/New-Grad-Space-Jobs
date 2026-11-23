@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)"
-description: "84 open entry-level space jobs in Colorado (Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly and more), updated daily."
+description: "85 open entry-level space jobs in Colorado (Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)
 
-**84 open at 17 companies, most at Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly, Blue Origin. Updated 22 Nov 2026.**
+**85 open at 17 companies, most at Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly, Blue Origin. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/colorado?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -42,6 +42,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Sierra Space** | [Manufacturing Specialist I - Tooling](https://spacejobs.now/jobs/sierra-space/manufacturing-specialist-i-tooling?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $73,231–$100,714/yr | Nov 10 |
 | **Lockheed Martin** | [Colorado Advanced Manufacturing Technician Apprentice Program (AMTAP) - Cohort 42](https://spacejobs.now/jobs/lockheed-martin/colorado-advanced-manufacturing-technician-apprentice-program-amtap-cohort-42?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $15.86–$23.79/hr | Nov 9 |
 | **Lockheed Martin** | [Radio Frequency Engineer Asc - Entry Level](https://spacejobs.now/jobs/lockheed-martin/radio-frequency-engineer-asc-entry-level?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 9 |
+| **CACI** | [Junior Systems Engineer](https://spacejobs.now/jobs/caci/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $69,100–$141,500/yr | Nov 9 |
 | **Voyager Technologies** | [Energetics Technician I](https://spacejobs.now/jobs/voyager/energetics-technician-i?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $27/hr | Nov 6 |
 | **Lockheed Martin** | [Contracts Management Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/contracts-management-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Highlands Ranch, CO and 1 more | $55,700–$103,400/yr | Nov 5 |
 | **Rocket Lab** | [Business Development Engineer I](https://spacejobs.now/jobs/rocket-lab/business-development-engineer-i?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 1 more | $66,000–$100,000/yr | Nov 5 |
@@ -79,9 +80,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **KBR** | [Jr Fullstack Software Engineer](https://spacejobs.now/jobs/kbr/jr-fullstack-software-engineer?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, Colorado | $115,000–$130,000/yr | Sep 21 |
 | **CesiumAstro** | [Business Systems Analyst I](https://spacejobs.now/jobs/cesiumastro/business-systems-analyst-i?utm_source=github&utm_medium=new-grad-list) | Westminster, CO | $83,000–$99,000/yr | Sep 14 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $69,015–$96,621/yr | Sep 10 |
-| **Blue Origin** | [Structural & Mechanical Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/structural-mechanical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
+| **Blue Origin** | [Structural & Mechanical Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/structural-mechanical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Avionics / Embedded Software Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/avionics-embedded-software-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $101,405–$141,966/yr | Sep 10 |
 | **Blue Origin** | [Guidance, Navigation & Control Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/guidance-navigation-control-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $87,816–$122,942/yr | Sep 10 |
 | **Blue Origin** | [Fluid Systems & Propulsion Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |

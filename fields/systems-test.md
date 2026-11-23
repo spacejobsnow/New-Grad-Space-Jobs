@@ -1,11 +1,11 @@
 ---
 title: "Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)"
-description: "54 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
+description: "56 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)
 
-**54 open in the United States at 22 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, KBR. Updated 22 Nov 2026.**
+**56 open in the United States at 23 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, KBR. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,6 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
 | **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL and 1 more | $61,657–$107,900/yr | Nov 21 |
+| **SpaceX** | [Software Engineer, Development Test (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-development-test-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Nov 20 |
 | **Viasat** | [Systems Test Engineer, Early Career](https://spacejobs.now/jobs/viasat/systems-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $77,000–$122,000/yr | Nov 20 |
 | **Millennium Space Systems** | [Optical Systems Engineer (Entry Level)](https://spacejobs.now/jobs/millennium-space-systems/optical-systems-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA | $70,550–$103,750/yr | Nov 19 |
 | **SpaceX** | [Hardware Test Automation Engineer, Satellites (Starlink)](https://spacejobs.now/jobs/spacex/hardware-test-automation-engineer-satellites-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $105,000–$145,000/yr | Nov 17 |
@@ -25,6 +26,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Firefly Aerospace** | [Launch Vehicle Integration Engineer I](https://spacejobs.now/jobs/firefly-aerospace/launch-vehicle-integration-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Nov 12 |
 | **Blue Origin** | [Solar PV Test Engineer III – Solar Center of Excellence](https://spacejobs.now/jobs/blue-origin/solar-pv-test-engineer-iii-solar-center-of-excellence?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $121,023–$169,432/yr | Nov 12 |
 | **Barrios Technology** | [Junior Systems Engineer](https://spacejobs.now/jobs/barrios-technology/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 9 |
+| **CACI** | [Junior Systems Engineer](https://spacejobs.now/jobs/caci/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $69,100–$141,500/yr | Nov 9 |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical?utm_source=github&utm_medium=new-grad-list) | McGregor, TX |  | Nov 6 |
 | **BAE Systems Space & Mission Systems** | [Engineer I – ESTE Systems Engineer](https://spacejobs.now/jobs/bae-systems-space/engineer-i-este-systems-engineer?utm_source=github&utm_medium=new-grad-list) | Boulder, Colorado | $64,926–$110,374/yr | Nov 4 |
 | **BAE Systems Space & Mission Systems** | [Systems Engineer I – Core Systems Engineering - $5,000 Sign On Bonus](https://spacejobs.now/jobs/bae-systems-space/systems-engineer-i-core-systems-engineering-5-000-sign-on-bonus?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado and 1 more | $64,926–$110,374/yr | Oct 30 |

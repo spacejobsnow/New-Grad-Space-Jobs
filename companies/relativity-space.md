@@ -1,11 +1,11 @@
 ---
 title: "Relativity Space new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "49 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Software and IT), updated daily."
+description: "49 open entry-level Relativity Space roles in the US (Manufacturing; Mechanical, structures and thermal; Launch and mission operations), updated daily."
 ---
 
 # Relativity Space new grad and entry-level jobs
 
-**49 open in the United States. Updated 22 Nov 2026.**
+**49 open in the United States. Updated 23 Nov 2026.**
 
 Every Relativity Space role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Relativity Space's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/relativity-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

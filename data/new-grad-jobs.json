@@ -1,7 +1,7 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "jobs": [
   {
    "company": "SpaceX",
@@ -84,7 +84,7 @@
    ],
    "pay": "$125,000\u2013$165,000/yr",
    "term": null,
-   "field": "ground-software",
+   "field": "systems-test",
    "posted": "2026-11-20",
    "url": "https://spacejobs.now/jobs/spacex/software-engineer-development-test-starlink?utm_source=github&utm_medium=new-grad-list"
   },
@@ -281,7 +281,7 @@
    ],
    "pay": "$97,656\u2013$114,192/yr",
    "term": null,
-   "field": "other",
+   "field": "rf-communications",
    "posted": "2026-11-18",
    "url": "https://spacejobs.now/jobs/jpl/electromagnetic-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
@@ -452,7 +452,7 @@
    ],
    "pay": null,
    "term": null,
-   "field": "launch-mission-ops",
+   "field": "supply-chain-facilities",
    "posted": "2026-11-17",
    "url": "https://spacejobs.now/jobs/spacex/operations-engineer-starship?utm_source=github&utm_medium=new-grad-list"
   },
@@ -881,7 +881,7 @@
    ],
    "pay": "$125,000\u2013$160,000/yr",
    "term": null,
-   "field": "ground-software",
+   "field": "gnc-flight-software",
    "posted": "2026-11-12",
    "url": "https://spacejobs.now/jobs/spacex/new-graduate-engineer-aerospace-software-starfall?utm_source=github&utm_medium=new-grad-list"
   },
@@ -1368,6 +1368,20 @@
    "field": "manufacturing",
    "posted": "2026-11-09",
    "url": "https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "CACI",
+   "title": "Junior Systems Engineer",
+   "location": "Colorado Springs, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$69,100\u2013$141,500/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-11-09",
+   "url": "https://spacejobs.now/jobs/caci/junior-systems-engineer?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Varda Space Industries",
@@ -2106,20 +2120,6 @@
    "url": "https://spacejobs.now/jobs/lockheed-martin/integrated-program-planner-asc-level-1?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Rocket Lab",
-   "title": "Production Planner I",
-   "location": "Long Beach, CA",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$63,000\u2013$79,000/yr",
-   "term": null,
-   "field": "supply-chain-facilities",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Thales Alenia Space",
    "title": "Junior Navigation System and Solution Architect",
    "location": "Roma, Italy",
@@ -2333,6 +2333,20 @@
   },
   {
    "company": "United Launch Alliance",
+   "title": "Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)",
+   "location": "Decatur, AL",
+   "in_us": true,
+   "states": [
+    "AL"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
    "title": "Material & Process Engineer 1",
    "location": "Decatur, AL",
    "in_us": true,
@@ -2372,20 +2386,6 @@
    "field": "mechanical-structures",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "United Launch Alliance",
@@ -3015,20 +3015,6 @@
   },
   {
    "company": "Firefly Aerospace",
-   "title": "Structures Engineer I (Spacecraft)",
-   "location": "Cedar Park, TX",
-   "in_us": true,
-   "states": [
-    "TX"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-23",
-   "url": "https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Firefly Aerospace",
    "title": "Test Engineer I, Component",
    "location": "Briggs, TX",
    "in_us": true,
@@ -3040,6 +3026,20 @@
    "field": "systems-test",
    "posted": "2026-10-23",
    "url": "https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Firefly Aerospace",
+   "title": "Structures Engineer I (Spacecraft)",
+   "location": "Cedar Park, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-10-23",
+   "url": "https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -4249,6 +4249,20 @@
    "url": "https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-1-unpressurized-structures?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "Rocket Lab",
+   "title": "Production Planner I",
+   "location": "Long Beach, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$63,000\u2013$79,000/yr",
+   "term": null,
+   "field": "supply-chain-facilities",
+   "posted": "2026-10-02",
+   "url": "https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "SpaceX",
    "title": "Application Software Engineer, Manufacturing Systems",
    "location": "Bastrop, TX",
@@ -4913,6 +4927,42 @@
   },
   {
    "company": "Blue Origin",
+   "title": "Aerospace Systems Engineer I \u2013 Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
    "title": "Materials and Processes Engineer I - Early Career (2027 Starts)",
    "location": "Seattle, WA",
    "in_us": true,
@@ -4956,42 +5006,6 @@
    "field": "mechanical-structures",
    "posted": "2026-09-10",
    "url": "https://spacejobs.now/jobs/blue-origin/thermal-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Aerospace Systems Engineer I \u2013 Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",

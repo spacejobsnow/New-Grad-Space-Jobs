@@ -5,7 +5,7 @@ description: "14 open entry-level United Launch Alliance roles in the US (Mechan
 
 # United Launch Alliance new grad and entry-level jobs
 
-**14 open in the United States. Updated 22 Nov 2026.**
+**14 open in the United States. Updated 23 Nov 2026.**
 
 Every United Launch Alliance role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from United Launch Alliance's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/united-launch-alliance?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -22,8 +22,8 @@ Every United Launch Alliance role whose posting asks for no prior experience, na
 | **United Launch Alliance** | [Trajectory Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/trajectory-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 17 |
 | **United Launch Alliance** | [Structural Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 15 |
 | **United Launch Alliance** | [Thermodynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/thermodynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 10 |
+| **United Launch Alliance** | [Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **United Launch Alliance** | [Material & Process Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/material-process-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **United Launch Alliance** | [Strength Analyst 1 - Vulcan Development](https://spacejobs.now/jobs/united-launch-alliance/strength-analyst-1-vulcan-development?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Oct 30 |
 | **United Launch Alliance** | [Weld Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
-| **United Launch Alliance** | [Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **United Launch Alliance** | [Contamination Control Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/contamination-control-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Oct 30 |

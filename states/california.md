@@ -5,7 +5,7 @@ description: "173 open entry-level space jobs in California (SpaceX, Relativity 
 
 # Entry-level space and aerospace jobs in California (new grad 2026 and 2027)
 
-**173 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 22 Nov 2026.**
+**173 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -65,7 +65,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Relativity Space** | [Additive Post Processing Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/additive-post-processing-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Nov 3 |
 | **Relativity Space** | [Additive Post Processing Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/additive-post-processing-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $23.38–$35.06/hr | Nov 3 |
 | **SpaceX** | [Test Specialist (Falcon Operations) - Multiple Shifts](https://spacejobs.now/jobs/spacex/test-specialist-falcon-operations-multiple-shifts?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $33.00–$41.75/hr | Nov 2 |
-| **Rocket Lab** | [Production Planner I](https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $63,000–$79,000/yr | Oct 30 |
 | **Relativity Space** | [Manufacturing Engineer I, Machining](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-machining?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 30 |
 | **Relativity Space** | [Thermal Engineer I](https://spacejobs.now/jobs/relativity-space/thermal-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 29 |
 | **Northwood Space** | [Software Engineer- Early Career (Platform)](https://spacejobs.now/jobs/northwood-space/software-engineer-early-career-platform?utm_source=github&utm_medium=new-grad-list) | Torrance, CA |  | Oct 29 |
@@ -117,6 +116,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **True Anomaly** | [Software Engineer I to III, Digital Engineering](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-to-iii-digital-engineering?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $70,000–$160,000/yr | Oct 6 |
 | **Relativity Space** | [Propulsion Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/propulsion-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 5 |
 | **Relativity Space** | [Manufacturing Engineer 1, Unpressurized Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-1-unpressurized-structures?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 2 |
+| **Rocket Lab** | [Production Planner I](https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $63,000–$79,000/yr | Oct 2 |
 | **Relativity Space** | [Propulsion Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/propulsion-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 1 |
 | **Relativity Space** | [Manufacturing Engineer I, Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-structures?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 1 |
 | **SpaceX** | [Full Stack Software Engineer, Platform](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-platform?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 1 |

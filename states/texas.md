@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)"
-description: "86 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile and more), updated daily."
+description: "86 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**86 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Intuitive Machines. Updated 22 Nov 2026.**
+**86 open at 14 companies, most at SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin, Amentum. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -46,8 +46,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Firefly Aerospace** | [Fluids GSE Design Engineer I](https://spacejobs.now/jobs/firefly-aerospace/fluids-gse-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 28 |
 | **Firefly Aerospace** | [Wire Harness Electrical Engineer I](https://spacejobs.now/jobs/firefly-aerospace/wire-harness-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 27 |
 | **AST SpaceMobile** | [Technician I, 1st shift, Site 2](https://spacejobs.now/jobs/ast-spacemobile/technician-i-1st-shift-site-2?utm_source=github&utm_medium=new-grad-list) | Midland, Texas |  | Oct 26 |
-| **Firefly Aerospace** | [Structures Engineer I (Spacecraft)](https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 23 |
 | **Firefly Aerospace** | [Test Engineer I, Component](https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 23 |
+| **Firefly Aerospace** | [Structures Engineer I (Spacecraft)](https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 23 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Spacecraft Engine Team)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-spacecraft-engine-team?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 22 |
 | **SpaceX** | [Jr. Sous Chef (Sushi)](https://spacejobs.now/jobs/spacex/jr-sous-chef-sushi?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Oct 20 |
 | **Firefly Aerospace** | [Production Technician I-Composites](https://spacejobs.now/jobs/firefly-aerospace/production-technician-i-composites?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 20 |
