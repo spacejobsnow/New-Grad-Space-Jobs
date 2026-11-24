@@ -1,8 +1,62 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "jobs": [
+  {
+   "company": "Eutelsat",
+   "title": "Apprenti(e) Technicien(ne) Micro R\u00e9seau T\u00e9l\u00e9phonie",
+   "location": "Issy-Les-Moulineaux, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/eutelsat/apprenti-e-technicien-ne-micro-reseau-telephonie?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Iridium",
+   "title": "Software Test Engineer I",
+   "location": "Chandler, AZ",
+   "in_us": true,
+   "states": [
+    "AZ"
+   ],
+   "pay": "$65,000\u2013$81,000/yr",
+   "term": null,
+   "field": "ground-software",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/iridium/software-test-engineer-i?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Relativity Space",
+   "title": "Vehicle Fluids Engineer I",
+   "location": "Long Beach, California",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$90,000\u2013$136,000/yr",
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/relativity-space/vehicle-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Rocket Lab",
+   "title": "Spacecraft GNC Engineer I",
+   "location": "Littleton, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$81,000\u2013$112,000/yr",
+   "term": null,
+   "field": "gnc-flight-software",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/rocket-lab/spacecraft-gnc-engineer-i?utm_source=github&utm_medium=new-grad-list"
+  },
   {
    "company": "SpaceX",
    "title": "New Graduate Engineer, Electrical (Starfall)",
@@ -586,20 +640,6 @@
    "url": "https://spacejobs.now/jobs/lockheed-martin/financial-management-asc-early-career?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Rocket Lab",
-   "title": "Ops Support Technician I",
-   "location": "Albuquerque, NM",
-   "in_us": true,
-   "states": [
-    "NM"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "manufacturing",
-   "posted": "2026-11-16",
-   "url": "https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Lockheed Martin",
    "title": "Software Engineer - Early Career",
    "location": "Littleton, CO and 5 more",
@@ -663,6 +703,18 @@
    "url": "https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i-iii?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "Open Cosmos",
+   "title": "Junior Electronics Engineer (6 month FTC)",
+   "location": "Didcot, United Kingdom",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-16",
+   "url": "https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "US Space Force",
    "title": "Air Conditioning Equipment Mechanic",
    "location": "Colorado Springs, CO",
@@ -689,18 +741,6 @@
    "field": "manufacturing",
    "posted": "2026-11-16",
    "url": "https://spacejobs.now/jobs/us-space-force/heavy-mobile-equipment-mechanic?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Open Cosmos",
-   "title": "Junior Electronics Engineer (6 month FTC)",
-   "location": "Didcot, United Kingdom",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-11-16",
-   "url": "https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "United Launch Alliance",
@@ -969,17 +1009,17 @@
   },
   {
    "company": "Rocket Lab",
-   "title": "Test and Launch Operations Engineer I",
+   "title": "Test and Launch Operations Engineer I - Avionics",
    "location": "Wallops Island, VA",
    "in_us": true,
    "states": [
     "VA"
    ],
-   "pay": "$76,000\u2013$95,000/yr",
+   "pay": "$85,000\u2013$95,000/yr",
    "term": null,
    "field": "launch-mission-ops",
    "posted": "2026-11-12",
-   "url": "https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list"
+   "url": "https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i-avionics?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Sierra Space",
@@ -1748,20 +1788,6 @@
    "url": "https://spacejobs.now/jobs/spacex/site-reliability-engineer-application-software?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "BAE Systems Space & Mission Systems",
-   "title": "Engineer I \u2013 ESTE Systems Engineer",
-   "location": "Boulder, Colorado",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$64,926\u2013$110,374/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-11-04",
-   "url": "https://spacejobs.now/jobs/bae-systems-space/engineer-i-este-systems-engineer?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "SpaceX",
    "title": "Starlink Aviation Production Technician (Entry Level, Temporary)",
    "location": "Woodinville, WA",
@@ -2080,20 +2106,6 @@
    "url": "https://spacejobs.now/jobs/ast-spacemobile/ndt-technician-i-1st-shift-site-2?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "Intuitive Machines",
-   "title": "JR Spaceflight Hardware Propulsion Engineer",
-   "location": "Houston, TX",
-   "in_us": true,
-   "states": [
-    "TX"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "propulsion",
-   "posted": "2026-11-02",
-   "url": "https://spacejobs.now/jobs/intuitive-machines/jr-spaceflight-hardware-propulsion-engineer?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Lockheed Martin",
    "title": "SSE Electrical Engineer (Entry Level)",
    "location": "Helensburgh, United Kingdom",
@@ -2333,20 +2345,6 @@
   },
   {
    "company": "United Launch Alliance",
-   "title": "Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "United Launch Alliance",
    "title": "Material & Process Engineer 1",
    "location": "Decatur, AL",
    "in_us": true,
@@ -2386,6 +2384,20 @@
    "field": "mechanical-structures",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "United Launch Alliance",
+   "title": "Systems Test Engineer 1 (3x12 Fri-Sun Day Shift)",
+   "location": "Decatur, AL",
+   "in_us": true,
+   "states": [
+    "AL"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1-3x12-fri-sun-day-shift?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "United Launch Alliance",
@@ -3015,20 +3027,6 @@
   },
   {
    "company": "Firefly Aerospace",
-   "title": "Test Engineer I, Component",
-   "location": "Briggs, TX",
-   "in_us": true,
-   "states": [
-    "TX"
-   ],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-23",
-   "url": "https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Firefly Aerospace",
    "title": "Structures Engineer I (Spacecraft)",
    "location": "Cedar Park, TX",
    "in_us": true,
@@ -3040,6 +3038,20 @@
    "field": "mechanical-structures",
    "posted": "2026-10-23",
    "url": "https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Firefly Aerospace",
+   "title": "Test Engineer I, Component",
+   "location": "Briggs, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-23",
+   "url": "https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -4443,20 +4455,6 @@
    "url": "https://spacejobs.now/jobs/spacex/new-graduate-engineer-software-starfall?utm_source=github&utm_medium=new-grad-list"
   },
   {
-   "company": "NASA Jet Propulsion Laboratory (JPL)",
-   "title": "Structural Systems Engineer I",
-   "location": "Pasadena, CA",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$97,032\u2013$117,416/yr",
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-09-29",
-   "url": "https://spacejobs.now/jobs/jpl/structural-systems-engineer-i?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
    "company": "Rocket Lab",
    "title": "Spacecraft Structural Engineer I",
    "location": "Long Beach, CA",
@@ -4668,7 +4666,7 @@
    "states": [
     "WA"
    ],
-   "pay": "$100,000\u2013$150,000/yr",
+   "pay": "$116,000\u2013$148,500/yr",
    "term": null,
    "field": "mechanical-structures",
    "posted": "2026-09-21",
@@ -4732,17 +4730,17 @@
   },
   {
    "company": "Cowboy Space",
-   "title": "Mechanism Engineer Level 1",
+   "title": "Mechanism Engineer - Early Career",
    "location": "Kent, Washington",
    "in_us": true,
    "states": [
     "WA"
    ],
-   "pay": "$74,000\u2013$114,000/yr",
+   "pay": "$116,000\u2013$148,500/yr",
    "term": null,
    "field": "mechanical-structures",
    "posted": "2026-09-15",
-   "url": "https://spacejobs.now/jobs/cowboy-space/mechanism-engineer-level-1?utm_source=github&utm_medium=new-grad-list"
+   "url": "https://spacejobs.now/jobs/cowboy-space/mechanism-engineer-early-career?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Cowboy Space",
@@ -4752,7 +4750,7 @@
    "states": [
     "WA"
    ],
-   "pay": "$100,000\u2013$135,000/yr",
+   "pay": "$116,000\u2013$148,500/yr",
    "term": null,
    "field": "mechanical-structures",
    "posted": "2026-09-15",
@@ -4927,42 +4925,6 @@
   },
   {
    "company": "Blue Origin",
-   "title": "Aerospace Systems Engineer I \u2013 Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
-   "location": "Seattle, WA and 4 more",
-   "in_us": true,
-   "states": [
-    "WA",
-    "TX",
-    "FL",
-    "AL",
-    "CO"
-   ],
-   "pay": "$74,537\u2013$104,351/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-09-10",
-   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
-  },
-  {
-   "company": "Blue Origin",
    "title": "Materials and Processes Engineer I - Early Career (2027 Starts)",
    "location": "Seattle, WA",
    "in_us": true,
@@ -5006,6 +4968,42 @@
    "field": "mechanical-structures",
    "posted": "2026-09-10",
    "url": "https://spacejobs.now/jobs/blue-origin/thermal-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Aerospace Systems Engineer I \u2013 Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
+   "location": "Seattle, WA and 4 more",
+   "in_us": true,
+   "states": [
+    "WA",
+    "TX",
+    "FL",
+    "AL",
+    "CO"
+   ],
+   "pay": "$74,537\u2013$104,351/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-09-10",
+   "url": "https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "Blue Origin",
@@ -6336,6 +6334,18 @@
    "url": "https://spacejobs.now/jobs/spacex/full-stack-software-engineer-data-starlink?utm_source=github&utm_medium=new-grad-list"
   },
   {
+   "company": "ispace",
+   "title": "Junior Government Affairs & Policy",
+   "location": "Luxembourg",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "business-programs",
+   "posted": "2026-07-29",
+   "url": "https://spacejobs.now/jobs/ispace/junior-government-affairs-policy?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
    "company": "Blue Origin",
    "title": "Test Engineer I - Early Career (2026 Starts)",
    "location": "Space Coast, FL",
@@ -6860,6 +6870,20 @@
    "field": "ground-software",
    "posted": "2026-06-03",
    "url": "https://spacejobs.now/jobs/spacex/software-engineer-devops-starlink?utm_source=github&utm_medium=new-grad-list"
+  },
+  {
+   "company": "Rocket Lab",
+   "title": "Test and Launch Operations Engineer I",
+   "location": "Wallops Island, VA",
+   "in_us": true,
+   "states": [
+    "VA"
+   ],
+   "pay": "$76,000\u2013$95,000/yr",
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-06-02",
+   "url": "https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list"
   },
   {
    "company": "SpaceX",

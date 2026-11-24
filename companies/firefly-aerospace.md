@@ -5,7 +5,7 @@ description: "16 open entry-level Firefly Aerospace roles in the US (Manufacturi
 
 # Firefly Aerospace new grad and entry-level jobs
 
-**16 open in the United States. Updated 23 Nov 2026.**
+**16 open in the United States. Updated 24 Nov 2026.**
 
 Every Firefly Aerospace role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Firefly Aerospace's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/firefly-aerospace?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -21,8 +21,8 @@ Every Firefly Aerospace role whose posting asks for no prior experience, names n
 | **Firefly Aerospace** | [Composite M&P Engineer I](https://spacejobs.now/jobs/firefly-aerospace/composite-m-p-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 28 |
 | **Firefly Aerospace** | [Fluids GSE Design Engineer I](https://spacejobs.now/jobs/firefly-aerospace/fluids-gse-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 28 |
 | **Firefly Aerospace** | [Wire Harness Electrical Engineer I](https://spacejobs.now/jobs/firefly-aerospace/wire-harness-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 27 |
-| **Firefly Aerospace** | [Test Engineer I, Component](https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 23 |
 | **Firefly Aerospace** | [Structures Engineer I (Spacecraft)](https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 23 |
+| **Firefly Aerospace** | [Test Engineer I, Component](https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 23 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Spacecraft Engine Team)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-spacecraft-engine-team?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 22 |
 | **Firefly Aerospace** | [Production Technician I-Composites](https://spacejobs.now/jobs/firefly-aerospace/production-technician-i-composites?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 20 |
 | **Firefly Aerospace** | [Propulsion Fluids Technician I](https://spacejobs.now/jobs/firefly-aerospace/propulsion-fluids-technician-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 20 |

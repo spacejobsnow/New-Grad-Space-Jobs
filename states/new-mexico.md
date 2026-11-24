@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in New Mexico (new grad 2026 and 2027)"
-description: "7 open entry-level space jobs in New Mexico (Rocket Lab, Virgin Galactic, BAE Systems Space & Mission Systems, AeroVironment (AV) and more), updated daily."
+description: "6 open entry-level space jobs in New Mexico (Rocket Lab, BAE Systems Space & Mission Systems, AeroVironment (AV), Virgin Galactic and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in New Mexico (new grad 2026 and 2027)
 
-**7 open at 5 companies, most at Rocket Lab, Virgin Galactic, BAE Systems Space & Mission Systems, AeroVironment (AV), Lockheed Martin. Updated 23 Nov 2026.**
+**6 open at 5 companies, most at Rocket Lab, BAE Systems Space & Mission Systems, AeroVironment (AV), Virgin Galactic, Lockheed Martin. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/new-mexico?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,7 +13,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
-| **Rocket Lab** | [Ops Support Technician I](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
 | **Rocket Lab** | [Ops Support Technician I-III](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i-iii?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
 | **Lockheed Martin** | [Satellite Mission Engr - Early Career](https://spacejobs.now/jobs/lockheed-martin/satellite-mission-engr-early-career?utm_source=github&utm_medium=new-grad-list) | White Sands, NM | $70,500–$130,900/yr | Nov 12 |
 | **BAE Systems Space & Mission Systems** | [Space Operations Specialist I – Space Systems Ops & Sustainment](https://spacejobs.now/jobs/bae-systems-space/space-operations-specialist-i-space-systems-ops-sustainment?utm_source=github&utm_medium=new-grad-list) | Las Cruces, New Mexico | $53,122–$90,306/yr | Nov 6 |

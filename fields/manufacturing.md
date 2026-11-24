@@ -1,11 +1,11 @@
 ---
 title: "Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)"
-description: "93 open entry-level manufacturing roles at space companies in the US (Relativity Space, Blue Origin, SpaceX, Firefly Aerospace and more), updated daily."
+description: "92 open entry-level manufacturing roles at space companies in the US (Relativity Space, SpaceX, Blue Origin, Lockheed Martin and more), updated daily."
 ---
 
 # Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)
 
-**93 open in the United States at 25 companies, most at Relativity Space, Blue Origin, SpaceX, Firefly Aerospace, Lockheed Martin. Updated 23 Nov 2026.**
+**92 open in the United States at 25 companies, most at Relativity Space, SpaceX, Blue Origin, Lockheed Martin, AST SpaceMobile. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/manufacturing?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -16,7 +16,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Relativity Space** | [TPS Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Nov 19 |
 | **BAE Systems Space & Mission Systems** | [Entry Level SPY Radar Technician](https://spacejobs.now/jobs/bae-systems-space/entry-level-spy-radar-technician?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA |  | Nov 17 |
 | **Virgin Galactic** | [Engineer I, Materials & Processes (Composite Materials)](https://spacejobs.now/jobs/virgin-galactic/engineer-i-materials-processes-composite-materials?utm_source=github&utm_medium=new-grad-list) | Tustin, CA | $93,387–$135,508/yr | Nov 17 |
-| **Rocket Lab** | [Ops Support Technician I](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
 | **Rocket Lab** | [Ops Support Technician I-III](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i-iii?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
 | **US Space Force** | [Air Conditioning Equipment Mechanic](https://spacejobs.now/jobs/us-space-force/air-conditioning-equipment-mechanic?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $66,179–$77,199/yr | Nov 16 |
 | **US Space Force** | [Heavy Mobile Equipment Mechanic](https://spacejobs.now/jobs/us-space-force/heavy-mobile-equipment-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,507/yr | Nov 16 |

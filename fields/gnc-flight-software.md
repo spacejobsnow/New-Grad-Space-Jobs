@@ -1,11 +1,11 @@
 ---
 title: "Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)"
-description: "40 open entry-level flight software and gnc roles at space companies in the US (SpaceX, Blue Origin, True Anomaly, KBR and more), updated daily."
+description: "41 open entry-level flight software and gnc roles at space companies in the US (SpaceX, Blue Origin, True Anomaly, KBR and more), updated daily."
 ---
 
 # Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)
 
-**40 open in the United States at 17 companies, most at SpaceX, Blue Origin, True Anomaly, KBR, Sierra Space. Updated 23 Nov 2026.**
+**41 open in the United States at 17 companies, most at SpaceX, Blue Origin, True Anomaly, KBR, Rocket Lab. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/gnc-flight-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Rocket Lab** | [Spacecraft GNC Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-gnc-engineer-i?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $81,000–$112,000/yr | Nov 24 |
 | **United Launch Alliance** | [Trajectory Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/trajectory-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 17 |
 | **SpaceX** | [Aerospace Software Engineer (Starfall)](https://spacejobs.now/jobs/spacex/aerospace-software-engineer-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Nov 12 |
 | **SpaceX** | [New Graduate Engineer, Aerospace Software (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-aerospace-software-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Nov 12 |

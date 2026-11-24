@@ -1,11 +1,11 @@
 ---
 title: "Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)"
-description: "12 open entry-level quality and mission assurance roles at space companies in the US (Relativity Space, AST SpaceMobile, United Launch Alliance, SpaceX and more), updated daily."
+description: "12 open entry-level quality and mission assurance roles at space companies in the US (Relativity Space, AST SpaceMobile, United Launch Alliance, BAE Systems Space & Mission Systems and more), updated daily."
 ---
 
 # Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)
 
-**12 open in the United States at 9 companies, most at Relativity Space, AST SpaceMobile, United Launch Alliance, SpaceX, Rocket Lab. Updated 23 Nov 2026.**
+**12 open in the United States at 9 companies, most at Relativity Space, AST SpaceMobile, United Launch Alliance, BAE Systems Space & Mission Systems, Rocket Lab. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/quality-safety?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -1,11 +1,11 @@
 ---
 title: "Rocket Lab new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "24 open entry-level Rocket Lab roles in the US (Systems, integration and test; Manufacturing; RF, communications and payloads), updated daily."
+description: "25 open entry-level Rocket Lab roles in the US (Systems, integration and test; Manufacturing; Launch and mission operations), updated daily."
 ---
 
 # Rocket Lab new grad and entry-level jobs
 
-**24 open in the United States. Updated 23 Nov 2026.**
+**25 open in the United States. Updated 24 Nov 2026.**
 
 Every Rocket Lab role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Rocket Lab's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/rocket-lab?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,11 +13,11 @@ Every Rocket Lab role whose posting asks for no prior experience, names new or r
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Rocket Lab** | [Spacecraft GNC Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-gnc-engineer-i?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $81,000–$112,000/yr | Nov 24 |
 | **Rocket Lab** | [Radar RF Design Engineer I](https://spacejobs.now/jobs/rocket-lab/radar-rf-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Nov 20 |
 | **Rocket Lab** | [Quality Inspector I](https://spacejobs.now/jobs/rocket-lab/quality-inspector-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $22–$27/hr | Nov 16 |
-| **Rocket Lab** | [Ops Support Technician I](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
 | **Rocket Lab** | [Ops Support Technician I-III](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i-iii?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
-| **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $76,000–$95,000/yr | Nov 12 |
+| **Rocket Lab** | [Test and Launch Operations Engineer I - Avionics](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i-avionics?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $85,000–$95,000/yr | Nov 12 |
 | **Rocket Lab** | [Manufacturing Engineer I - Propulsion](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i-propulsion?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $89,350–$115,025/yr | Nov 9 |
 | **Rocket Lab** | [Business Development Engineer I](https://spacejobs.now/jobs/rocket-lab/business-development-engineer-i?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 1 more | $66,000–$100,000/yr | Nov 5 |
 | **Rocket Lab** | [Spacecraft Propulsion Systems Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-propulsion-systems-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,400–$123,600/yr | Oct 29 |
@@ -34,6 +34,7 @@ Every Rocket Lab role whose posting asks for no prior experience, names new or r
 | **Rocket Lab** | [Production Planner I](https://spacejobs.now/jobs/rocket-lab/production-planner-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $63,000–$79,000/yr | Oct 2 |
 | **Rocket Lab** | [Flight Analysis Engineer I/II](https://spacejobs.now/jobs/rocket-lab/flight-analysis-engineer-i-ii?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $100,000–$125,000/yr | Sep 30 |
 | **Rocket Lab** | [Spacecraft Structural Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-structural-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,400–$113,300/yr | Sep 28 |
+| **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $76,000–$95,000/yr | Jun 2 |
 | **Rocket Lab** | [Operator I/II, Production](https://spacejobs.now/jobs/rocket-lab/operator-i-ii-production?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Jan 6 |
 | **Rocket Lab** | [Vehicle Integration Engineer I](https://spacejobs.now/jobs/rocket-lab/vehicle-integration-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $103,950–$109,000/yr | Dec 12 |
 | **Rocket Lab** | [Manufacturing Engineer I](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $84,550–$108,000/yr | Nov 10 |

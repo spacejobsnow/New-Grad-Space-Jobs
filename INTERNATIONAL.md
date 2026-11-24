@@ -1,11 +1,12 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-44 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 23 Nov 2026.
+46 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 24 Nov 2026.
 
 [Back to the United States list](README.md)
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Eutelsat** | [Apprenti(e) Technicien(ne) Micro Réseau Téléphonie](https://spacejobs.now/jobs/eutelsat/apprenti-e-technicien-ne-micro-reseau-telephonie?utm_source=github&utm_medium=new-grad-list) | Issy-Les-Moulineaux, France |  | Nov 24 |
 | **Open Cosmos** | [Junior Electronics Engineer (6 month FTC)](https://spacejobs.now/jobs/open-cosmos/junior-electronics-engineer-6-month-ftc?utm_source=github&utm_medium=new-grad-list) | Didcot, United Kingdom |  | Nov 16 |
 | **Lockheed Martin** | [Electromechanical Field Engineer - Graduate / Entry Level](https://spacejobs.now/jobs/lockheed-martin/electromechanical-field-engineer-graduate-entry-level?utm_source=github&utm_medium=new-grad-list) | Helensburgh, United Kingdom |  | Nov 12 |
 | **OHB** | [Junior Plant Operator AFP (m/f/d)](https://spacejobs.now/jobs/ohb/junior-plant-operator-afp-m-f-d?utm_source=github&utm_medium=new-grad-list) | Augsburg, Germany |  | Nov 12 |
@@ -45,6 +46,7 @@
 | **ArianeGroup** | [Duales Studium Allgemeiner Maschinenbau - Bachelor of Engineering (m/w/d)](https://spacejobs.now/jobs/arianegroup/duales-studium-allgemeiner-maschinenbau-bachelor-of-engineering-m-w-d?utm_source=github&utm_medium=new-grad-list) | Lampoldshausen, Germany |  | Aug 25 |
 | **ArianeGroup** | [Ausbildung zum Industriemechaniker (m/w/d)](https://spacejobs.now/jobs/arianegroup/ausbildung-zum-industriemechaniker-m-w-d?utm_source=github&utm_medium=new-grad-list) | Lampoldshausen, Germany |  | Aug 24 |
 | **ArianeGroup** | [Ausbildung zum Mechatroniker (m/w/d)](https://spacejobs.now/jobs/arianegroup/ausbildung-zum-mechatroniker-m-w-d?utm_source=github&utm_medium=new-grad-list) | Lampoldshausen, Germany |  | Aug 24 |
+| **ispace** | [Junior Government Affairs & Policy](https://spacejobs.now/jobs/ispace/junior-government-affairs-policy?utm_source=github&utm_medium=new-grad-list) | Luxembourg |  | Jul 29 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. (d/m/w) Elektrotechnik​ und Informationstechnik / Automation zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-d-m-w-elektrotechnik-und-informationstechnik-automation-zum-01-09?utm_source=github&utm_medium=new-grad-list) | Immenstaad am Bodensee, Germany |  | Jun 19 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. Embedded Systems (d/m/w) zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-embedded-systems-d-m-w-zum-01-09-2027?utm_source=github&utm_medium=new-grad-list) | Stuttgart Area, Germany |  | Jun 8 |
 | **Airbus Defence and Space** | [Duales Studium B.Eng. Elektrotechnik und Informationstechnik, Elektronik/Kommunikationstechnik (d/m/w) zum 01.09.2027](https://spacejobs.now/jobs/airbus-defence-and-space/duales-studium-b-eng-elektrotechnik-und-informationstechnik-elektronik?utm_source=github&utm_medium=new-grad-list) | Stuttgart Area, Germany |  | Jun 8 |

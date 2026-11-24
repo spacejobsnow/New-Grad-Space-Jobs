@@ -1,11 +1,11 @@
 ---
 title: "Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)"
-description: "23 open entry-level launch and mission operations roles at space companies in the US (Relativity Space, SpaceX, KBR, Rocket Lab and more), updated daily."
+description: "24 open entry-level launch and mission operations roles at space companies in the US (Relativity Space, KBR, Rocket Lab, SpaceX and more), updated daily."
 ---
 
 # Entry-level launch and mission operations jobs at space companies (new grad 2026 and 2027)
 
-**23 open in the United States at 13 companies, most at Relativity Space, SpaceX, KBR, Rocket Lab, Iridium. Updated 23 Nov 2026.**
+**24 open in the United States at 13 companies, most at Relativity Space, KBR, Rocket Lab, SpaceX, Iridium. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/launch-mission-ops?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,7 +15,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|
 | **Axiom Space** | [Mission Operations Engineer (Entry Level)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 13 |
 | **Iridium** | [Network Control Specialist I](https://spacejobs.now/jobs/iridium/network-control-specialist-i?utm_source=github&utm_medium=new-grad-list) | Tempe, AZ | $60,000–$75,000/yr | Nov 12 |
-| **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $76,000–$95,000/yr | Nov 12 |
+| **Rocket Lab** | [Test and Launch Operations Engineer I - Avionics](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i-avionics?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $85,000–$95,000/yr | Nov 12 |
 | **Omitron** | [Junior Orbital Analyst](https://spacejobs.now/jobs/omitron/junior-orbital-analyst?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $90,000–$130,000/yr | Nov 9 |
 | **BAE Systems Space & Mission Systems** | [Space Operations Specialist I – Space Systems Ops & Sustainment](https://spacejobs.now/jobs/bae-systems-space/space-operations-specialist-i-space-systems-ops-sustainment?utm_source=github&utm_medium=new-grad-list) | Las Cruces, New Mexico | $53,122–$90,306/yr | Nov 6 |
 | **Lockheed Martin** | [Systems Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Boulder, CO | $65,500–$121,700/yr | Nov 5 |
@@ -35,4 +35,5 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **KBR** | [Integrated Protection Strategy Engineer – Junior](https://spacejobs.now/jobs/kbr/integrated-protection-strategy-engineer-junior?utm_source=github&utm_medium=new-grad-list) | Springfield, Virginia | $101,700–$124,300/yr | Jul 1 |
 | **KBR** | [Watch Operator – Junior](https://spacejobs.now/jobs/kbr/watch-operator-junior?utm_source=github&utm_medium=new-grad-list) | Chantilly, Virginia | $101,700–$124,300/yr | Jul 1 |
 | **SpaceX** | [Software Engineer, Vehicle Operations (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-vehicle-operations-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jun 26 |
+| **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $76,000–$95,000/yr | Jun 2 |
 | **Amentum** | [JSC Operator 1 of 2](https://spacejobs.now/jobs/amentum/jsc-operator-1-of-2?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Jan 10 |
