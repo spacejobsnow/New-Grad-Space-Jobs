@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)"
-description: "85 open entry-level space jobs in Colorado (Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly and more), updated daily."
+description: "85 open entry-level space jobs in Colorado (Lockheed Martin, United Launch Alliance, Sierra Space, True Anomaly and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Colorado (new grad 2026 and 2027)
 
-**85 open at 17 companies, most at Lockheed Martin, Sierra Space, United Launch Alliance, True Anomaly, Blue Origin. Updated 24 Nov 2026.**
+**85 open at 17 companies, most at Lockheed Martin, United Launch Alliance, Sierra Space, True Anomaly, Blue Origin. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/colorado?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,10 +13,11 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Manufacturing Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/manufacturing-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $61,658–$102,764/yr | Nov 25 |
+| **United Launch Alliance** | [Systems Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more | $67,895–$113,159/yr | Nov 25 |
+| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO and 1 more | $61,657–$107,900/yr | Nov 25 |
 | **Rocket Lab** | [Spacecraft GNC Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-gnc-engineer-i?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $81,000–$112,000/yr | Nov 24 |
-| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL and 1 more | $61,657–$107,900/yr | Nov 21 |
 | **United Launch Alliance** | [Control Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 21 |
-| **United Launch Alliance** | [Ground Software (GSW) Avionics & Infrastructure Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/ground-software-gsw-avionics-infrastructure-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,111–$128,518/yr | Nov 20 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
 | **Katalyst Space Technologies** | [Junior Technical Recruiter](https://spacejobs.now/jobs/katalyst-space/junior-technical-recruiter?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado | $60,000–$90,000/yr | Nov 19 |
 | **US Space Force** | [Utility Systems Operator](https://spacejobs.now/jobs/us-space-force/utility-systems-operator?utm_source=github&utm_medium=new-grad-list) | Schriever AFB, CO | $66,179–$77,198/yr | Nov 18 |
@@ -71,7 +72,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Sierra Space** | [Thermal Analysis Engineer I](https://spacejobs.now/jobs/sierra-space/thermal-analysis-engineer-i?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $82,646–$113,638/yr | Oct 7 |
 | **Sierra Space** | [Mission Design Engineer I](https://spacejobs.now/jobs/sierra-space/mission-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,685–$106,817/yr | Oct 7 |
 | **Lockheed Martin** | [Systems Engineer Junior - MBSE Top Secret](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-junior-mbse-top-secret?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $79,300–$147,300/yr | Oct 6 |
-| **True Anomaly** | [Software Engineer I to III, Digital Engineering](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-to-iii-digital-engineering?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $70,000–$160,000/yr | Oct 6 |
 | **Lockheed Martin** | [Manufacturing Support Team Member / Buy Part Planner - Level 1](https://spacejobs.now/jobs/lockheed-martin/manufacturing-support-team-member-buy-part-planner-level-1?utm_source=github&utm_medium=new-grad-list) | Highlands Ranch, CO | $55,700–$103,400/yr | Oct 1 |
 | **Lockheed Martin** | [System Integration & Test Engineer 1](https://spacejobs.now/jobs/lockheed-martin/system-integration-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Oct 1 |
 | **Sierra Space** | [Logistics Specialist I](https://spacejobs.now/jobs/sierra-space/logistics-specialist-i?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $19.89–$27.35/hr | Oct 1 |

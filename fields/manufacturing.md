@@ -1,11 +1,11 @@
 ---
 title: "Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)"
-description: "92 open entry-level manufacturing roles at space companies in the US (Relativity Space, SpaceX, Blue Origin, Lockheed Martin and more), updated daily."
+description: "89 open entry-level manufacturing roles at space companies in the US (Relativity Space, Blue Origin, SpaceX, Lockheed Martin and more), updated daily."
 ---
 
 # Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)
 
-**92 open in the United States at 25 companies, most at Relativity Space, SpaceX, Blue Origin, Lockheed Martin, AST SpaceMobile. Updated 24 Nov 2026.**
+**89 open in the United States at 23 companies, most at Relativity Space, Blue Origin, SpaceX, Lockheed Martin, Rocket Lab. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/manufacturing?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,9 +13,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **United Launch Alliance** | [Manufacturing Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/manufacturing-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $61,658–$102,764/yr | Nov 25 |
+| **Rocket Lab** | [Harness Technician I](https://spacejobs.now/jobs/rocket-lab/harness-technician-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $25–$31/hr | Nov 24 |
 | **Relativity Space** | [TPS Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Nov 19 |
 | **BAE Systems Space & Mission Systems** | [Entry Level SPY Radar Technician](https://spacejobs.now/jobs/bae-systems-space/entry-level-spy-radar-technician?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA |  | Nov 17 |
-| **Virgin Galactic** | [Engineer I, Materials & Processes (Composite Materials)](https://spacejobs.now/jobs/virgin-galactic/engineer-i-materials-processes-composite-materials?utm_source=github&utm_medium=new-grad-list) | Tustin, CA | $93,387–$135,508/yr | Nov 17 |
 | **Rocket Lab** | [Ops Support Technician I-III](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i-iii?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
 | **US Space Force** | [Air Conditioning Equipment Mechanic](https://spacejobs.now/jobs/us-space-force/air-conditioning-equipment-mechanic?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $66,179–$77,199/yr | Nov 16 |
 | **US Space Force** | [Heavy Mobile Equipment Mechanic](https://spacejobs.now/jobs/us-space-force/heavy-mobile-equipment-mechanic?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,507/yr | Nov 16 |
@@ -26,9 +27,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Sierra Space** | [Manufacturing Specialist I - Tooling](https://spacejobs.now/jobs/sierra-space/manufacturing-specialist-i-tooling?utm_source=github&utm_medium=new-grad-list) | Louisville, CO | $73,231–$100,714/yr | Nov 10 |
 | **Lockheed Martin** | [Colorado Advanced Manufacturing Technician Apprentice Program (AMTAP) - Cohort 42](https://spacejobs.now/jobs/lockheed-martin/colorado-advanced-manufacturing-technician-apprentice-program-amtap-cohort-42?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $15.86–$23.79/hr | Nov 9 |
 | **Rocket Lab** | [Manufacturing Engineer I - Propulsion](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i-propulsion?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $89,350–$115,025/yr | Nov 9 |
-| **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 9 |
 | **Varda Space Industries** | [CNC Lathe Machinist I and II, Prototype Shop](https://spacejobs.now/jobs/varda/cnc-lathe-machinist-i-and-ii-prototype-shop?utm_source=github&utm_medium=new-grad-list) | El Segundo, California | $29–$40/hr | Nov 7 |
 | **Voyager Technologies** | [Energetics Technician I](https://spacejobs.now/jobs/voyager/energetics-technician-i?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $27/hr | Nov 6 |
+| **US Space Force** | [Electrician (Motor Vehicle Operator)](https://spacejobs.now/jobs/us-space-force/electrician-motor-vehicle-operator?utm_source=github&utm_medium=new-grad-list) | Patrick AFB, FL | $64,801–$75,508/yr | Nov 6 |
 | **Firefly Aerospace** | [Composites Manufacturing Engineer I](https://spacejobs.now/jobs/firefly-aerospace/composites-manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Nov 6 |
 | **Revolution Space** | [Assembly Technician I/II](https://spacejobs.now/jobs/revolution-space/assembly-technician-i-ii?utm_source=github&utm_medium=new-grad-list) | Boston, MA |  | Nov 5 |
 | **Lockheed Martin** | [Alabama Advanced Manufacturing Technician Apprentice Program (AMTAP) - Cohort 35](https://spacejobs.now/jobs/lockheed-martin/alabama-advanced-manufacturing-technician-apprentice-program-amtap-cohort-35?utm_source=github&utm_medium=new-grad-list) | Courtland, AL | $14.10–$21.15/hr | Nov 5 |
@@ -41,7 +42,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Boeing** | [Entry-Level Fabrication Specialist (Preparing and Painting)](https://spacejobs.now/jobs/boeing/entry-level-fabrication-specialist-preparing-and-painting?utm_source=github&utm_medium=new-grad-list) | Mesa, AZ | $41,650–$56,350/yr | Oct 30 |
 | **Firefly Aerospace** | [AFP Operator I](https://spacejobs.now/jobs/firefly-aerospace/afp-operator-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 29 |
 | **Firefly Aerospace** | [Composites Technician I-IV All Shifts](https://spacejobs.now/jobs/firefly-aerospace/composites-technician-i-iv-all-shifts?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 29 |
-| **RTX** | [Semiconductor Manufacturing Engineer I](https://spacejobs.now/jobs/rtx/semiconductor-manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Goleta, CA | $62,900–$119,700/yr | Oct 28 |
 | **Blue Origin** | [Integration Technician I](https://spacejobs.now/jobs/blue-origin/integration-technician-i?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $24.74–$34.63/hr | Oct 28 |
 | **Relativity Space** | [Manufacturing Engineer I, Composites](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-composites?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 27 |
 | **Sierra Space** | [Production Support Technician I (Part-time)](https://spacejobs.now/jobs/sierra-space/production-support-technician-i-part-time?utm_source=github&utm_medium=new-grad-list) | Middleton, WI | $16–$20/hr | Oct 27 |
@@ -57,7 +57,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Relativity Space** | [Manufacturing Engineer I - Test & Launch Structures](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-test-launch-structures?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, Florida | $90,000–$136,000/yr | Oct 16 |
 | **Relativity Space** | [FSW Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/fsw-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $25.58–$38.37/hr | Oct 15 |
 | **Relativity Space** | [Friction Stir Welding Technician I, First Shift](https://spacejobs.now/jobs/relativity-space/friction-stir-welding-technician-i-first-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$31.35/hr | Oct 15 |
-| **Relativity Space** | [Manufacturing Engineer I, Turbomachinery](https://spacejobs.now/jobs/relativity-space/manufacturing-engineer-i-turbomachinery?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 15 |
 | **AST SpaceMobile** | [Environmental Test Technician I, 3rd Shift, Site 2](https://spacejobs.now/jobs/ast-spacemobile/environmental-test-technician-i-3rd-shift-site-2?utm_source=github&utm_medium=new-grad-list) | Midland, Texas |  | Oct 14 |
 | **AST SpaceMobile** | [Environmental Test Technician I, 2nd Shift, Site 2](https://spacejobs.now/jobs/ast-spacemobile/environmental-test-technician-i-2nd-shift-site-2?utm_source=github&utm_medium=new-grad-list) | Midland, Texas |  | Oct 14 |
 | **Frontgrade Technologies** | [Assembler I (Aerospace & Defense)](https://spacejobs.now/jobs/frontgrade/assembler-i-aerospace-defense?utm_source=github&utm_medium=new-grad-list) | York, PA | $17–$20/hr | Oct 14 |
@@ -101,7 +100,5 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [Production Engineer I (Industrial/Manufacturing) - MK2](https://spacejobs.now/jobs/blue-origin/production-engineer-i-industrial-manufacturing-mk2?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL | $75,289–$105,404/yr | Jun 5 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Van Horn, TX |  | May 1 |
 | **Relativity Space** | [Propulsion Test Technician I](https://spacejobs.now/jobs/relativity-space/propulsion-test-technician-i?utm_source=github&utm_medium=new-grad-list) | Mississippi | $28.27–$42.40/hr | Apr 14 |
-| **Northrop Grumman** | [Manufacturing Technician 1/2](https://spacejobs.now/jobs/northrop-grumman/manufacturing-technician-1-2?utm_source=github&utm_medium=new-grad-list) | Corinne, UT | $37,400–$62,400/yr | Jan 28 |
 | **Rocket Lab** | [Operator I/II, Production](https://spacejobs.now/jobs/rocket-lab/operator-i-ii-production?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Jan 6 |
 | **Rocket Lab** | [Manufacturing Engineer I](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $84,550–$108,000/yr | Nov 10 |
-| **Stoke Space** | [Entry Level Aerospace Technician](https://spacejobs.now/jobs/stoke-space/entry-level-aerospace-technician?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $25.00/hr | Aug 14 |

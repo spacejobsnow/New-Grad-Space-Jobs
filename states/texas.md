@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)"
-description: "85 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin and more), updated daily."
+description: "85 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**85 open at 14 companies, most at SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin, Amentum. Updated 24 Nov 2026.**
+**85 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Axiom Space. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -93,7 +93,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Application Software Engineer, Applied AI](https://spacejobs.now/jobs/spacex/application-software-engineer-applied-ai?utm_source=github&utm_medium=new-grad-list) | Redmond, WA and 6 more |  | Jul 30 |
 | **AST SpaceMobile** | [Junior Tulip Platform Engineer](https://spacejobs.now/jobs/ast-spacemobile/junior-tulip-platform-engineer?utm_source=github&utm_medium=new-grad-list) | Midland, Texas |  | Jul 27 |
 | **SpaceX** | [Full Stack Software Engineer (Application Software)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Jul 18 |
-| **SpaceX** | [Jr. Sous Chef - Temporary](https://spacejobs.now/jobs/spacex/jr-sous-chef-temporary?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 2 more |  | Jul 13 |
+| **SpaceX** | [Jr. Sous Chef - Temporary](https://spacejobs.now/jobs/spacex/jr-sous-chef-temporary?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Jul 13 |
 | **SpaceX** | [Application Software Engineer, Spaceport Experience](https://spacejobs.now/jobs/spacex/application-software-engineer-spaceport-experience?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Jul 13 |
 | **SpaceX** | [New Graduate Engineer, Launch & Test (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-launch-test-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Jun 9 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Van Horn, TX |  | May 1 |

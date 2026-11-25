@@ -1,11 +1,11 @@
 ---
 title: "Entry-level rf, communications and payloads jobs at space companies (new grad 2026 and 2027)"
-description: "7 open entry-level rf, communications and payloads roles at space companies in the US (Rocket Lab, The Aerospace Corporation, CACI, NASA Jet Propulsion Laboratory (JPL) and more), updated daily."
+description: "8 open entry-level rf, communications and payloads roles at space companies in the US (Rocket Lab, Lockheed Martin, The Aerospace Corporation, NASA Jet Propulsion Laboratory (JPL) and more), updated daily."
 ---
 
 # Entry-level rf, communications and payloads jobs at space companies (new grad 2026 and 2027)
 
-**7 open in the United States at 5 companies, most at Rocket Lab, The Aerospace Corporation, CACI, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin. Updated 24 Nov 2026.**
+**8 open in the United States at 5 companies, most at Rocket Lab, Lockheed Martin, The Aerospace Corporation, NASA Jet Propulsion Laboratory (JPL), CACI. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/rf-communications?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Rocket Lab** | [RF Design Engineer I](https://spacejobs.now/jobs/rocket-lab/rf-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$121,000/yr | Nov 24 |
 | **Rocket Lab** | [Radar RF Design Engineer I](https://spacejobs.now/jobs/rocket-lab/radar-rf-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Nov 20 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Electromagnetic Engineer I](https://spacejobs.now/jobs/jpl/electromagnetic-engineer-i?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $97,656–$114,192/yr | Nov 18 |
 | **Lockheed Martin** | [Radio Frequency Engineer Asc - Entry Level](https://spacejobs.now/jobs/lockheed-martin/radio-frequency-engineer-asc-entry-level?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 9 |

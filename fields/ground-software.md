@@ -1,11 +1,11 @@
 ---
 title: "Entry-level software and it jobs at space companies (new grad 2026 and 2027)"
-description: "93 open entry-level software and it roles at space companies in the US (SpaceX, True Anomaly, Relativity Space, Blue Origin and more), updated daily."
+description: "91 open entry-level software and it roles at space companies in the US (SpaceX, Relativity Space, KBR, True Anomaly and more), updated daily."
 ---
 
 # Entry-level software and it jobs at space companies (new grad 2026 and 2027)
 
-**93 open in the United States at 22 companies, most at SpaceX, True Anomaly, Relativity Space, Blue Origin, KBR. Updated 24 Nov 2026.**
+**91 open in the United States at 21 companies, most at SpaceX, Relativity Space, KBR, True Anomaly, Blue Origin. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,7 +15,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|
 | **Iridium** | [Software Test Engineer I](https://spacejobs.now/jobs/iridium/software-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Chandler, AZ | $65,000–$81,000/yr | Nov 24 |
 | **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $135,000–$160,000/yr | Nov 20 |
-| **United Launch Alliance** | [Ground Software (GSW) Avionics & Infrastructure Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/ground-software-gsw-avionics-infrastructure-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $77,111–$128,518/yr | Nov 20 |
 | **Viasat** | [Associate Software Engineer, Early Career](https://spacejobs.now/jobs/viasat/associate-software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $95,000–$150,000/yr | Nov 19 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Engineering Applications Software Engineer Level 1](https://spacejobs.now/jobs/jpl/engineering-applications-software-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $93,080–$112,112/yr | Nov 18 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
@@ -53,7 +52,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **BAE Systems Space & Mission Systems** | [Engineer I – Ground Systems](https://spacejobs.now/jobs/bae-systems-space/engineer-i-ground-systems?utm_source=github&utm_medium=new-grad-list) | Broomfield, Colorado | $64,926–$110,374/yr | Oct 9 |
 | **SpaceX** | [Site Reliability Engineer, Data Center Infrastructure](https://spacejobs.now/jobs/spacex/site-reliability-engineer-data-center-infrastructure?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Oct 8 |
 | **SpaceX** | [Application Software Engineer, Employee Experience](https://spacejobs.now/jobs/spacex/application-software-engineer-employee-experience?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 7 |
-| **True Anomaly** | [Software Engineer I to III, Digital Engineering](https://spacejobs.now/jobs/true-anomaly/software-engineer-i-to-iii-digital-engineering?utm_source=github&utm_medium=new-grad-list) | Denver, CO and 1 more | $70,000–$160,000/yr | Oct 6 |
 | **SpaceX** | [Application Software Engineer, Manufacturing Systems](https://spacejobs.now/jobs/spacex/application-software-engineer-manufacturing-systems?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Oct 1 |
 | **SpaceX** | [Full Stack Software Engineer, Platform](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-platform?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$160,000/yr | Oct 1 |
 | **SpaceX** | [Software Engineer, Manufacturing Infrastructure](https://spacejobs.now/jobs/spacex/software-engineer-manufacturing-infrastructure?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 26 |

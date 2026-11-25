@@ -5,7 +5,7 @@ description: "16 open entry-level Firefly Aerospace roles in the US (Manufacturi
 
 # Firefly Aerospace new grad and entry-level jobs
 
-**16 open in the United States. Updated 24 Nov 2026.**
+**16 open in the United States. Updated 25 Nov 2026.**
 
 Every Firefly Aerospace role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Firefly Aerospace's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/firefly-aerospace?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

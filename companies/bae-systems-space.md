@@ -1,11 +1,11 @@
 ---
 title: "BAE Systems Space & Mission Systems new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "6 open entry-level BAE Systems Space & Mission Systems roles in the US (Launch and mission operations; Quality and mission assurance; Systems, integration and test), updated daily."
+description: "6 open entry-level BAE Systems Space & Mission Systems roles in the US (Flight software and GNC; Manufacturing; Quality and mission assurance), updated daily."
 ---
 
 # BAE Systems Space & Mission Systems new grad and entry-level jobs
 
-**6 open in the United States. Updated 24 Nov 2026.**
+**6 open in the United States. Updated 25 Nov 2026.**
 
 Every BAE Systems Space & Mission Systems role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from BAE Systems Space & Mission Systems's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/bae-systems-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

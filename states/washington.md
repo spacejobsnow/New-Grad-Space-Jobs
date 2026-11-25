@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)"
-description: "66 open entry-level space jobs in Washington (Blue Origin, SpaceX, Amazon Leo, Cowboy Space and more), updated daily."
+description: "64 open entry-level space jobs in Washington (Blue Origin, SpaceX, Amazon Leo, Cowboy Space and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)
 
-**66 open at 6 companies, most at Blue Origin, SpaceX, Amazon Leo, Cowboy Space, Stoke Space. Updated 24 Nov 2026.**
+**64 open at 6 companies, most at Blue Origin, SpaceX, Amazon Leo, Cowboy Space, Stoke Space. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -31,7 +31,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [GSE & Tooling Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/gse-tooling-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 23 |
 | **Cowboy Space** | [TCA Mechanical Design Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/tca-mechanical-design-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 21 |
 | **Blue Origin** | [EDM Machinist (Early Career)](https://spacejobs.now/jobs/blue-origin/edm-machinist-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $32.15–$45/hr | Sep 17 |
-| **Cowboy Space** | [Mechanism Engineer - Early Career](https://spacejobs.now/jobs/cowboy-space/mechanism-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 15 |
 | **Cowboy Space** | [Fluids Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/fluids-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 15 |
 | **Blue Origin** | [AM Applications Engineer - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/am-applications-engineer-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $69,015–$96,621/yr | Sep 10 |
@@ -78,4 +77,3 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [Software Engineer, DevOps (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-devops-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$150,000/yr | Jun 3 |
 | **SpaceX** | [Software Engineer, Hardware Test & Automation (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-hardware-test-automation-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$145,000/yr | May 27 |
 | **Stoke Space** | [Engine Test Engineer (Level 1 - Early Career)](https://spacejobs.now/jobs/stoke-space/engine-test-engineer-level-1-early-career?utm_source=github&utm_medium=new-grad-list) | Moses Lake, Washington |  | Nov 13 |
-| **Stoke Space** | [Entry Level Aerospace Technician](https://spacejobs.now/jobs/stoke-space/entry-level-aerospace-technician?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $25.00/hr | Aug 14 |

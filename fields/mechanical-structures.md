@@ -1,11 +1,11 @@
 ---
 title: "Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)"
-description: "56 open entry-level mechanical, structures and thermal roles at space companies in the US (SpaceX, Blue Origin, Relativity Space, United Launch Alliance and more), updated daily."
+description: "59 open entry-level mechanical, structures and thermal roles at space companies in the US (Relativity Space, SpaceX, Blue Origin, United Launch Alliance and more), updated daily."
 ---
 
 # Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)
 
-**56 open in the United States at 14 companies, most at SpaceX, Blue Origin, Relativity Space, United Launch Alliance, Sierra Space. Updated 24 Nov 2026.**
+**59 open in the United States at 14 companies, most at Relativity Space, SpaceX, Blue Origin, United Launch Alliance, Sierra Space. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,9 +13,12 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Relativity Space** | [New Grad 2027 - Thermal Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-thermal-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
+| **Relativity Space** | [New Grad 2027 - Aerodynamics Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-aerodynamics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
 | **Relativity Space** | [Vehicle Fluids Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
 | **United Launch Alliance** | [Mechanical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
 | **United Launch Alliance** | [Structural Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
+| **Virgin Galactic** | [Engineer I, Materials & Processes (Composite Materials)](https://spacejobs.now/jobs/virgin-galactic/engineer-i-materials-processes-composite-materials?utm_source=github&utm_medium=new-grad-list) | Tustin, CA | $93,387–$135,508/yr | Nov 17 |
 | **Quantum Space** | [Mechanical Engineer I](https://spacejobs.now/jobs/quantum-space/mechanical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more | $85,000–$110,000/yr | Nov 17 |
 | **Quantum Space** | [Structural Analyst I](https://spacejobs.now/jobs/quantum-space/structural-analyst-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more |  | Nov 16 |
 | **United Launch Alliance** | [Structural Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 15 |
@@ -52,10 +55,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [GSE & Tooling Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/gse-tooling-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 23 |
 | **Relativity Space** | [Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 22 |
 | **Cowboy Space** | [TCA Mechanical Design Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/tca-mechanical-design-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 21 |
-| **Cowboy Space** | [Mechanism Engineer - Early Career](https://spacejobs.now/jobs/cowboy-space/mechanism-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 15 |
 | **Cowboy Space** | [Fluids Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/fluids-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 15 |
 | **Relativity Space** | [Vehicle Mechanisms Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-mechanisms-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 11 |
 | **SpaceX** | [New Graduate Engineer, Mechanical Design (Starshield)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-design-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Sep 10 |
+| **Relativity Space** | [Vehicle Structures Design Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-structures-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 10 |
 | **Blue Origin** | [Materials and Processes Engineer I - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/materials-and-processes-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Structural & Mechanical Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/structural-mechanical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Thermal Engineer I - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/thermal-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $80,499–$112,698/yr | Sep 10 |

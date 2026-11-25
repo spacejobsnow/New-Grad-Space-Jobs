@@ -1,11 +1,11 @@
 ---
 title: "SpaceX new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "123 open entry-level SpaceX roles in the US (Software and IT; Flight software and GNC; Avionics and electrical), updated daily."
+description: "123 open entry-level SpaceX roles in the US (Software and IT; Flight software and GNC; Mechanical, structures and thermal), updated daily."
 ---
 
 # SpaceX new grad and entry-level jobs
 
-**123 open in the United States. Updated 24 Nov 2026.**
+**123 open in the United States. Updated 25 Nov 2026.**
 
 Every SpaceX role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from SpaceX's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/spacex?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -118,7 +118,7 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 | **SpaceX** | [Software Engineer (Starfall)](https://spacejobs.now/jobs/spacex/software-engineer-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 21 |
 | **SpaceX** | [Full Stack Software Engineer (Application Software)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Jul 18 |
 | **SpaceX** | [Software Engineer, Satellite Systems (Starshield)](https://spacejobs.now/jobs/spacex/software-engineer-satellite-systems-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $125,000–$150,000/yr | Jul 13 |
-| **SpaceX** | [Jr. Sous Chef - Temporary](https://spacejobs.now/jobs/spacex/jr-sous-chef-temporary?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 2 more |  | Jul 13 |
+| **SpaceX** | [Jr. Sous Chef - Temporary](https://spacejobs.now/jobs/spacex/jr-sous-chef-temporary?utm_source=github&utm_medium=new-grad-list) | Starbase, TX and 1 more |  | Jul 13 |
 | **SpaceX** | [Application Software Engineer, Spaceport Experience](https://spacejobs.now/jobs/spacex/application-software-engineer-spaceport-experience?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Jul 13 |
 | **SpaceX** | [Launch Engineer, Falcon Engineering](https://spacejobs.now/jobs/spacex/launch-engineer-falcon-engineering?utm_source=github&utm_medium=new-grad-list) | Vandenberg AFB, CA | $100,000–$117,500/yr | Jul 8 |
 | **SpaceX** | [New Graduate Engineer, Mechanical (Cape Canaveral)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-cape-canaveral?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL |  | Jul 7 |

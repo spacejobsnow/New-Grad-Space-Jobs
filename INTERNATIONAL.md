@@ -1,6 +1,6 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-46 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 24 Nov 2026.
+44 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 25 Nov 2026.
 
 [Back to the United States list](README.md)
 
@@ -19,8 +19,6 @@
 | **Lockheed Martin** | [SSE Electrical Engineer (Entry Level)](https://spacejobs.now/jobs/lockheed-martin/sse-electrical-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Helensburgh, United Kingdom |  | Oct 31 |
 | **Thales Alenia Space** | [Junior Navigation System and Solution Architect](https://spacejobs.now/jobs/thales-alenia-space/junior-navigation-system-and-solution-architect?utm_source=github&utm_medium=new-grad-list) | Roma, Italy |  | Oct 30 |
 | **Thales Alenia Space** | [Ingénieur Validation & Automatisation Sol Junior - F/H](https://spacejobs.now/jobs/thales-alenia-space/ingenieur-validation-automatisation-sol-junior-f-h?utm_source=github&utm_medium=new-grad-list) | Toulouse, Haute-Garonne, France |  | Oct 30 |
-| **OHB** | [Junior System Architect (f/m/d)](https://spacejobs.now/jobs/ohb/junior-system-architect-f-m-d?utm_source=github&utm_medium=new-grad-list) | Gilching, Germany |  | Oct 30 |
-| **SES** | [Junior Specialist, Business Support](https://spacejobs.now/jobs/ses/junior-specialist-business-support?utm_source=github&utm_medium=new-grad-list) | Chennai, India |  | Oct 30 |
 | **Eutelsat** | [Apprenti(e) Financial Planning & Analysis](https://spacejobs.now/jobs/eutelsat/apprenti-e-financial-planning-analysis?utm_source=github&utm_medium=new-grad-list) | Issy-Les-Moulineaux, France |  | Oct 30 |
 | **Eutelsat** | [Junior Legal Counsel (IRIS2)](https://spacejobs.now/jobs/eutelsat/junior-legal-counsel-iris2?utm_source=github&utm_medium=new-grad-list) | Issy-Les-Moulineaux, France |  | Oct 30 |
 | **Open Cosmos** | [Procurement Specialist (Entry level)](https://spacejobs.now/jobs/open-cosmos/procurement-specialist-entry-level?utm_source=github&utm_medium=new-grad-list) | Didcot, United Kingdom |  | Oct 28 |
