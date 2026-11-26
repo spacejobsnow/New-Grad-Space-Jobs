@@ -1,11 +1,11 @@
 ---
 title: "Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)"
-description: "31 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Firefly Aerospace, Blue Origin and more), updated daily."
+description: "33 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Firefly Aerospace and more), updated daily."
 ---
 
 # Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)
 
-**31 open in the United States at 15 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Firefly Aerospace, Blue Origin, Lockheed Martin. Updated 25 Nov 2026.**
+**33 open in the United States at 16 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Lockheed Martin, Firefly Aerospace, Blue Origin. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/avionics-electrical?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,8 +13,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Space Dynamics Laboratory** | [Entry-Level Electrical Engineer](https://spacejobs.now/jobs/space-dynamics-laboratory/entry-level-electrical-engineer?utm_source=github&utm_medium=new-grad-list) | North Logan, UT | $66,500–$118,500/yr | Nov 25 |
 | **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **SpaceX** | [Electrical Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
+| **United Launch Alliance** | [Electrical Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL | $61,657–$102,762/yr | Nov 21 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
 | **Lockheed Martin** | [Electronics Engineer - Orion EGSE - Early Career](https://spacejobs.now/jobs/lockheed-martin/electronics-engineer-orion-egse-early-career?utm_source=github&utm_medium=new-grad-list) | FL | $58,200–$108,200/yr | Nov 17 |
 | **Lockheed Martin** | [Circuit Design Engineer Asc-Early Career](https://spacejobs.now/jobs/lockheed-martin/circuit-design-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $75,400–$140,000/yr | Nov 17 |

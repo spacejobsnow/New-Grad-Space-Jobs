@@ -1,11 +1,11 @@
 ---
 title: "SpaceX new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "123 open entry-level SpaceX roles in the US (Software and IT; Flight software and GNC; Mechanical, structures and thermal), updated daily."
+description: "125 open entry-level SpaceX roles in the US (Software and IT; Flight software and GNC; Avionics and electrical), updated daily."
 ---
 
 # SpaceX new grad and entry-level jobs
 
-**123 open in the United States. Updated 25 Nov 2026.**
+**125 open in the United States. Updated 26 Nov 2026.**
 
 Every SpaceX role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from SpaceX's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/spacex?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Every SpaceX role whose posting asks for no prior experience, names new or recen
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 25 |
+| **SpaceX** | [Data Engineer, Application Software](https://spacejobs.now/jobs/spacex/data-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 25 |
 | **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **SpaceX** | [Electrical Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-raptor?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Nov 21 |

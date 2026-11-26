@@ -1,11 +1,11 @@
 ---
 title: "Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)"
-description: "89 open entry-level manufacturing roles at space companies in the US (Relativity Space, Blue Origin, SpaceX, Lockheed Martin and more), updated daily."
+description: "90 open entry-level manufacturing roles at space companies in the US (Relativity Space, SpaceX, Blue Origin, AST SpaceMobile and more), updated daily."
 ---
 
 # Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)
 
-**89 open in the United States at 23 companies, most at Relativity Space, Blue Origin, SpaceX, Lockheed Martin, Rocket Lab. Updated 25 Nov 2026.**
+**90 open in the United States at 23 companies, most at Relativity Space, SpaceX, Blue Origin, AST SpaceMobile, Lockheed Martin. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/manufacturing?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -100,5 +100,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [Production Engineer I (Industrial/Manufacturing) - MK2](https://spacejobs.now/jobs/blue-origin/production-engineer-i-industrial-manufacturing-mk2?utm_source=github&utm_medium=new-grad-list) | Space Coast, FL | $75,289–$105,404/yr | Jun 5 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Van Horn, TX |  | May 1 |
 | **Relativity Space** | [Propulsion Test Technician I](https://spacejobs.now/jobs/relativity-space/propulsion-test-technician-i?utm_source=github&utm_medium=new-grad-list) | Mississippi | $28.27–$42.40/hr | Apr 14 |
+| **Northrop Grumman** | [Manufacturing Technician 1/2](https://spacejobs.now/jobs/northrop-grumman/manufacturing-technician-1-2?utm_source=github&utm_medium=new-grad-list) | Corinne, UT | $37,400–$62,400/yr | Jan 28 |
 | **Rocket Lab** | [Operator I/II, Production](https://spacejobs.now/jobs/rocket-lab/operator-i-ii-production?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Jan 6 |
 | **Rocket Lab** | [Manufacturing Engineer I](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $84,550–$108,000/yr | Nov 10 |

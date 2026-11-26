@@ -5,7 +5,7 @@ description: "59 open entry-level mechanical, structures and thermal roles at sp
 
 # Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)
 
-**59 open in the United States at 14 companies, most at Relativity Space, SpaceX, Blue Origin, United Launch Alliance, Sierra Space. Updated 25 Nov 2026.**
+**59 open in the United States at 14 companies, most at Relativity Space, SpaceX, Blue Origin, United Launch Alliance, Sierra Space. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -55,7 +55,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [GSE & Tooling Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/gse-tooling-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 23 |
 | **Relativity Space** | [Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 22 |
 | **Cowboy Space** | [TCA Mechanical Design Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/tca-mechanical-design-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 21 |
-| **Cowboy Space** | [Fluids Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/fluids-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 15 |
+| **Cowboy Space** | [Fluids Engineer - Early Career](https://spacejobs.now/jobs/cowboy-space/fluids-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 15 |
 | **Relativity Space** | [Vehicle Mechanisms Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-mechanisms-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 11 |
 | **SpaceX** | [New Graduate Engineer, Mechanical Design (Starshield)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-mechanical-design-starshield?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Sep 10 |
 | **Relativity Space** | [Vehicle Structures Design Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-structures-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Sep 10 |

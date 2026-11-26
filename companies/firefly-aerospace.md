@@ -1,11 +1,11 @@
 ---
 title: "Firefly Aerospace new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "16 open entry-level Firefly Aerospace roles in the US (Manufacturing; Mechanical, structures and thermal; Propulsion), updated daily."
+description: "16 open entry-level Firefly Aerospace roles in the US (Manufacturing; Propulsion; Mechanical, structures and thermal), updated daily."
 ---
 
 # Firefly Aerospace new grad and entry-level jobs
 
-**16 open in the United States. Updated 25 Nov 2026.**
+**16 open in the United States. Updated 26 Nov 2026.**
 
 Every Firefly Aerospace role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Firefly Aerospace's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/firefly-aerospace?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

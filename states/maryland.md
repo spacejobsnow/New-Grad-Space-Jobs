@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Maryland (new grad 2026 and 2027)"
-description: "5 open entry-level space jobs in Maryland (Rocket Lab, Quantum Space, Intuitive Machines and more), updated daily."
+description: "7 open entry-level space jobs in Maryland (Rocket Lab, Quantum Space, Intuitive Machines and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Maryland (new grad 2026 and 2027)
 
-**5 open at 3 companies, most at Rocket Lab, Quantum Space, Intuitive Machines. Updated 25 Nov 2026.**
+**7 open at 3 companies, most at Rocket Lab, Quantum Space, Intuitive Machines. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/maryland?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,8 +13,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Rocket Lab** | [Receiving Inspector I](https://spacejobs.now/jobs/rocket-lab/receiving-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 25 |
 | **Quantum Space** | [Mechanical Engineer I](https://spacejobs.now/jobs/quantum-space/mechanical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more | $85,000–$110,000/yr | Nov 17 |
 | **Quantum Space** | [Structural Analyst I](https://spacejobs.now/jobs/quantum-space/structural-analyst-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more |  | Nov 16 |
+| **Rocket Lab** | [IQC Inspector I](https://spacejobs.now/jobs/rocket-lab/iqc-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 12 |
 | **Intuitive Machines** | [Orbit Determination and Navigation Engineer I, II](https://spacejobs.now/jobs/intuitive-machines/orbit-determination-and-navigation-engineer-i-ii?utm_source=github&utm_medium=new-grad-list) | Glen Burnie, MD and 11 more |  | Sep 23 |
 | **Rocket Lab** | [Vehicle Integration Engineer I](https://spacejobs.now/jobs/rocket-lab/vehicle-integration-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $103,950–$109,000/yr | Dec 12 |
 | **Rocket Lab** | [Manufacturing Engineer I](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineer-i?utm_source=github&utm_medium=new-grad-list) | Middle River, MD | $84,550–$108,000/yr | Nov 10 |

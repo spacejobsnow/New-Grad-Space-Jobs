@@ -1,11 +1,11 @@
 ---
 title: "United Launch Alliance new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "15 open entry-level United Launch Alliance roles in the US (Mechanical, structures and thermal; Systems, integration and test; Flight software and GNC), updated daily."
+description: "16 open entry-level United Launch Alliance roles in the US (Mechanical, structures and thermal; Systems, integration and test; Avionics and electrical), updated daily."
 ---
 
 # United Launch Alliance new grad and entry-level jobs
 
-**15 open in the United States. Updated 25 Nov 2026.**
+**16 open in the United States. Updated 26 Nov 2026.**
 
 Every United Launch Alliance role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from United Launch Alliance's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/united-launch-alliance?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,7 +15,8 @@ Every United Launch Alliance role whose posting asks for no prior experience, na
 |---|---|---|---|---|
 | **United Launch Alliance** | [Manufacturing Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/manufacturing-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $61,658–$102,764/yr | Nov 25 |
 | **United Launch Alliance** | [Systems Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more | $67,895–$113,159/yr | Nov 25 |
-| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO and 1 more | $61,657–$107,900/yr | Nov 25 |
+| **United Launch Alliance** | [Systems Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $64,740–$107,900/yr | Nov 25 |
+| **United Launch Alliance** | [Electrical Test Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL | $61,657–$102,762/yr | Nov 21 |
 | **United Launch Alliance** | [Control Dynamics Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/control-dynamics-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 21 |
 | **United Launch Alliance** | [Electrical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/electrical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 1 more |  | Nov 20 |
 | **United Launch Alliance** | [Mechanical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |

@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)"
-description: "85 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile and more), updated daily."
+description: "87 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**85 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Axiom Space. Updated 25 Nov 2026.**
+**87 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Axiom Space. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 25 |
+| **SpaceX** | [Data Engineer, Application Software](https://spacejobs.now/jobs/spacex/data-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 25 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **SpaceX** | [Operations Engineer (Starship)](https://spacejobs.now/jobs/spacex/operations-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 1 more |  | Nov 17 |
 | **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 5 more | $67,000–$140,000/yr | Nov 16 |

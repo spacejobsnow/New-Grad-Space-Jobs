@@ -1,11 +1,11 @@
 ---
 title: "Entry-level propulsion jobs at space companies (new grad 2026 and 2027)"
-description: "10 open entry-level propulsion roles at space companies in the US (Firefly Aerospace, Blue Origin, SpaceX, True Anomaly and more), updated daily."
+description: "12 open entry-level propulsion roles at space companies in the US (Firefly Aerospace, Blue Origin, SpaceX, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level propulsion jobs at space companies (new grad 2026 and 2027)
 
-**10 open in the United States at 6 companies, most at Firefly Aerospace, Blue Origin, SpaceX, True Anomaly, Sierra Space. Updated 25 Nov 2026.**
+**12 open in the United States at 7 companies, most at Firefly Aerospace, Blue Origin, SpaceX, Rocket Lab, Sierra Space. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/propulsion?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,8 +13,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
+| **Rocket Lab** | [Spacecraft Propulsion Components Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-propulsion-components-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,000–$123,600/yr | Nov 25 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-raptor?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Nov 21 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Valves)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-valves?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Nov 12 |
+| **Rocket Lab** | [Spacecraft Propulsion Systems Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-propulsion-systems-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,400–$123,600/yr | Oct 29 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Spacecraft Engine Team)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-spacecraft-engine-team?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 22 |
 | **True Anomaly** | [Propulsion Engineer I (New Grad)](https://spacejobs.now/jobs/true-anomaly/propulsion-engineer-i-new-grad?utm_source=github&utm_medium=new-grad-list) | Denver, CO | $90,000/yr | Oct 21 |
 | **Varda Space Industries** | [Propulsion Engineer I - Hardware and Bus Systems](https://spacejobs.now/jobs/varda/propulsion-engineer-i-hardware-and-bus-systems?utm_source=github&utm_medium=new-grad-list) | El Segundo, California | $109,148–$139,466/yr | Oct 20 |
