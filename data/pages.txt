@@ -32,8 +32,8 @@ https://spacejobsnow.github.io/New-Grad-Space-Jobs/states/new-york
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/states/tennessee
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/spacex
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/relativity-space
-https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/blue-origin
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/lockheed-martin
+https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/blue-origin
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/rocket-lab
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/sierra-space
 https://spacejobsnow.github.io/New-Grad-Space-Jobs/companies/united-launch-alliance

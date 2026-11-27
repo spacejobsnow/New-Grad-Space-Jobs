@@ -1,11 +1,11 @@
 ---
 title: "Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)"
-description: "16 open entry-level quality and mission assurance roles at space companies in the US (Relativity Space, Rocket Lab, AST SpaceMobile, BAE Systems Space & Mission Systems and more), updated daily."
+description: "19 open entry-level quality and mission assurance roles at space companies in the US (Relativity Space, Rocket Lab, Lockheed Martin, AST SpaceMobile and more), updated daily."
 ---
 
 # Entry-level quality and mission assurance jobs at space companies (new grad 2026 and 2027)
 
-**16 open in the United States at 8 companies, most at Relativity Space, Rocket Lab, AST SpaceMobile, BAE Systems Space & Mission Systems, Blue Origin. Updated 26 Nov 2026.**
+**19 open in the United States at 9 companies, most at Relativity Space, Rocket Lab, Lockheed Martin, AST SpaceMobile, BAE Systems Space & Mission Systems. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/quality-safety?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,9 +14,12 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
 | **Rocket Lab** | [Receiving Inspector I](https://spacejobs.now/jobs/rocket-lab/receiving-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 25 |
+| **Lockheed Martin** | [Program Quality Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/program-quality-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Englewood, CO | $65,500–$121,700/yr | Nov 25 |
 | **Relativity Space** | [New Grad 2027 - Mission Reliability Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-mission-reliability-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $93,000–$139,000/yr | Nov 24 |
 | **Relativity Space** | [New Grad 2027 - Certification Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-certification-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $93,000–$139,000/yr | Nov 24 |
 | **Relativity Space** | [New Grad 2027 - NDE Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-nde-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
+| **Lockheed Martin** | [Quality Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/quality-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Courtland, AL | $58,200–$108,200/yr | Nov 23 |
+| **Lockheed Martin** | [Quality Engineer Associate Early Career](https://spacejobs.now/jobs/lockheed-martin/quality-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Nov 23 |
 | **Relativity Space** | [New Grad 2027 - Materials & Processes Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-materials-processes-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California |  | Nov 18 |
 | **Rocket Lab** | [Quality Inspector I](https://spacejobs.now/jobs/rocket-lab/quality-inspector-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $22–$27/hr | Nov 16 |
 | **Rocket Lab** | [IQC Inspector I](https://spacejobs.now/jobs/rocket-lab/iqc-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 12 |

@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in California (new grad 2026 and 2027)"
-description: "179 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
+description: "180 open entry-level space jobs in California (SpaceX, Relativity Space, Rocket Lab, True Anomaly and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in California (new grad 2026 and 2027)
 
-**179 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 26 Nov 2026.**
+**180 open at 27 companies, most at SpaceX, Relativity Space, Rocket Lab, True Anomaly, NASA Jet Propulsion Laboratory (JPL). Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/california?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,6 +15,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|
 | **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 25 |
 | **Rocket Lab** | [Spacecraft Propulsion Components Engineer I](https://spacejobs.now/jobs/rocket-lab/spacecraft-propulsion-components-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $82,000–$123,600/yr | Nov 25 |
+| **Lockheed Martin** | [Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Sunnyvale, CA and 1 more | $65,500–$135,200/yr | Nov 25 |
 | **Rocket Lab** | [RF Design Engineer I](https://spacejobs.now/jobs/rocket-lab/rf-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$121,000/yr | Nov 24 |
 | **Relativity Space** | [New Grad 2027 - Mission Reliability Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-mission-reliability-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $93,000–$139,000/yr | Nov 24 |
 | **Relativity Space** | [New Grad 2027 - Certification Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-certification-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $93,000–$139,000/yr | Nov 24 |
@@ -24,12 +25,14 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Relativity Space** | [New Grad 2027 - Aerodynamics Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-aerodynamics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
 | **Relativity Space** | [New Grad 2027 - GNC Mission Design Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-gnc-mission-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $110,000–$164,000/yr | Nov 24 |
 | **Relativity Space** | [Vehicle Fluids Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
+| **Lockheed Martin** | [Systems Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 5 more | $58,200–$121,700/yr | Nov 23 |
 | **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-electrical-starfall?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **SpaceX** | [Electrical Systems Engineer (Special Programs)](https://spacejobs.now/jobs/spacex/electrical-systems-engineer-special-programs?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $105,000–$140,000/yr | Nov 21 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-propulsion-raptor?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $100,000–$130,000/yr | Nov 21 |
 | **Viasat** | [Systems Test Engineer, Early Career](https://spacejobs.now/jobs/viasat/systems-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $77,000–$122,000/yr | Nov 20 |
 | **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $135,000–$160,000/yr | Nov 20 |
 | **Rocket Lab** | [Radar RF Design Engineer I](https://spacejobs.now/jobs/rocket-lab/radar-rf-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $88,000–$132,000/yr | Nov 20 |
+| **Lockheed Martin** | [Financial Management Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/financial-management-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 2 more | $55,700–$103,400/yr | Nov 19 |
 | **Viasat** | [Associate Software Engineer, Early Career](https://spacejobs.now/jobs/viasat/associate-software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $95,000–$150,000/yr | Nov 19 |
 | **Relativity Space** | [TPS Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Nov 19 |
 | **Millennium Space Systems** | [Optical Systems Engineer (Entry Level)](https://spacejobs.now/jobs/millennium-space-systems/optical-systems-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA | $70,550–$103,750/yr | Nov 19 |
@@ -45,8 +48,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Quantum Space** | [Mechanical Engineer I](https://spacejobs.now/jobs/quantum-space/mechanical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more | $85,000–$110,000/yr | Nov 17 |
 | **Quantum Space** | [Structural Analyst I](https://spacejobs.now/jobs/quantum-space/structural-analyst-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more |  | Nov 16 |
 | **Rocket Lab** | [Quality Inspector I](https://spacejobs.now/jobs/rocket-lab/quality-inspector-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $22–$27/hr | Nov 16 |
-| **Lockheed Martin** | [Financial Management Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/financial-management-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Sunnyvale, CA and 1 more | $55,700–$103,400/yr | Nov 16 |
-| **Lockheed Martin** | [Systems Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO and 4 more | $58,200–$121,700/yr | Nov 16 |
 | **Viasat** | [Information Security Specialist, Early Career](https://spacejobs.now/jobs/viasat/information-security-specialist-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $75,000–$118,000/yr | Nov 13 |
 | **Relativity Space** | [Vehicle Structures Engineer I - 2026 Graduate](https://spacejobs.now/jobs/relativity-space/vehicle-structures-engineer-i-2026-graduate?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 13 |
 | **Frontgrade Technologies** | [Production Test Technician I, 2nd Shift](https://spacejobs.now/jobs/frontgrade/production-test-technician-i-2nd-shift?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA |  | Nov 13 |

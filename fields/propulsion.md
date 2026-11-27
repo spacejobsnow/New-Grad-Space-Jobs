@@ -1,11 +1,11 @@
 ---
 title: "Entry-level propulsion jobs at space companies (new grad 2026 and 2027)"
-description: "12 open entry-level propulsion roles at space companies in the US (Firefly Aerospace, Blue Origin, SpaceX, Rocket Lab and more), updated daily."
+description: "12 open entry-level propulsion roles at space companies in the US (Firefly Aerospace, SpaceX, Rocket Lab, Blue Origin and more), updated daily."
 ---
 
 # Entry-level propulsion jobs at space companies (new grad 2026 and 2027)
 
-**12 open in the United States at 7 companies, most at Firefly Aerospace, Blue Origin, SpaceX, Rocket Lab, Sierra Space. Updated 26 Nov 2026.**
+**12 open in the United States at 7 companies, most at Firefly Aerospace, SpaceX, Rocket Lab, Blue Origin, True Anomaly. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/propulsion?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

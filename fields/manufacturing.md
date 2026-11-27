@@ -5,7 +5,7 @@ description: "90 open entry-level manufacturing roles at space companies in the 
 
 # Entry-level manufacturing jobs at space companies (new grad 2026 and 2027)
 
-**90 open in the United States at 23 companies, most at Relativity Space, SpaceX, Blue Origin, AST SpaceMobile, Lockheed Martin. Updated 26 Nov 2026.**
+**90 open in the United States at 23 companies, most at Relativity Space, SpaceX, Blue Origin, AST SpaceMobile, Rocket Lab. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/manufacturing?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,6 +15,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|
 | **United Launch Alliance** | [Manufacturing Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/manufacturing-engineer-1?utm_source=github&utm_medium=new-grad-list) | Pueblo, CO | $61,658–$102,764/yr | Nov 25 |
 | **Rocket Lab** | [Harness Technician I](https://spacejobs.now/jobs/rocket-lab/harness-technician-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $25–$31/hr | Nov 24 |
+| **Lockheed Martin** | [Manufacturing Support Team Member Asc - Level 1](https://spacejobs.now/jobs/lockheed-martin/manufacturing-support-team-member-asc-level-1?utm_source=github&utm_medium=new-grad-list) | Courtland, AL and 1 more | $49,500–$91,900/yr | Nov 23 |
 | **Relativity Space** | [TPS Technician I, Second Shift](https://spacejobs.now/jobs/relativity-space/tps-technician-i-second-shift?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $22.80–$34.20/hr | Nov 19 |
 | **BAE Systems Space & Mission Systems** | [Entry Level SPY Radar Technician](https://spacejobs.now/jobs/bae-systems-space/entry-level-spy-radar-technician?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA |  | Nov 17 |
 | **Rocket Lab** | [Ops Support Technician I-III](https://spacejobs.now/jobs/rocket-lab/ops-support-technician-i-iii?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 16 |
@@ -73,7 +74,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **CesiumAstro** | [Assembly Technician I](https://spacejobs.now/jobs/cesiumastro/assembly-technician-i?utm_source=github&utm_medium=new-grad-list) | Austin, TX |  | Oct 1 |
 | **True Anomaly** | [Apprentice Technician](https://spacejobs.now/jobs/true-anomaly/apprentice-technician?utm_source=github&utm_medium=new-grad-list) | Long Beach, CA | $24–$33/hr | Sep 26 |
 | **Relativity Space** | [Apprentice Propulsion Test Technician](https://spacejobs.now/jobs/relativity-space/apprentice-propulsion-test-technician?utm_source=github&utm_medium=new-grad-list) | Mississippi | $23.27–$34.90/hr | Sep 23 |
-| **Lockheed Martin** | [Manufacturing Support Team Member Asc - Level 1](https://spacejobs.now/jobs/lockheed-martin/manufacturing-support-team-member-asc-level-1?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL | $49,500–$91,900/yr | Sep 21 |
 | **Blue Origin** | [EDM Machinist (Early Career)](https://spacejobs.now/jobs/blue-origin/edm-machinist-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $32.15–$45/hr | Sep 17 |
 | **Moog** | [Machinist I - 2nd Shift](https://spacejobs.now/jobs/moog/machinist-i-2nd-shift?utm_source=github&utm_medium=new-grad-list) | Buffalo, NY | $22.00–$27.00/hr | Sep 10 |
 | **Blue Origin** | [AM Applications Engineer - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/am-applications-engineer-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 10 |

@@ -1,11 +1,11 @@
 ---
 title: "US Space Force new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "6 open entry-level US Space Force roles in the US (Manufacturing; Supply chain and facilities), updated daily."
+description: "6 open entry-level US Space Force roles in the US (Supply chain and facilities; Manufacturing), updated daily."
 ---
 
 # US Space Force new grad and entry-level jobs
 
-**6 open in the United States. Updated 26 Nov 2026.**
+**6 open in the United States. Updated 27 Nov 2026.**
 
 Every US Space Force role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from US Space Force's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/us-space-force?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -5,7 +5,7 @@ description: "55 open entry-level Relativity Space roles in the US (Manufacturin
 
 # Relativity Space new grad and entry-level jobs
 
-**55 open in the United States. Updated 26 Nov 2026.**
+**55 open in the United States. Updated 27 Nov 2026.**
 
 Every Relativity Space role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Relativity Space's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/relativity-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

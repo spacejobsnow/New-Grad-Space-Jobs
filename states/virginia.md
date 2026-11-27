@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Virginia (new grad 2026 and 2027)"
-description: "18 open entry-level space jobs in Virginia (KBR, Lockheed Martin, Rocket Lab, BAE Systems Space & Mission Systems and more), updated daily."
+description: "19 open entry-level space jobs in Virginia (KBR, Lockheed Martin, Rocket Lab, Parsons and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Virginia (new grad 2026 and 2027)
 
-**18 open at 9 companies, most at KBR, Lockheed Martin, Rocket Lab, BAE Systems Space & Mission Systems, Parsons. Updated 26 Nov 2026.**
+**19 open at 9 companies, most at KBR, Lockheed Martin, Rocket Lab, Parsons, The Aerospace Corporation. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/virginia?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,6 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
 | **Rocket Lab** | [Test and Launch Operations Engineer I](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $76,000–$95,000/yr | Nov 25 |
+| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 8 more | $67,000–$140,000/yr | Nov 24 |
 | **BAE Systems Space & Mission Systems** | [Entry Level SPY Radar Technician](https://spacejobs.now/jobs/bae-systems-space/entry-level-spy-radar-technician?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA |  | Nov 17 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Herndon, VA and 1 more | $65,500–$121,700/yr | Nov 17 |
 | **Rocket Lab** | [Test and Launch Operations Engineer I - Avionics](https://spacejobs.now/jobs/rocket-lab/test-and-launch-operations-engineer-i-avionics?utm_source=github&utm_medium=new-grad-list) | Wallops Island, VA | $85,000–$95,000/yr | Nov 12 |

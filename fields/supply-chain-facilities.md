@@ -1,11 +1,11 @@
 ---
 title: "Entry-level supply chain and facilities jobs at space companies (new grad 2026 and 2027)"
-description: "16 open entry-level supply chain and facilities roles at space companies in the US (US Space Force, Lockheed Martin, Blue Origin, Sierra Space and more), updated daily."
+description: "16 open entry-level supply chain and facilities roles at space companies in the US (US Space Force, Relativity Space, Sierra Space, Lockheed Martin and more), updated daily."
 ---
 
 # Entry-level supply chain and facilities jobs at space companies (new grad 2026 and 2027)
 
-**16 open in the United States at 10 companies, most at US Space Force, Lockheed Martin, Blue Origin, Sierra Space, Relativity Space. Updated 26 Nov 2026.**
+**16 open in the United States at 10 companies, most at US Space Force, Relativity Space, Sierra Space, Lockheed Martin, Blue Origin. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/supply-chain-facilities?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -1,11 +1,11 @@
 ---
 title: "Sierra Space new grad and entry-level jobs (2026 and 2027 graduates)"
-description: "18 open entry-level Sierra Space roles in the US (Mechanical, structures and thermal; Manufacturing; Software and IT), updated daily."
+description: "18 open entry-level Sierra Space roles in the US (Mechanical, structures and thermal; Manufacturing; Supply chain and facilities), updated daily."
 ---
 
 # Sierra Space new grad and entry-level jobs
 
-**18 open in the United States. Updated 26 Nov 2026.**
+**18 open in the United States. Updated 27 Nov 2026.**
 
 Every Sierra Space role whose posting asks for no prior experience, names new or recent graduates, or is an early-career level, read each night from Sierra Space's own careers site by [SpaceJobs.Now](https://spacejobs.now/employers/sierra-space?utm_source=github&utm_medium=new-grad-list). Each role opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

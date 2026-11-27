@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)"
-description: "87 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile and more), updated daily."
+description: "87 open entry-level space jobs in Texas (SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Texas (new grad 2026 and 2027)
 
-**87 open at 14 companies, most at SpaceX, Firefly Aerospace, Blue Origin, AST SpaceMobile, Axiom Space. Updated 26 Nov 2026.**
+**87 open at 14 companies, most at SpaceX, Firefly Aerospace, AST SpaceMobile, Blue Origin, Axiom Space. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/texas?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,9 +15,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|
 | **SpaceX** | [Software Engineer, Flight Software (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starship?utm_source=github&utm_medium=new-grad-list) | Cape Canaveral, FL and 2 more |  | Nov 25 |
 | **SpaceX** | [Data Engineer, Application Software](https://spacejobs.now/jobs/spacex/data-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 25 |
+| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 8 more | $67,000–$140,000/yr | Nov 24 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **SpaceX** | [Operations Engineer (Starship)](https://spacejobs.now/jobs/spacex/operations-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 1 more |  | Nov 17 |
-| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 5 more | $67,000–$140,000/yr | Nov 16 |
 | **Axiom Space** | [Mission Operations Engineer (Entry Level)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Houston, TX |  | Nov 13 |
 | **Firefly Aerospace** | [Launch Vehicle Integration Engineer I](https://spacejobs.now/jobs/firefly-aerospace/launch-vehicle-integration-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Nov 12 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Valves)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-valves?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Nov 12 |
@@ -47,8 +47,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Firefly Aerospace** | [Fluids GSE Design Engineer I](https://spacejobs.now/jobs/firefly-aerospace/fluids-gse-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 28 |
 | **Firefly Aerospace** | [Wire Harness Electrical Engineer I](https://spacejobs.now/jobs/firefly-aerospace/wire-harness-electrical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 27 |
 | **AST SpaceMobile** | [Technician I, 1st shift, Site 2](https://spacejobs.now/jobs/ast-spacemobile/technician-i-1st-shift-site-2?utm_source=github&utm_medium=new-grad-list) | Midland, Texas |  | Oct 26 |
-| **Firefly Aerospace** | [Structures Engineer I (Spacecraft)](https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 23 |
 | **Firefly Aerospace** | [Test Engineer I, Component](https://spacejobs.now/jobs/firefly-aerospace/test-engineer-i-component?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 23 |
+| **Firefly Aerospace** | [Structures Engineer I (Spacecraft)](https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 23 |
 | **Firefly Aerospace** | [Propulsion Engineer I (Spacecraft Engine Team)](https://spacejobs.now/jobs/firefly-aerospace/propulsion-engineer-i-spacecraft-engine-team?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 22 |
 | **SpaceX** | [Jr. Sous Chef (Sushi)](https://spacejobs.now/jobs/spacex/jr-sous-chef-sushi?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Oct 20 |
 | **Firefly Aerospace** | [Production Technician I-Composites](https://spacejobs.now/jobs/firefly-aerospace/production-technician-i-composites?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 20 |
@@ -70,9 +70,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **SpaceX** | [New Graduate Engineer, Power Generation (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-power-generation-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 11 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $69,015–$96,621/yr | Sep 10 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
-| **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **Blue Origin** | [Avionics / Embedded Software Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/avionics-embedded-software-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $101,405–$141,966/yr | Sep 10 |
 | **Blue Origin** | [Fluid Systems & Propulsion Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
+| **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **SpaceX** | [New Graduate Engineer, Software (Starship)](https://spacejobs.now/jobs/spacex/new-graduate-engineer-software-starship?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA and 1 more |  | Sep 8 |
 | **SpaceX** | [Structural Test Engineer (Starship)](https://spacejobs.now/jobs/spacex/structural-test-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 8 |
 | **SpaceX** | [Application Software Engineer, Internal Systems](https://spacejobs.now/jobs/spacex/application-software-engineer-internal-systems?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Sep 7 |

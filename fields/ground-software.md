@@ -1,11 +1,11 @@
 ---
 title: "Entry-level software and it jobs at space companies (new grad 2026 and 2027)"
-description: "93 open entry-level software and it roles at space companies in the US (SpaceX, Relativity Space, KBR, Blue Origin and more), updated daily."
+description: "95 open entry-level software and it roles at space companies in the US (SpaceX, Relativity Space, Blue Origin, KBR and more), updated daily."
 ---
 
 # Entry-level software and it jobs at space companies (new grad 2026 and 2027)
 
-**93 open in the United States at 22 companies, most at SpaceX, Relativity Space, KBR, Blue Origin, True Anomaly. Updated 26 Nov 2026.**
+**95 open in the United States at 23 companies, most at SpaceX, Relativity Space, Blue Origin, KBR, True Anomaly. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,17 +14,19 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
 | **SpaceX** | [Data Engineer, Application Software](https://spacejobs.now/jobs/spacex/data-engineer-application-software?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX |  | Nov 25 |
+| **United Launch Alliance** | [Systems Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more | $67,895–$113,159/yr | Nov 25 |
 | **Omitron** | [Junior Software Engineer (C++/Python)](https://spacejobs.now/jobs/omitron/junior-software-engineer-c-python?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 25 |
+| **Lockheed Martin** | [Software Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA and 1 more | $75,400–$140,000/yr | Nov 24 |
+| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 8 more | $67,000–$140,000/yr | Nov 24 |
 | **Iridium** | [Software Test Engineer I](https://spacejobs.now/jobs/iridium/software-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Chandler, AZ | $65,000–$81,000/yr | Nov 24 |
 | **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $135,000–$160,000/yr | Nov 20 |
 | **Viasat** | [Associate Software Engineer, Early Career](https://spacejobs.now/jobs/viasat/associate-software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $95,000–$150,000/yr | Nov 19 |
+| **Lockheed Martin** | [Software Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 1 more | $75,400–$140,000/yr | Nov 19 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Engineering Applications Software Engineer Level 1](https://spacejobs.now/jobs/jpl/engineering-applications-software-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Pasadena, CA | $93,080–$112,112/yr | Nov 18 |
 | **SpaceX** | [Software Engineer (Starship)](https://spacejobs.now/jobs/spacex/software-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Bastrop, TX and 2 more |  | Nov 17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://spacejobs.now/jobs/relativity-space/software-engineer-i-factory-platform?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $115,000–$173,000/yr | Nov 17 |
 | **AstroForge** | [Data Engineer](https://spacejobs.now/jobs/astroforge/data-engineer?utm_source=github&utm_medium=new-grad-list) | San Francisco, CA | $150,000–$175,000/yr | Nov 17 |
-| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 5 more | $67,000–$140,000/yr | Nov 16 |
 | **Viasat** | [Information Security Specialist, Early Career](https://spacejobs.now/jobs/viasat/information-security-specialist-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $75,000–$118,000/yr | Nov 13 |
-| **Lockheed Martin** | [Software Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA | $75,400–$140,000/yr | Nov 12 |
 | **Sierra Space** | [Software Engineer I - DevOps / DevSecOps](https://spacejobs.now/jobs/sierra-space/software-engineer-i-devops-devsecops?utm_source=github&utm_medium=new-grad-list) | Louisville, CO and 1 more | $83,999–$115,498/yr | Nov 12 |
 | **SpaceX** | [Data Engineer (Starship)](https://spacejobs.now/jobs/spacex/data-engineer-starship?utm_source=github&utm_medium=new-grad-list) | Starbase, TX |  | Nov 11 |
 | **The Aerospace Corporation** | [Jr. Data Solutions and Software Engineer](https://spacejobs.now/jobs/aerospace-corporation/jr-data-solutions-and-software-engineer?utm_source=github&utm_medium=new-grad-list) | El Segundo, CA |  | Nov 11 |
