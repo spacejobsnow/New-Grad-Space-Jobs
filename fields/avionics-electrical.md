@@ -1,11 +1,11 @@
 ---
 title: "Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)"
-description: "32 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Blue Origin, True Anomaly and more), updated daily."
+description: "32 open entry-level avionics and electrical roles at space companies in the US (SpaceX, NASA Jet Propulsion Laboratory (JPL), Firefly Aerospace, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level avionics and electrical jobs at space companies (new grad 2026 and 2027)
 
-**32 open in the United States at 16 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Blue Origin, True Anomaly, Rocket Lab. Updated 27 Nov 2026.**
+**32 open in the United States at 16 companies, most at SpaceX, NASA Jet Propulsion Laboratory (JPL), Firefly Aerospace, Rocket Lab, True Anomaly. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/avionics-electrical?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

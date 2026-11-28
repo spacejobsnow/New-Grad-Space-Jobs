@@ -1,11 +1,11 @@
 ---
 title: "Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)"
-description: "64 open entry-level space jobs in Washington (Blue Origin, SpaceX, Amazon Leo, Cowboy Space and more), updated daily."
+description: "63 open entry-level space jobs in Washington (Blue Origin, SpaceX, Amazon Leo, Cowboy Space and more), updated daily."
 ---
 
 # Entry-level space and aerospace jobs in Washington (new grad 2026 and 2027)
 
-**64 open at 6 companies, most at Blue Origin, SpaceX, Amazon Leo, Cowboy Space, Stoke Space. Updated 27 Nov 2026.**
+**63 open at 5 companies, most at Blue Origin, SpaceX, Amazon Leo, Cowboy Space, Stoke Space. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/washington?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -26,7 +26,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [Integration Technician I](https://spacejobs.now/jobs/blue-origin/integration-technician-i?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $24.74–$34.63/hr | Oct 28 |
 | **Blue Origin** | [Test Engineer I - TeraWave](https://spacejobs.now/jobs/blue-origin/test-engineer-i-terawave?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Oct 23 |
 | **Blue Origin** | [Robotics Engineer I](https://spacejobs.now/jobs/blue-origin/robotics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $110,623–$154,872/yr | Oct 12 |
-| **Lockheed Martin** | [Systems Engineer Associate - Entry Level](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-entry-level?utm_source=github&utm_medium=new-grad-list) | Silverdale, WA | $65,500–$121,700/yr | Sep 29 |
 | **Blue Origin** | [Finance & Accounting Rotation Program (Early Career)](https://spacejobs.now/jobs/blue-origin/finance-accounting-rotation-program-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $69,711–$97,595/yr | Sep 28 |
 | **Blue Origin** | [GSE & Tooling Engineer I - Early Career](https://spacejobs.now/jobs/blue-origin/gse-tooling-engineer-i-early-career?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 23 |
 | **Cowboy Space** | [TCA Mechanical Design Engineer Level 1](https://spacejobs.now/jobs/cowboy-space/tca-mechanical-design-engineer-level-1?utm_source=github&utm_medium=new-grad-list) | Kent, Washington | $116,000–$148,500/yr | Sep 21 |
@@ -35,6 +34,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [AM Applications Engineer - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/am-applications-engineer-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Manufacturing Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/manufacturing-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $69,015–$96,621/yr | Sep 10 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
+| **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **Blue Origin** | [Materials and Processes Engineer I - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/materials-and-processes-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Structural & Mechanical Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/structural-mechanical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $81,313–$113,838/yr | Sep 10 |
 | **Blue Origin** | [Thermal Engineer I - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/thermal-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $80,499–$112,698/yr | Sep 10 |
@@ -42,7 +42,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [Guidance, Navigation & Control Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/guidance-navigation-control-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $87,816–$122,942/yr | Sep 10 |
 | **Blue Origin** | [Electrical Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/electrical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $87,816–$122,942/yr | Sep 10 |
 | **Blue Origin** | [Fluid Systems & Propulsion Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/fluid-systems-propulsion-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
-| **Blue Origin** | [Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |
 | **Blue Origin** | [Software Development Engineer I - Early Career (2027 Starts)](https://spacejobs.now/jobs/blue-origin/software-development-engineer-i-early-career-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $110,623–$154,872/yr | Sep 10 |
 | **Blue Origin** | [Additive Machine Programmer Level 1](https://spacejobs.now/jobs/blue-origin/additive-machine-programmer-level-1?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $26.59–$37.22/hr | Sep 3 |
 | **SpaceX** | [Software Engineer, Flight Software (Starlink)](https://spacejobs.now/jobs/spacex/software-engineer-flight-software-starlink?utm_source=github&utm_medium=new-grad-list) | Redmond, WA | $125,000–$165,000/yr | Aug 26 |

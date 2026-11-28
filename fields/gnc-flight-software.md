@@ -5,7 +5,7 @@ description: "44 open entry-level flight software and gnc roles at space compani
 
 # Entry-level flight software and gnc jobs at space companies (new grad 2026 and 2027)
 
-**44 open in the United States at 18 companies, most at SpaceX, Blue Origin, True Anomaly, Relativity Space, Rocket Lab. Updated 27 Nov 2026.**
+**44 open in the United States at 18 companies, most at SpaceX, Blue Origin, True Anomaly, Relativity Space, Rocket Lab. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/gnc-flight-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -1,11 +1,11 @@
 ---
 title: "Entry-level software and it jobs at space companies (new grad 2026 and 2027)"
-description: "95 open entry-level software and it roles at space companies in the US (SpaceX, Relativity Space, Blue Origin, KBR and more), updated daily."
+description: "95 open entry-level software and it roles at space companies in the US (SpaceX, Relativity Space, KBR, True Anomaly and more), updated daily."
 ---
 
 # Entry-level software and it jobs at space companies (new grad 2026 and 2027)
 
-**95 open in the United States at 23 companies, most at SpaceX, Relativity Space, Blue Origin, KBR, True Anomaly. Updated 27 Nov 2026.**
+**95 open in the United States at 23 companies, most at SpaceX, Relativity Space, KBR, True Anomaly, Blue Origin. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/ground-software?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -17,7 +17,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **United Launch Alliance** | [Systems Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/systems-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO and 1 more | $67,895–$113,159/yr | Nov 25 |
 | **Omitron** | [Junior Software Engineer (C++/Python)](https://spacejobs.now/jobs/omitron/junior-software-engineer-c-python?utm_source=github&utm_medium=new-grad-list) | Albuquerque, NM |  | Nov 25 |
 | **Lockheed Martin** | [Software Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA and 1 more | $75,400–$140,000/yr | Nov 24 |
-| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 8 more | $67,000–$140,000/yr | Nov 24 |
+| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 6 more | $75,400–$140,000/yr | Nov 24 |
 | **Iridium** | [Software Test Engineer I](https://spacejobs.now/jobs/iridium/software-test-engineer-i?utm_source=github&utm_medium=new-grad-list) | Chandler, AZ | $65,000–$81,000/yr | Nov 24 |
 | **SpaceX** | [Full Stack Software Engineer (Build Reliability)](https://spacejobs.now/jobs/spacex/full-stack-software-engineer-build-reliability?utm_source=github&utm_medium=new-grad-list) | Hawthorne, CA | $135,000–$160,000/yr | Nov 20 |
 | **Viasat** | [Associate Software Engineer, Early Career](https://spacejobs.now/jobs/viasat/associate-software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Carlsbad, CA | $95,000–$150,000/yr | Nov 19 |

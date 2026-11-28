@@ -1,11 +1,11 @@
 ---
 title: "Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)"
-description: "58 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
+description: "57 open entry-level systems, integration and test roles at space companies in the US (Lockheed Martin, SpaceX, Blue Origin, Rocket Lab and more), updated daily."
 ---
 
 # Entry-level systems, integration and test jobs at space companies (new grad 2026 and 2027)
 
-**58 open in the United States at 23 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, United Launch Alliance. Updated 27 Nov 2026.**
+**57 open in the United States at 23 companies, most at Lockheed Martin, SpaceX, Blue Origin, Rocket Lab, United Launch Alliance. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/systems-test?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -25,7 +25,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lockheed Martin** | [Systems Integration/Test Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Nov 17 |
 | **Lockheed Martin** | [Systems Integration/Test Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Herndon, VA and 1 more | $65,500–$121,700/yr | Nov 17 |
 | **United Launch Alliance** | [Trajectory Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/trajectory-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $70,952–$118,253/yr | Nov 17 |
-| **Lockheed Martin** | [Systems Integration/Test Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO and 2 more | $58,200–$121,700/yr | Nov 16 |
+| **Lockheed Martin** | [Systems Integration/Test Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-integration-test-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Colorado Springs, CO | $58,200–$108,200/yr | Nov 16 |
 | **Lockheed Martin** | [Systems Engineer-IT Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-it-asc-early-career?utm_source=github&utm_medium=new-grad-list) | King of Prussia, PA | $65,500–$121,700/yr | Nov 12 |
 | **Firefly Aerospace** | [Launch Vehicle Integration Engineer I](https://spacejobs.now/jobs/firefly-aerospace/launch-vehicle-integration-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Nov 12 |
 | **Blue Origin** | [Solar PV Test Engineer III – Solar Center of Excellence](https://spacejobs.now/jobs/blue-origin/solar-pv-test-engineer-iii-solar-center-of-excellence?utm_source=github&utm_medium=new-grad-list) | Seattle, WA | $121,023–$169,432/yr | Nov 12 |
@@ -51,7 +51,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lockheed Martin** | [Systems Engineer Junior - MBSE Top Secret](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-junior-mbse-top-secret?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $79,300–$147,300/yr | Oct 6 |
 | **Lockheed Martin** | [System Integration & Test Engineer 1](https://spacejobs.now/jobs/lockheed-martin/system-integration-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Littleton, CO | $65,500–$121,700/yr | Oct 1 |
 | **L3Harris** | [Specialist, Integration and Test Engineer 1](https://spacejobs.now/jobs/l3harris/specialist-integration-and-test-engineer-1?utm_source=github&utm_medium=new-grad-list) | Palm Bay, FL |  | Oct 1 |
-| **Lockheed Martin** | [Systems Engineer Associate - Entry Level](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-associate-entry-level?utm_source=github&utm_medium=new-grad-list) | Silverdale, WA | $65,500–$121,700/yr | Sep 29 |
 | **Amazon Leo** | [Junior ASIC Design Verification Engineer](https://spacejobs.now/jobs/amazon-leo/junior-asic-design-verification-engineer?utm_source=github&utm_medium=new-grad-list) | San Diego, California | $122,600–$170,000/yr | Sep 25 |
 | **KBR** | [Jr PNT Engineer](https://spacejobs.now/jobs/kbr/jr-pnt-engineer?utm_source=github&utm_medium=new-grad-list) | Beavercreek Township, Ohio |  | Sep 15 |
 | **Blue Origin** | [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://spacejobs.now/jobs/blue-origin/aerospace-systems-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=new-grad-list) | Seattle, WA and 4 more | $74,537–$104,351/yr | Sep 10 |

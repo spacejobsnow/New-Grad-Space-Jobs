@@ -1,11 +1,11 @@
 ---
 title: "Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)"
-description: "60 open entry-level mechanical, structures and thermal roles at space companies in the US (Relativity Space, SpaceX, Blue Origin, United Launch Alliance and more), updated daily."
+description: "61 open entry-level mechanical, structures and thermal roles at space companies in the US (Relativity Space, SpaceX, Blue Origin, United Launch Alliance and more), updated daily."
 ---
 
 # Entry-level mechanical, structures and thermal jobs at space companies (new grad 2026 and 2027)
 
-**60 open in the United States at 14 companies, most at Relativity Space, SpaceX, Blue Origin, United Launch Alliance, Sierra Space. Updated 27 Nov 2026.**
+**61 open in the United States at 14 companies, most at Relativity Space, SpaceX, Blue Origin, United Launch Alliance, Sierra Space. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/mechanical-structures?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,11 +13,11 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
-| **Lockheed Martin** | [Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Sunnyvale, CA and 1 more | $65,500–$135,200/yr | Nov 25 |
+| **Lockheed Martin** | [Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Sunnyvale, CA | $72,800–$135,200/yr | Nov 25 |
 | **Relativity Space** | [New Grad 2027 - Thermal Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-thermal-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
 | **Relativity Space** | [New Grad 2027 - Aerodynamics Engineer I](https://spacejobs.now/jobs/relativity-space/new-grad-2027-aerodynamics-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
 | **Relativity Space** | [Vehicle Fluids Engineer I](https://spacejobs.now/jobs/relativity-space/vehicle-fluids-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Nov 24 |
-| **Lockheed Martin** | [Electro Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/electro-mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Huntsville, AL and 1 more | $58,200–$121,700/yr | Nov 20 |
+| **Lockheed Martin** | [Electro Mechanical Engineer Asc - Early Career](https://spacejobs.now/jobs/lockheed-martin/electro-mechanical-engineer-asc-early-career?utm_source=github&utm_medium=new-grad-list) | Huntsville, AL | $58,200–$108,200/yr | Nov 20 |
 | **Lockheed Martin** | [Mechanical Engineer Associate - Early Career](https://spacejobs.now/jobs/lockheed-martin/mechanical-engineer-associate-early-career?utm_source=github&utm_medium=new-grad-list) | Kings Bay Base, GA | $58,200–$108,200/yr | Nov 19 |
 | **United Launch Alliance** | [Mechanical Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
 | **United Launch Alliance** | [Structural Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/structural-engineer-1?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Nov 17 |
@@ -38,6 +38,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **United Launch Alliance** | [Strength Analyst 1 - Vulcan Development](https://spacejobs.now/jobs/united-launch-alliance/strength-analyst-1-vulcan-development?utm_source=github&utm_medium=new-grad-list) | Centennial, CO | $67,895–$113,159/yr | Oct 30 |
 | **United Launch Alliance** | [Weld Engineer 1](https://spacejobs.now/jobs/united-launch-alliance/weld-engineer-1?utm_source=github&utm_medium=new-grad-list) | Decatur, AL |  | Oct 30 |
 | **Relativity Space** | [Thermal Engineer I](https://spacejobs.now/jobs/relativity-space/thermal-engineer-i?utm_source=github&utm_medium=new-grad-list) | Long Beach, California | $90,000–$136,000/yr | Oct 29 |
+| **Firefly Aerospace** | [Launch Vehicle Mechanisms Engineer I](https://spacejobs.now/jobs/firefly-aerospace/launch-vehicle-mechanisms-engineer-i?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 29 |
 | **Firefly Aerospace** | [Composite M&P Engineer I](https://spacejobs.now/jobs/firefly-aerospace/composite-m-p-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 28 |
 | **Firefly Aerospace** | [Fluids GSE Design Engineer I](https://spacejobs.now/jobs/firefly-aerospace/fluids-gse-design-engineer-i?utm_source=github&utm_medium=new-grad-list) | Briggs, TX |  | Oct 28 |
 | **Firefly Aerospace** | [Structures Engineer I (Spacecraft)](https://spacejobs.now/jobs/firefly-aerospace/structures-engineer-i-spacecraft?utm_source=github&utm_medium=new-grad-list) | Cedar Park, TX |  | Oct 23 |

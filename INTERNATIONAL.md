@@ -1,6 +1,6 @@
 # New grad space jobs in Europe, Canada and Asia-Pacific
 
-44 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 27 Nov 2026.
+43 open entry-level roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=new-grad-list). Updated 28 Nov 2026.
 
 [Back to the United States list](README.md)
 
@@ -16,7 +16,6 @@
 | **SES** | [Junior Analyst, Security Operations](https://spacejobs.now/jobs/ses/junior-analyst-security-operations?utm_source=github&utm_medium=new-grad-list) | Bucharest, Romania |  | Nov 6 |
 | **Airbus Defence and Space** | [Microwave Instrument Digital & Signal Processing Engineer (entry-level)](https://spacejobs.now/jobs/airbus-defence-and-space/microwave-instrument-digital-signal-processing-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Getafe Area, Spain |  | Nov 4 |
 | **Airbus Defence and Space** | [Microwave Radiometer RF Engineer (entry level)](https://spacejobs.now/jobs/airbus-defence-and-space/microwave-radiometer-rf-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Getafe Area, Spain |  | Nov 4 |
-| **Lockheed Martin** | [SSE Electrical Engineer (Entry Level)](https://spacejobs.now/jobs/lockheed-martin/sse-electrical-engineer-entry-level?utm_source=github&utm_medium=new-grad-list) | Helensburgh, United Kingdom |  | Oct 31 |
 | **Thales Alenia Space** | [Junior Navigation System and Solution Architect](https://spacejobs.now/jobs/thales-alenia-space/junior-navigation-system-and-solution-architect?utm_source=github&utm_medium=new-grad-list) | Roma, Italy |  | Oct 30 |
 | **Thales Alenia Space** | [Ingénieur Validation & Automatisation Sol Junior - F/H](https://spacejobs.now/jobs/thales-alenia-space/ingenieur-validation-automatisation-sol-junior-f-h?utm_source=github&utm_medium=new-grad-list) | Toulouse, Haute-Garonne, France |  | Oct 30 |
 | **Eutelsat** | [Apprenti(e) Financial Planning & Analysis](https://spacejobs.now/jobs/eutelsat/apprenti-e-financial-planning-analysis?utm_source=github&utm_medium=new-grad-list) | Issy-Les-Moulineaux, France |  | Oct 30 |

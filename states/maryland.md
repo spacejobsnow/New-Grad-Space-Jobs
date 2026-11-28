@@ -5,7 +5,7 @@ description: "8 open entry-level space jobs in Maryland (Rocket Lab, Quantum Spa
 
 # Entry-level space and aerospace jobs in Maryland (new grad 2026 and 2027)
 
-**8 open at 4 companies, most at Rocket Lab, Quantum Space, Lockheed Martin, Intuitive Machines. Updated 27 Nov 2026.**
+**8 open at 4 companies, most at Rocket Lab, Quantum Space, Lockheed Martin, Intuitive Machines. Updated 28 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-jobs-no-experience/maryland?utm_source=github&utm_medium=new-grad-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,7 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Posted |
 |---|---|---|---|---|
 | **Rocket Lab** | [Receiving Inspector I](https://spacejobs.now/jobs/rocket-lab/receiving-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 25 |
-| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 8 more | $67,000–$140,000/yr | Nov 24 |
+| **Lockheed Martin** | [Software Engineer - Early Career](https://spacejobs.now/jobs/lockheed-martin/software-engineer-early-career?utm_source=github&utm_medium=new-grad-list) | Littleton, CO and 6 more | $75,400–$140,000/yr | Nov 24 |
 | **Quantum Space** | [Mechanical Engineer I](https://spacejobs.now/jobs/quantum-space/mechanical-engineer-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more | $85,000–$110,000/yr | Nov 17 |
 | **Quantum Space** | [Structural Analyst I](https://spacejobs.now/jobs/quantum-space/structural-analyst-i?utm_source=github&utm_medium=new-grad-list) | Rockville, MD and 1 more |  | Nov 16 |
 | **Rocket Lab** | [IQC Inspector I](https://spacejobs.now/jobs/rocket-lab/iqc-inspector-i?utm_source=github&utm_medium=new-grad-list) | Silver Spring, MD | $18–$23/hr | Nov 12 |
